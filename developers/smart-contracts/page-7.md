@@ -2,10 +2,11 @@
 
 **TalentLayerReview.sol** is the smart contract that handles reviews written to users' TalentLayer IDs.
 
-It can be broken up into a few parts:&#x20;
+It can be broken up used to:&#x20;
 
-* Initiation of a review by a user, listing a counterparty to invite
-* The minting of a review by a user
+* Initiate of a review for a user, listing a counter-party to invite
+* Mint a review to a user
+* Look up reviews
 
 ### View on Github
 

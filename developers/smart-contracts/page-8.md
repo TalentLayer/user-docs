@@ -1,11 +1,13 @@
 # TalentLayer ID
 
-**TalentLayerID.sol** is the smart contract that initializes a user's TalentLayer ID.
+**TalentLayerID.sol** is the smart contract that initialises a user's TalentLayer ID.
 
-It can be broken up into a few parts:&#x20;
+It can be used to:
 
-* Checking if a desired handle is taken by another TalentLayer ID
-* Minting a TalentLayer ID
+* Mint a TalentLayer ID
+* Link Proof of Humanity to your TalentLayerID
+* Initiate account recovery process
+* Look up TalentLayer users or their handles
 
 ### View on Github
 
