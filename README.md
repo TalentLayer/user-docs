@@ -22,16 +22,16 @@ TalentLayer Indie is the first implementation of the TalentLayer Protocol, a dec
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-talentlayer-id.md" %}
-[creating-your-talentlayer-id.md](guides/creating-your-talentlayer-id.md)
+{% content-ref url="user-guides/creating-your-talentlayer-id.md" %}
+[creating-your-talentlayer-id.md](user-guides/creating-your-talentlayer-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-job.md" %}
-[creating-your-first-job.md](guides/creating-your-first-job.md)
+{% content-ref url="user-guides/creating-your-first-job.md" %}
+[creating-your-first-job.md](user-guides/creating-your-first-job.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/leaving-mutual-reviews.md" %}
-[leaving-mutual-reviews.md](guides/leaving-mutual-reviews.md)
+{% content-ref url="user-guides/leaving-mutual-reviews.md" %}
+[leaving-mutual-reviews.md](user-guides/leaving-mutual-reviews.md)
 {% endcontent-ref %}
 
 ### Fundamentals: Dive a little deeper
