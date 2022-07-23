@@ -76,7 +76,6 @@
 //Unfilled Review Metadata
 {
     "role": "",
-    "transaction": "",
     "rating": "",
     "job_review": ""
 }
@@ -84,7 +83,6 @@
 //Example Review Metadata
 {
     "role": "hirer",
-    "transaction": "0xe452ac682d80793a354ed2b89efe30ba70b30a0205919740395e8ee5685c1f6d",
     "rating": "5",
     "job_review": "They did a great job. Will be hiring them again in the future. Prompt communication and timeley delivery."
 }
