@@ -29,9 +29,9 @@
 
 * [Network Support](developers/network-support.md)
 * [Smart Contracts](developers/smart-contracts/README.md)
-  * [TalentLayer ID](developers/smart-contracts/talentlayer-id.md)
-  * [TalentLayer Review](developers/smart-contracts/talentlayer-review.md)
-  * [Job Registry](developers/smart-contracts/job-registry.md)
-  * [Metadata](developers/smart-contracts/metadata.md)
+  * [TalentLayer ID](developers/smart-contracts/page-8.md)
+  * [TalentLayer Review](developers/smart-contracts/page-7.md)
+  * [Job Registry](developers/smart-contracts/page-6.md)
+  * [Metadata](developers/smart-contracts/page-5.md)
 * [Deployments](developers/deployments.md)
 * [Graph Schema](developers/graph-schema.md)

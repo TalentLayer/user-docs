@@ -1,7 +1,5 @@
 # Metadata
 
-
-
 ## On-Chain Metadata
 
 ### TalentLayer ID Metadata
