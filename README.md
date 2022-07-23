@@ -8,12 +8,6 @@ TalentLayer Indie is a reputation tool for independent freelancers. Similar to h
 
 TalentLayer Indie is the first implementation of the TalentLayer Protocol, a decentralized backend for talent marketplaces and sovereign work reputation system.
 
-## TalentLayer Indie Demo
-
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
 {% hint style="info" %}
 **Good to know:** TalentLayer Indie is currently in testing. If you have bugs to report, please reach out to us on Twitter at @TalentLayer
 {% endhint %}
@@ -36,7 +30,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 ### Fundamentals: Dive a little deeper
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+Learn the fundamentals of TalentLayer Indie to get a deeper understanding of our main features:
 
 {% content-ref url="talentlayer-id/what-is-talentlayer-id.md" %}
 [what-is-talentlayer-id.md](talentlayer-id/what-is-talentlayer-id.md)
