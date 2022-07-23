@@ -9,4 +9,4 @@ It can be broken up into a few parts:&#x20;
 
 ### View on Github
 
-{% embed url="https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerReview.sol" %}
+{% embed url="https://github.com/TalentLayer/talentlayer-id-contracts" %}
