@@ -12,11 +12,22 @@ TalentLayer Indie is the first implementation of the TalentLayer Protocol, a dec
 TalentLayer Indie is currently only available for desktop!
 {% endembed %}
 
+## Current Constraints & Status
+
 {% hint style="info" %}
 **Good to know:** TalentLayer Indie is currently in testing. If you have bugs to report, please reach out to us on Twitter at @TalentLayer
 {% endhint %}
 
-### Guides: Jump right in
+TalentLayer Indie is still in development. The following is a list of the current status of what components are live.
+
+| Feature           | Frontend    | Backend          |
+| ----------------- | ----------- | ---------------- |
+| Identity creation | Live        | Live             |
+| Identity recovery | In Progress | Ready to Go Live |
+| Job creator       | Live        | Live             |
+| Review system     | Live        | Live             |
+
+## Guides: Jump right in
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
@@ -32,7 +43,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [leaving-mutual-reviews.md](user-guides/leaving-mutual-reviews.md)
 {% endcontent-ref %}
 
-### Fundamentals: Dive a little deeper
+## Fundamentals: Dive a little deeper
 
 Learn the fundamentals of TalentLayer Indie to get a deeper understanding of our main features:
 
