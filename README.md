@@ -36,6 +36,13 @@ TalentLayer Indie is still in development. The following is a list of the curren
 
 ### Known Bugs & Build Issues
 
+#### Proof of Humanity Checker
+
+The POH address validator that is live now is still connected with our testing contract.  Instead of linking our contracts to the real POH contract, we created a fake POH contract where we could manually register people for testing. It's just a matter of switching contract address to make it work live.&#x20;
+
+\
+Solution: The "associate POH" system is not going to work for you on the current site. Please click "skip verification".
+
 #### Reload Glitch
 
 About: When you re-load a page, sometimes it throws an error saying "page not found".&#x20;
