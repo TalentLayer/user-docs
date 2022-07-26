@@ -8,6 +8,10 @@ TalentLayer Indie is a reputation tool for independent freelancers. Similar to h
 
 TalentLayer Indie is the first implementation of the TalentLayer Protocol, a decentralized backend for talent marketplaces and sovereign work reputation system.
 
+{% embed url="https://www.indie.talentlayer.org" %}
+TalentLayer Indie is currently only available for desktop!
+{% endembed %}
+
 {% hint style="info" %}
 **Good to know:** TalentLayer Indie is currently in testing. If you have bugs to report, please reach out to us on Twitter at @TalentLayer
 {% endhint %}
