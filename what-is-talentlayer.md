@@ -8,6 +8,14 @@ TalentLayer is composable, decentralized, open-source infrastructure for talent 
 
 TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a universal reputation system and jobs repository that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces. Marketplaces that build on TalentLayer receive rewards by onboarding talent and jobs.
 
+### Integrate TalentLayer
+
+Currently, TalentLayer's identity system and jobs system are in development. The first live implementation of these systems is an independent freelancer reputation tool, [TalentLayer Indie](./).&#x20;
+
+Integrating the existing version of TalentLayer's identity & reputation system and/or jobs system does not guarantee that your implementation will interface with the eventual TalentLayer interoperable jobs repository or reputation system. We are still working on the standardization of data points and reference data that we read into the TalentLayer graph.&#x20;
+
+Thank you for your patience as we work towards our interoperable system - we implore you to integrate what's been built and try out the system on your marketplace.&#x20;
+
 ### Meet TalentLayer
 
 Get to know TalentLayer's vision by visiting our website:
