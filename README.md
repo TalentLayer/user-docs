@@ -24,7 +24,7 @@ TalentLayer Indie is currently only available for desktop!
 
 TalentLayer Indie is still in development. The following is a list of the current status of what components are live.
 
-
+### Component Status
 
 | Feature           | Frontend    | Backend          |
 | ----------------- | ----------- | ---------------- |
