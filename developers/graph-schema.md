@@ -4,39 +4,59 @@
 
 The TalentLayer Id Subgraph is hosted with [The Graph](https://thegraph.com/en/).
 
-## Interacting with the Schema
+## Exploring the Schema
 
-The TalentLayer ID Schema can be interacted with via the following URL.
+The TalentLayer ID Schema can be explored via the following URLs.&#x20;
 
-Query URL: [https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id](https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id)
+Explorer: [https://graphiql-online.com/](https://graphiql-online.com/)
 
-## Schema
+GraphQL Endpoint URL: [https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id](https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id)
+
+TalentLayer's Graph can query and sort many diverse datapoints on jobs, reputations, identities, and how they associate with one another.&#x20;
+
+## Querying the Schema
+
+Use the following endpoint to query the schema.
+
+GraphQL Endpoint URL: [https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id](https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id)
+
+### Schema Components
 
 ```graphql
+enum JobStatus {
+  Initialized
+  Confirmed
+  Rejected
+  Finished
+}
+
 type Job @entity {
-  id: ID!
-  employerId: BigInt!
-  employeeId: BigInt!
-  initiatorId: BigInt!
-  jobDataUri: String
+  id: ID! # job token id
+  status: JobStatus! # job status
+  employer: User # job employer
+  employee: User # job employee
+  sender: User # user that created the job (employer or employee)
+  recipient: User # other participating user (employee or employer)
+  uri: String # metadata URI of job
 }
 
 type Review @entity {
-  id: ID! # totalSupply (unique id)
-  jobId: BigInt!
-  toId: BigInt!
-  reviewUri: String!
+  id: ID! # review token id
+  job: Job! # job this review is for
+  to: User! # reviewed user
+  uri: String! # metadata URI of review
 }
 
 type User @entity {
-  id: ID!
-  userTokenId: BigInt!
-  handle: String!
-  withPoh: Boolean!
+  id: ID! # user token id
+  address: String! # wallet address of user
+  uri: String! # metadata URI of profile
+  handle: String! # handle of user
+  withPoh: Boolean! # whether user has proof of identity
+  numReviews: BigInt! # number of reviews user has received
+  rating: BigDecimal! # average rating from reviews user has received
+  reviews: [Review!] @derivedFrom(field: "to") # reviews of user
+  employerJobs: [Job!] @derivedFrom(field: "employer") # jobs user is an employer for
+  employeeJobs: [Job!] @derivedFrom(field: "employee") # jobs user is an employee for
 }
 ```
-
-
-
-
-
