@@ -35,3 +35,4 @@
   * [Metadata](developers/smart-contracts/page-5.md)
 * [Deployments](developers/deployments.md)
 * [Graph Schema](developers/graph-schema.md)
+* [Glossary](developers/glossary.md)
