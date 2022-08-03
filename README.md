@@ -8,7 +8,9 @@ TalentLayer Indie is a reputation tool for independent freelancers. Similar to h
 
 TalentLayer Indie is the first implementation of the TalentLayer Protocol, a decentralized backend for talent marketplaces and sovereign work reputation system.
 
-All TalentLayer components are available on Github with an Apache 2.0 license.&#x20;
+The TalentLayer team created Indie to serve as a fork-able base for a marketplace that anyone can take, iterate on, and use to interact with the TalentLayer protocol. Over time, we will be shipping updates to Indie to expand it's functionality as new features launch on TalentLayer.&#x20;
+
+All TalentLayer and TalentLayer Indie components are available on Github with an Apache 2.0 license.&#x20;
 
 ### Use TalentLayer Indie
 
