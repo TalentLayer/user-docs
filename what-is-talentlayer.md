@@ -9,7 +9,7 @@ TalentLayer is composable, decentralized, open-source infrastructure for talent 
 TalentLayer Core is composed of the following key components:
 
 * TalentLayer ID Universal Reputation System \[live]
-* TalentLayer Universal Jobs Repo \[live]
+* TalentLayer Universal Jobs System \[live]
 * Escrow System \[not live]
 * Decentralized Dispute Resolution System \[not live]
 
@@ -17,7 +17,7 @@ TalentLayer creates a paradigm shift in how freelance marketplaces operate by cr
 
 ### Integrate TalentLayer
 
-Currently, TalentLayer's identity system and jobs system are in development. The first live implementation of these systems is an independent freelancer reputation tool, [TalentLayer Indie](./).&#x20;
+Currently, TalentLayer's identity system and jobs system are live in production - they are activly being updated with improvements. The first live implementation of these systems in a platform can be found here: an independent freelancer reputation tool, [TalentLayer Indie](./).&#x20;
 
 The current version of TalentLayer Core is most suitable for use in platforms that already have an escrow system. If you want to integrate TalentLayer's identity system but you do not already have an escrow system, we recommend integrating Kleros's escrow system, which can be found [here](https://github.com/kleros/escrow). TalentLayer's eventual identity system will be based on Kleros, and if you build an integration with their standard, it will be easily updated to the TalentLayer escrow system upon release.
 
