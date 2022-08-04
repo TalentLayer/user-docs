@@ -4,11 +4,11 @@
 **Good to know:** TalentLayer Indie is the first platform built on TalentLayer Protocol.&#x20;
 {% endhint %}
 
-TalentLayer Indie is the first platform integrated with TalentLayer Core, a decentralized backend for talent marketplaces and sovereign work reputation system.
+TalentLayer Indie is a demo DAPP that serves as the first platform integrated with TalentLayer Core.
 
-Indie is a reputation tool for independent freelancers. Similar to how you can build up a reputation over time by completing work and receiving reviews on freelancing platforms like Upwork or [Freelancer.com](http://freelancer.com), now you and your independent clients can create verified reviews to signal one another’s trustworthiness.
+The TalentLayer team created Indie to serve as a fork-able base for a marketplace that anyone can take, iterate on, and borrow components from to interact with the TalentLayer protocol. Over time, we will be shipping updates to Indie to improve UI and expand its functionality as new features launch on TalentLayer.&#x20;
 
-The TalentLayer team created Indie to serve as a fork-able base for a marketplace that anyone can take, iterate on, and use to interact with the TalentLayer protocol. Over time, we will be shipping updates to Indie to expand its functionality as new features launch on TalentLayer.&#x20;
+The Indie demo DAPP is styled as a reputation tool for independent freelancers. Similar to how you can build up a reputation over time by completing work and receiving reviews on freelancing platforms like Upwork or [Freelancer.com](http://freelancer.com), now you and your independent clients can create verified reviews to signal one another’s trustworthiness.
 
 All TalentLayer and TalentLayer Indie components are available on Github with an Apache 2.0 license.&#x20;
 
