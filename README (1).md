@@ -12,12 +12,6 @@ The TalentLayer team created Indie to serve as a fork-able base for a marketplac
 
 All TalentLayer and TalentLayer Indie components are available on Github with an Apache 2.0 license.&#x20;
 
-### Use TalentLayer Indie
-
-{% embed url="https://www.indie.talentlayer.org" %}
-TalentLayer Indie is currently only available for desktop!
-{% endembed %}
-
 ## Current Constraints & Status
 
 {% hint style="info" %}
@@ -62,6 +56,10 @@ Status: The backend for recovery via Proof of Humanity is built, just not live y
 About: Right now the frontend for "search reputation" only shows all reputation updates ever to be made for anyone (displayed in a sort of running list).&#x20;
 
 Status: We just need to update the Graphql request on the backend and plug it into the front end to make this functional.
+
+## Use TalentLayer Indie
+
+{% embed url="https://www.indie.talentlayer.org" %}
 
 ## Guides: Jump right in
 
