@@ -16,7 +16,7 @@
 
 **TalentLayer ID:** TalentLayer ID is a work identity that allows you to own and grow one reputation across many gig marketplaces. TalentLayer IDs are ERC 721 NFTs that live in your crypto wallet; this means your reputation is self-custodied by you and lives separately from the marketplaces you find work on. TalentLayer IDs are “soul-bound” in that they can not leave the originating wallet unless a recovery is initiated.
 
-**Reputation ID (or Reputation NFT):** A Reputation NFT is a ERC 721 NFT that is associated with your TalentLayer ID. New Reputation NFTs are minted whenever you complete a job (as a hirer or a freelancer) on TalentLayer. They include information about the job completed and a review from the other party. You can have an unlimited number of Reputation NFTs. Hirers leave Reputation NFTs for freelancers and freelancers leave Reputation NFTs for hirers - a mutual-review system.
+**Reputation ID (or Review NFT):** A Reputation NFT is a ERC 721 NFT that is associated with your TalentLayer ID. New Reputation NFTs are minted whenever you complete a job (as a hirer or a freelancer) on TalentLayer. They include information about the job completed and a review from the other party. You can have an unlimited number of Reputation NFTs. Hirers leave Reputation NFTs for freelancers and freelancers leave Reputation NFTs for hirers - a mutual-review system.
 
 ### TalentLayer Core Versions
 
