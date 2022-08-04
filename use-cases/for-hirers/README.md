@@ -2,12 +2,12 @@
 
 TalentLayer can you as a hirer search the reputations of the freelancers and write and receive reviews from the people that you do business with.&#x20;
 
-{% content-ref url="../../indie-user-guide/searching-reputations.md" %}
-[searching-reputations.md](../../indie-user-guide/searching-reputations.md)
+{% content-ref url="../../user-guides/searching-reputations.md" %}
+[searching-reputations.md](../../user-guides/searching-reputations.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../indie-user-guide/creating-your-first-job.md" %}
-[creating-your-first-job.md](../../indie-user-guide/creating-your-first-job.md)
+{% content-ref url="../../user-guides/creating-your-first-job.md" %}
+[creating-your-first-job.md](../../user-guides/creating-your-first-job.md)
 {% endcontent-ref %}
 
 {% content-ref url="writing-a-good-job-description.md" %}
