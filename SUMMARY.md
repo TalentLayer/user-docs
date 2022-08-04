@@ -1,14 +1,14 @@
 # Table of contents
 
-* [What is TalentLayer Indie?](README.md)
-* [What is TalentLayer?](what-is-talentlayer.md)
+* [What is TalentLayer Core?](README.md)
+* [What is TalentLayer Indie?](<README (1).md>)
 
-## 🤷 User Guides
+## 🤷 Indie User Guide
 
-* [Creating your TalentLayer ID](user-guides/creating-your-talentlayer-id.md)
-* [Creating your first job](user-guides/creating-your-first-job.md)
-* [Leaving mutual reviews](user-guides/leaving-mutual-reviews.md)
-* [Searching reputations](user-guides/searching-reputations.md)
+* [Creating your TalentLayer ID](indie-user-guide/creating-your-talentlayer-id.md)
+* [Creating your first job](indie-user-guide/creating-your-first-job.md)
+* [Leaving mutual reviews](indie-user-guide/leaving-mutual-reviews.md)
+* [Searching reputations](indie-user-guide/searching-reputations.md)
 
 ## 🆔 TalentLayer ID
 

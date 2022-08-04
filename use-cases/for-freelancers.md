@@ -22,8 +22,8 @@ _A personal search engine for jobs posted to TalentLayer_
 
 ### Set up a TalentLayer ID
 
-{% content-ref url="../user-guides/creating-your-talentlayer-id.md" %}
-[creating-your-talentlayer-id.md](../user-guides/creating-your-talentlayer-id.md)
+{% content-ref url="../indie-user-guide/creating-your-talentlayer-id.md" %}
+[creating-your-talentlayer-id.md](../indie-user-guide/creating-your-talentlayer-id.md)
 {% endcontent-ref %}
 
 __
