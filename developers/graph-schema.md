@@ -1,12 +1,12 @@
 # Graph Schema
 
-## TalentLayer ID Subgraph
+## TalentLayer Subgraph
 
-The TalentLayer Id Subgraph is hosted with [The Graph](https://thegraph.com/en/).
+The TalentLayer Subgraph is hosted on [The Graph](https://thegraph.com/en/)'s decentralized managed hosting service. In late 2022 we will be migrating to our own hosting on FileCoin.
 
 ## Exploring the Schema
 
-The TalentLayer ID Schema can be explored via the following URLs.&#x20;
+The TalentLayer Graph Schema can be explored via the following URLs.&#x20;
 
 Explorer: [https://graphiql-online.com/](https://graphiql-online.com/)
 
