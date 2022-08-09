@@ -1,6 +1,6 @@
 # Job Registry
 
-**JobRegistry.sol** is the smart contract that creates an instance of a job.
+**JobRegistry.sol** is the smart contract that creates an instance of a job. Jobs are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Jobs can be deleted or updated easily.&#x20;
 
 It can be broken up into a few parts:&#x20;
 

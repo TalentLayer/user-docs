@@ -1,6 +1,6 @@
 # TalentLayer ID
 
-**TalentLayerID.sol** is the smart contract that initialises a user's TalentLayer ID.
+**TalentLayerID.sol** is the smart contract that initialises a user's TalentLayer ID. TalentLayer IDs are minted as NFTs.&#x20;
 
 It can be used to:
 
