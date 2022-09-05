@@ -89,8 +89,8 @@ Learn the fundamentals of TalentLayer Indie to get a deeper understanding of our
 [talentlayer-id-handle.md](talentlayer-id/talentlayer-id-handle.md)
 {% endcontent-ref %}
 
-{% content-ref url="talentlayer-id/proof-of-humanity.md" %}
-[proof-of-humanity.md](talentlayer-id/proof-of-humanity.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="talentlayer-id/reviews-and-reputation.md" %}

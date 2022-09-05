@@ -10,7 +10,10 @@ The TalentLayer Graph Schema can be explored via the following URLs.&#x20;
 
 Explorer: [https://graphiql-online.com/](https://graphiql-online.com/)
 
-GraphQL Endpoint URL: [https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id](https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id)
+| Blockchain              | Endpoint                                                                                                                                               |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Gnosis/xDAO             | [https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id](https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id)         |
+| Ethereum Goerli Testnet | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol) |
 
 TalentLayer's Graph can query and sort many diverse datapoints on jobs, reputations, identities, and how they associate with one another.&#x20;
 

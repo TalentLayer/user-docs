@@ -7,6 +7,20 @@
 | TalentLayer ID Contract     | `0x45Cd9E9C04d0701b23089C44Faa807932996717E` |
 | TalentLayer Review Contract | `0x8685C7359DeE31703a1f47F8dabad7879148cFCf` |
 | TalentLayer Job Registry    | `0xFAe97514c8e94501E66F0AEf84E4Cccb7eb2EB84` |
+| Mock Proof of Humanity      | 0xc7729F499f3D81643597a1e1666E9b6F8D702F8D   |
+
+Proof of Humanity does not currently support Gnosis Chain. We've set up a mock POH contract for now. If you want to add a spoof identity to our mock contract for your testing purposes, please reach out to us on Twitter @TalentLayer.&#x20;
+
+## Ethereum (Goerli Testnet) Deployments
+
+| Name                        | Address                                    |
+| --------------------------- | ------------------------------------------ |
+| TalentLayer ID Contract     | 0x89b0d7A8B7B3c23d03c471F7c28197655c3A192B |
+| TalentLayer Review Contract | 0x4F8f04B675B0ef2A0AA7C8B93D4c2d5FfFCd9Ae1 |
+| TalentLayer Job Registry    | 0xC51537E03f56650C63A9Feca4cCb5a039c77c822 |
+| Mock Proof of Humanity      | 0x05D8A2E01EB06c284ECBae607A2d0c2BE946Bf49 |
+
+Proof of Humanity does not currently support Goerli testnet. We've set up a mock POH contract for now. If you want to add a spoof identity to our mock contract for your testing purposes, please reach out to us on Twitter @TalentLayer.&#x20;
 
 ## Ethereum (Kovan Testnet) Deployments
 
@@ -15,3 +29,8 @@
 | TalentLayer ID Contract     | 0x6A5BF452108DA389B7B38284E871f538671Ad375 |
 | TalentLayer Review Contract | 0x863751792aa2dab3554b08b5ba9b336b134ae3ed |
 | TalentLayer Job Registry    | 0x24cEd045b50cF811862B1c33dC6B1fbC8358F521 |
+| Proof of Humanity           | 0x73bcce92806bce146102c44c4d9c3b9b9d745794 |
+
+Proof of Humanity has an official deployment on ETH Kovan Testnet. Resources for interacting with spoof identities can be found here.
+
+{% embed url="https://gov.proofofhumanity.id/t/resources-developing-on-the-kovan-testnet/776" %}

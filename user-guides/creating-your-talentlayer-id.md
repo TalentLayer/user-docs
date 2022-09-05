@@ -18,6 +18,6 @@
 
 Proof of Humanity is a identity system that you can optinally associate with your TalentLayer ID. Learn more about Proof of Humanity:&#x20;
 
-{% content-ref url="../talentlayer-id/proof-of-humanity.md" %}
-[proof-of-humanity.md](../talentlayer-id/proof-of-humanity.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

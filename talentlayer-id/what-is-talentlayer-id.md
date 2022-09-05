@@ -18,6 +18,6 @@ Creating a TalentLayer ID can be done using the TalentLayer Indie freelancing to
 [talentlayer-id-recovery.md](talentlayer-id-recovery.md)
 {% endcontent-ref %}
 
-{% content-ref url="proof-of-humanity.md" %}
-[proof-of-humanity.md](proof-of-humanity.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
