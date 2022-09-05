@@ -1,7 +1,7 @@
 # What is TalentLayer Core?
 
 {% hint style="info" %}
-**Good to know:** TalentLayer is currently in development.&#x20;
+**Good to know:** TalentLayer is currently in development. Our Pre-Alpha is live on Gnosis Mainnet and various ETH Testnets. If you have questions in integrating, get in touch with us on [Twitter @TalentLayer.](https://twitter.com/TalentLayer)
 {% endhint %}
 
 TalentLayer Core is composable, decentralized, open-source infrastructure for talent markets; allowing anyone to easily build interoperable gig marketplaces. It is designed to empower workers to own their own reputation and access jobs without limitation. TalentLayer’s Alpha is currently in development.
