@@ -22,6 +22,7 @@
   * [Job Registry](developers/smart-contracts/page-6.md)
   * [Metadata](developers/smart-contracts/page-5.md)
 * [Graph Schema](developers/graph-schema.md)
+* [Local Environment Setup](developers/local-environment-setup.md)
 * [Glossary](developers/glossary.md)
 
 ## 🤷 Indie User Guide
