@@ -11,5 +11,5 @@ When a review is left for you by a counter-party, a Reputation Element is create
 If you initiate an emergency account recovery, your reputation element NFTs will follow your TalentLayer ID to your new wallet.
 
 {% hint style="info" %}
-**Good to know:** Right now, there is no way to remove a review after it has been written. TalentLayer will eventually roll out a method for reviews that both parties agree should be removed to be deleted.&#x20;
+**Good to know:** Right now, there is no way to remove a review after it has been written. TalentLayer is working on a method for reviews that both parties agree should be removed to be deleted.&#x20;
 {% endhint %}

@@ -1,15 +1,23 @@
 # Table of contents
 
 * [What is TalentLayer Core?](README.md)
-* [What is TalentLayer Indie?](<README (1).md>)
+* [What is Indie?](what-is-indie.md)
 
-## 🆔 TalentLayer ID
+## 🆔 Work Reputation Module
 
-* [What is TalentLayer ID?](talentlayer-id/what-is-talentlayer-id.md)
-* [TalentLayer ID Handle](talentlayer-id/talentlayer-id-handle.md)
-* [Reviews and Reputation](talentlayer-id/reviews-and-reputation.md)
-* [TalentLayer ID Recovery](talentlayer-id/talentlayer-id-recovery.md)
-* [Hiring & Being Hired](talentlayer-id/hiring-and-being-hired.md)
+* [What is TalentLayer ID?](work-reputation-module/what-is-talentlayer-id.md)
+* [Reviews and Reputation](work-reputation-module/reviews-and-reputation.md)
+* [TalentLayer ID Recovery](work-reputation-module/talentlayer-id-recovery.md)
+
+## 👷 Work Facilitation Module
+
+* [Jobs & Proposals](work-facilitation-module/jobs-and-proposals.md)
+* [Escrow & Dispute System](work-facilitation-module/escrow-and-dispute-system.md)
+
+## 🛠 Integration Guides
+
+* [🌳 Existing Platforms](integration-guides/existing-platforms.md)
+* [🌿 New Platforms](integration-guides/new-platforms.md)
 
 ## 💻 Developers
 

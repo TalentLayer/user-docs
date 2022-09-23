@@ -2,6 +2,10 @@
 
 Account recovery allows you to request that your TalentLayer ID be associated with a new wallet, and verify that you own the new wallet via a cryptographic proof.
 
+{% hint style="info" %}
+**Good To Know:** Platforms can optionally implement recovery flows for their users. These flows are not required as core functionality for TalentLayer.
+{% endhint %}
+
 ## Initiate a Recovery
 
 In order to initiate a TalentLayer ID recovery, you will need to have three things:

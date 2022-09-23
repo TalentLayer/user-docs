@@ -1,10 +1,6 @@
-# What is TalentLayer Indie?
+# What is Indie?
 
-{% hint style="info" %}
-**Good to know:** TalentLayer Indie is the first platform built on TalentLayer Protocol.&#x20;
-{% endhint %}
-
-TalentLayer Indie is a demo DAPP that serves as the first platform integrated with TalentLayer Core.
+Indie is a demo DAPP that serves as the first platform integrated with TalentLayer Core.
 
 The TalentLayer team created Indie to serve as a fork-able base for a marketplace that anyone can take, iterate on, and borrow components from to interact with the TalentLayer protocol. Over time, we will be shipping updates to Indie to improve UI and expand its functionality as new features launch on TalentLayer.&#x20;
 
@@ -18,7 +14,7 @@ All TalentLayer and TalentLayer Indie components are available on Github with an
 **Good to know:** TalentLayer Indie is currently in testing. If you have bugs to report, please reach out to us on Twitter at @TalentLayer
 {% endhint %}
 
-TalentLayer Indie is still in development. The following is a list of the current status of what components are live.
+Indie is still in development. The following is a list of the current status of what components are live.
 
 ### Component Status
 
@@ -57,7 +53,7 @@ About: Right now the frontend for "search reputation" only shows all reputation 
 
 Status: We just need to update the Graphql request on the backend and plug it into the front end to make this functional.
 
-## Use TalentLayer Indie
+## Explore Indie
 
 {% embed url="https://www.indie.talentlayer.org" %}
 
@@ -79,20 +75,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 ## Fundamentals: Dive a little deeper
 
-Learn the fundamentals of TalentLayer Indie to get a deeper understanding of our main features:
+Learn the fundamentals of TalentLayer to get a deeper understanding of our main features:
 
-{% content-ref url="talentlayer-id/what-is-talentlayer-id.md" %}
-[what-is-talentlayer-id.md](talentlayer-id/what-is-talentlayer-id.md)
-{% endcontent-ref %}
-
-{% content-ref url="talentlayer-id/talentlayer-id-handle.md" %}
-[talentlayer-id-handle.md](talentlayer-id/talentlayer-id-handle.md)
+{% content-ref url="work-reputation-module/what-is-talentlayer-id.md" %}
+[what-is-talentlayer-id.md](work-reputation-module/what-is-talentlayer-id.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="talentlayer-id/reviews-and-reputation.md" %}
-[reviews-and-reputation.md](talentlayer-id/reviews-and-reputation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="work-reputation-module/reviews-and-reputation.md" %}
+[reviews-and-reputation.md](work-reputation-module/reviews-and-reputation.md)
 {% endcontent-ref %}

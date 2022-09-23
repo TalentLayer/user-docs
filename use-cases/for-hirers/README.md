@@ -14,6 +14,6 @@ TalentLayer can you as a hirer search the reputations of the freelancers and wri
 [writing-a-good-job-description.md](writing-a-good-job-description.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../talentlayer-id/reviews-and-reputation.md" %}
-[reviews-and-reputation.md](../../talentlayer-id/reviews-and-reputation.md)
+{% content-ref url="../../work-reputation-module/reviews-and-reputation.md" %}
+[reviews-and-reputation.md](../../work-reputation-module/reviews-and-reputation.md)
 {% endcontent-ref %}
