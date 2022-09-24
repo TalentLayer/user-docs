@@ -27,10 +27,17 @@ GraphQL Endpoint URL: [https://api.thegraph.com/subgraphs/name/talentlayerid/tal
 
 ```graphql
 enum JobStatus {
-  Initialized
-  Confirmed
+  Filled,
+  Confirmed,
+  Finished,
+  Rejected,
+  Opened
+}
+
+enum ProposalStatus {
+  Pending,
+  Validated,
   Rejected
-  Finished
 }
 
 type Job @entity {
