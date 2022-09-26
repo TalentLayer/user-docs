@@ -7,98 +7,121 @@ description: >-
 
 # Local Environment Setup
 
-## Installations&#x20;
+## Requirements &#x20;
 
-Install Docker&#x20;
+→ Git clone or Update your branches
 
-Update your branches (this is needed to have the last added events and Docker folder)
+```
+git clone https://github.com/TalentLayer/talentlayer-id-contracts.git
+```
 
-Add Hardhat RPC in Metamask
+```
+git clone https://github.com/TalentLayer/talentlayer-id-dapp.git
+```
 
-## Contract Setup&#x20;
+```
+git clone https://github.com/TalentLayer/talentlayer-id-subgraph.git
+```
 
-Create a local chain:&#x20;
+→ Run `npm i` in each folder
+
+→ Install docker ([https://www.docker.com/](https://www.docker.com/))
+
+## Contract folder Setup&#x20;
+
+{% hint style="info" %}
+In the [talentlayer-id-contracts](https://github.com/TalentLayer/talentlayer-id-contracts)
+{% endhint %}
+
+→ Please read and fill the **.env** file with your information
+
+For local setting, ETHERSCAN\_API\_KEY & GNOSIS\_API\_KEY are optional
+
+→ Create a local chain:&#x20;
 
 ```
 npx hardhat node 
 ```
 
-Deploy the contract:
+→ Run&#x20;
 
 ```
-npx hardhat deploy --use-pohmock --network localhost 
+make install
 ```
 
-Mint a talentLayerId:&#x20;
+Please read the Makefile in you need information on the deployment process
+
+
+
+## Indie Subgraph folder Setup&#x20;
+
+{% hint style="info" %}
+In the [talentlayer-id-subgraph](https://github.com/TalentLayer/talentlayer-id-subgraph)
+{% endhint %}
+
+→ Launch the docker run-graph-node.sh&#x20;
 
 ```
-npx hardhat run scripts/playground/mint-ID.ts --network localhost 
-```
-
-## Graph Setup
-
-Update manually the json (network.json file) with new contracts addresses and set up startBlock to 0&#x20;
-
-Optional: if your branch was not up to date - run « `npm run codegen` » to have the generated folder
-
-Build the config: update subgraph.yaml:&#x20;
-
-```
-graph build --network xdai 
-
-// if the above command don't work use the following
-npm run build --network xdai
-
-// check if the network.json address are the same in the subgraph.yaml + startBlock to 0
-```
-
-Launch the docker run-graph-node.sh&#x20;
-
-```
-//On Windows, bash terminal
-
 sh run-graph-node.sh
 ```
 
-Deploy the new graph:&#x20;
+→ Run &#x20;
 
 ```
-npm run remove-local 
-npm run create-local
-npm run deploy-local
+make regenerate
 ```
 
-## Indie Dapp Setup&#x20;
 
-Update .env with the following
+
+## Dapp folder Setup
+
+{% hint style="info" %}
+In the [talentlayer-id-dapp](https://github.com/TalentLayer/talentlayer-id-dapp)
+{% endhint %}
+
+→ Update .env with the following
 
 ```
 REACT_APP_NETWORK_ID=1337
 REACT_APP_SUBGRAPH_URL='http://localhost:8000/subgraphs/name/talentlayer/talent-layer-protocol'
 ```
 
-&#x20;Update config/app.ts with new contract addresses in const local part&#x20;
+{% hint style="info" %}
+localhost = 1337 / Mainnet = 1 / Gnosis = 100 / Kovan = 42 / Goerli =5
+{% endhint %}
+
+→ run
 
 ```
-rpcUrl: http://127.0.0.1:8545/
+npm run start
 ```
 
-## Common Issues
+## Others networks
 
-### xDAI Network Issue
+Please find below the changes to apply before launching all the installation commands&#x20;
 
-If you have « Xdai network problem » please re launch the run-graph-node.sh&#x20;
+For Goerli network
 
-### Docker Issue
+{% hint style="info" %}
+In the [talentlayer-id-contracts](https://github.com/TalentLayer/talentlayer-id-contracts)
+{% endhint %}
 
-If you have a docker problem, please check that you launch your hardhat node before the docker containers
+→ Duplicate the `talent.config_localhost.json` file & Rename it in `talent.config_goerli.json`
 
-### Gluegun Problem&#x20;
+→ In the .env file, please replace **localhost** by **goerli** on the `DEPLOY_NETWORK` variable
 
-If you have a problem with gluegun problem, please run:&#x20;
+{% hint style="info" %}
+In the [talentlayer-id-dapp](https://github.com/TalentLayer/talentlayer-id-dapp)
+{% endhint %}
+
+→ In the .env file, please change the REACT\_APP\_NETWORK\_ID with 5 (goerli)
+
+→ In the config > app.ts please add
 
 ```
-npm i -D gluegun
+import configGoerli from '../autoconfig/talent.config_goerli.json';
 ```
 
-If you have any other issues, please reach out to our team on Twitter @Talentlayer.&#x20;
+## Support
+
+If you have any other issues or need help, please reach out to our team on Twitter @Talentlayer.&#x20;
