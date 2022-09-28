@@ -25,7 +25,25 @@ Copy the Wiki Template!&#x20;
 [wiki-template.md](wiki-template.md)
 {% endcontent-ref %}
 
+### Making an Entry With CLI
 
+1. Find the our [TlalentLayer User Docs repo](https://github.com/TalentLayer/indie-user-docs) in Github
+2. Make a pull request for the most recent version
+3. Make your edits!
+4. Merge to main. Every change request merge will result in a commit to our User Docs repo.
 
+#### More information
 
+{% embed url="https://docs.gitbook.com/getting-started/git-sync/content-configuration" %}
+
+### Making an Entry With the Browser Editer
+
+This requires logging in with our team Github account @talentlayer. It's easier to use CLI, but if you really want to use the browser editor ask Kirsten.&#x20;
+
+1. Log into our Github
+2. Use Github to log into our [Gitbook here ](https://app.gitbook.com/)
+3. Create a pull request (bottom right corner)
+4. Go to the Engineering Wiki and copy Wiki Template page
+5. Make your Wiki entry
+6. Merge!
 
