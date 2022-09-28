@@ -19,6 +19,11 @@
 * [🌳 Existing Platforms](integration-guides/existing-platforms.md)
 * [🌿 New Platforms](integration-guides/new-platforms.md)
 
+## ℹ Engineering Wiki
+
+* [TalentLayer Wiki Guide](engineering-wiki/talentlayer-wiki-guide.md)
+* [Wiki Template](engineering-wiki/wiki-template.md)
+
 ## 💻 Developers
 
 * [Reading From and Writing to TalentLayer Core](developers/reading-from-and-writing-to-talentlayer-core.md)
