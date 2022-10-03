@@ -1,13 +1,13 @@
 # Job Registry
 
-**JobRegistry.sol** is the smart contract that creates an instance of a job. Jobs are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Jobs can be deleted or updated easily.&#x20;
+**JobRegistry.sol** is the smart contract that creates an instance of a Job and associates Proposals with that job as they are submitted. Jobs and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Jobs and Proposals can be deleted or updated easily.&#x20;
 
-It can be broken up into a few parts:&#x20;
+### Explore How Jobs and Proposals Can Meet Your Platform's Needs
 
-* Creation of a job and the tagging of a counterparty for the job
-* Agreement to the job by the counterparty or Rejection
-* Finalization of job
+{% content-ref url="../../work-facilitation-module/jobs-and-proposals.md" %}
+[jobs-and-proposals.md](../../work-facilitation-module/jobs-and-proposals.md)
+{% endcontent-ref %}
 
 ### View on Github
 
-{% embed url="https://github.com/TalentLayer/talentlayer-id-contracts" %}
+{% embed url="https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/JobRegistry.sol" %}

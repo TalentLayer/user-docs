@@ -33,6 +33,7 @@
   * [TalentLayer ID](developers/smart-contracts/page-8.md)
   * [TalentLayer Review](developers/smart-contracts/page-7.md)
   * [Job Registry](developers/smart-contracts/page-6.md)
+  * [Escrow & Disputes](developers/smart-contracts/escrow-and-disputes.md)
   * [Metadata](developers/smart-contracts/page-5.md)
 * [Graph Schema](developers/graph-schema.md)
 * [Local Environment Setup](developers/local-environment-setup.md)
