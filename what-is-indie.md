@@ -1,4 +1,4 @@
-# What is Indie?
+# 🖥 What is Indie?
 
 Indie is a demo DAPP that allows platforms to see how frontends can be integrated with TalentLayer Core.
 

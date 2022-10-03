@@ -1,23 +1,19 @@
 # Table of contents
 
-* [What is TalentLayer Core?](README.md)
-* [What is Indie?](what-is-indie.md)
+* [🌐 What is TalentLayer Core?](README.md)
+* [🌿 Quick-Start Integration Guide](quick-start-integration-guide.md)
+* [🖥 What is Indie?](what-is-indie.md)
 
 ## 🆔 Work Reputation Module
 
-* [What is TalentLayer ID?](work-reputation-module/what-is-talentlayer-id.md)
-* [Reviews and Reputation](work-reputation-module/reviews-and-reputation.md)
-* [TalentLayer ID Recovery](work-reputation-module/talentlayer-id-recovery.md)
+* [🤵 What is TalentLayer ID?](work-reputation-module/what-is-talentlayer-id.md)
+* [👋 Reviews and Reputation](work-reputation-module/reviews-and-reputation.md)
+* [🙏 TalentLayer ID Recovery](work-reputation-module/talentlayer-id-recovery.md)
 
 ## 👷 Work Facilitation Module
 
-* [Jobs & Proposals](work-facilitation-module/jobs-and-proposals.md)
-* [Escrow & Dispute System](work-facilitation-module/escrow-and-dispute-system.md)
-
-## 🛠 Integration Guides
-
-* [🌳 Existing Platforms](integration-guides/existing-platforms.md)
-* [🌿 New Platforms](integration-guides/new-platforms.md)
+* [👩🏭 Jobs & Proposals](work-facilitation-module/jobs-and-proposals.md)
+* [👨⚖ Escrow & Dispute System](work-facilitation-module/escrow-and-dispute-system.md)
 
 ## ℹ Engineering Wiki
 

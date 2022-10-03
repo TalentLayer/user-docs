@@ -1,4 +1,4 @@
-# TalentLayer ID Recovery
+# 🙏 TalentLayer ID Recovery
 
 Account recovery allows you to request that your TalentLayer ID be associated with a new wallet, and verify that you own the new wallet via a cryptographic proof.
 

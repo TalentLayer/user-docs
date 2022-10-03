@@ -1,4 +1,4 @@
-# Reviews and Reputation
+# 👋 Reviews and Reputation
 
 TalentLayer ID’s build their reputation over time through receiving Reviews from counter-parties; people you’ve worked with either as a hirer or a person being hired.
 

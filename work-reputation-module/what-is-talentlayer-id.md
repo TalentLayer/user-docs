@@ -1,4 +1,4 @@
-# What is TalentLayer ID?
+# 🤵 What is TalentLayer ID?
 
 Your TalentLayer ID is the core of your identity when interacting with TalentLayer-integrated marketplaces and freelancing tools. Your TalentLayer ID is associated with reviews that people you have worked with leave for you, and represents your overall, work-based reputation in the ecosystem.
 
