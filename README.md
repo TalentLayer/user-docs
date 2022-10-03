@@ -11,7 +11,7 @@ TalentLayer Core is composed of the following key modules:
 * [TalentLayer Universal Work Reputation Module ](broken-reference)\[live 07/24/2022]
   * [TalentLayer ID System](work-reputation-module/what-is-talentlayer-id.md)
   * [TalentLayer Review System](work-reputation-module/reviews-and-reputation.md)
-* [TalentLayer Universal Work Facilitation Module](broken-reference) \[live 07/24/2022]
+* [TalentLayer Universal Work Facilitation Module](broken-reference) \[live 10/18/2022]
   * [TalentLayer Universal Job & Proposal System](work-facilitation-module/jobs-and-proposals.md)
   * [TalentLayer Escrow & Dispute System](work-facilitation-module/escrow-and-dispute-system.md)
 
@@ -21,7 +21,7 @@ TalentLayer creates a paradigm shift in how freelance marketplaces operate by cr
 
 ### Exploring TalentLayer Modules
 
-TalentLayer's three core modules can be integrated with your platform based on your needs. For example, it is possible to integrate TalentLayer's Universal Reputation Module but not TalentLayer's Escrow & Dispute Resolution Module.&#x20;
+TalentLayer's three core modules can be integrated with your platform based on your needs.&#x20;
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

@@ -1,6 +1,6 @@
 # What is Indie?
 
-Indie is a demo DAPP that serves as the first platform integrated with TalentLayer Core.
+Indie is a demo DAPP that allows platforms to see how frontends can be integrated with TalentLayer Core.
 
 The TalentLayer team created Indie to serve as a fork-able base for a marketplace that anyone can take, iterate on, and borrow components from to interact with the TalentLayer protocol. Over time, we will be shipping updates to Indie to improve UI and expand its functionality as new features launch on TalentLayer.&#x20;
 
@@ -25,6 +25,8 @@ Indie is still in development. The following is a list of the current status of 
 | Job creator       | Live        | Live             |
 | Review system     | Live        | Live             |
 | Reputation Search | Live        | In Progress      |
+| Escrow system     | Live        | Live             |
+| Dispute system    | Live        | In Progress      |
 
 ### Known Bugs & Build Issues
 
