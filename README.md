@@ -39,10 +39,6 @@ TalentLayer is ready to help you build the next generation of work platforms as 
 [quick-start-integration-guide.md](quick-start-integration-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% hint style="danger" %}
 **Metadata V3:** To guarantee that your implementation will interface with the TalentLayer interoperable jobs repository and/or reputation system you must update your system to the V3 of our data model; coming soon (October 2022). The existing data schema does not include a key identifier that represents originating marketplaces/platforms - something necessary for the TalentLayer contracts to know the difference between the various actors writing data to TalentLayer. All future data schema updates should not impact interoperability. Thank you for your patience as we work towards our interoperable system!
 {% endhint %}
