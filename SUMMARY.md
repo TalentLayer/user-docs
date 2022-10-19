@@ -15,11 +15,6 @@
 * [👩🏭 Jobs & Proposals](work-facilitation-module/jobs-and-proposals.md)
 * [👨⚖ Escrow & Dispute System](work-facilitation-module/escrow-and-dispute-system.md)
 
-## ℹ Engineering Wiki
-
-* [📜 Engineering Wiki Guide](engineering-wiki/engineering-wiki-guide.md)
-* [🗂 Wiki Template](engineering-wiki/wiki-template.md)
-
 ## 💻 Developers
 
 * [Reading From and Writing to TalentLayer Core](developers/reading-from-and-writing-to-talentlayer-core.md)
