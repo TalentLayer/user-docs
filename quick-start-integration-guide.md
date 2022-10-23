@@ -45,7 +45,7 @@ We are happy to help you:
 {% endcontent-ref %}
 
 {% hint style="danger" %}
-**Impending Metadata Update:** Please be aware of our **metadata update** that took place in October 2022. To guarantee that your implementation will interface with the TalentLayer interoperable jobs repository and/or reputation system you must update your system to the V3 of our data model. The existing data schema does not include a key identifier that represents originating marketplaces/platforms - something necessary for the TalentLayer contracts to know the difference between the various actors writing data to TalentLayer. All future data schema updates should not impact interoperability. We appreciate your flexibility as we move closer to this update!
+**October Metadata Update:** Please be aware of our **metadata update** that took place in October 2022. To guarantee that your implementation will interface with the TalentLayer interoperable jobs repository and/or reputation system you must update your system to the V3 of our data model. The previous versions of our data schemas do not include a key identifier that represents originating marketplaces/platforms - something necessary for the TalentLayer contracts to know the difference between the various actors writing data to TalentLayer. All future data schema updates should not impact interoperability.
 {% endhint %}
 
 ## Reading and Writing to TalentLayer Core
