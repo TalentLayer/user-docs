@@ -25,11 +25,3 @@
 **TalentLayer Alpha:** The early version of TalentLayer including the TalentLayer Reputation System and TalentLayer Jobs System.
 
 **TalentLayer Beta:** The full working TalentLayer protocol, complete with escrow, dispute resolution, and crypto-economic incentives driven by the TalentLayer Token.
-
-### TalentLayer Indie Versions
-
-**TalentLayer Indie V1:** A demo product made to showcase TalentLayer MVP’s components. A reputation tool for independent freelancers.
-
-**TalentLayer Indie V2:** A demo product made to showcase TalentLayer Alpha’s components. A simple marketplace for freelance jobs. Formerly referred to as “TalentLayer White-Label Marketplace”.
-
-**TalentLayer Indie V3:** A demo product made to showcase TalentLayer Beta’s components. A simple marketplace for freelance jobs with tokenomic incentives.

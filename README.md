@@ -39,10 +39,6 @@ TalentLayer is ready to help you build the next generation of work platforms as 
 [quick-start-integration-guide.md](quick-start-integration-guide.md)
 {% endcontent-ref %}
 
-{% hint style="danger" %}
-**Metadata V3:** To guarantee that your implementation will interface with the TalentLayer interoperable jobs repository and/or reputation system please be sure to reference the most up-to-date Alpha metadata standards, available in our Github. The Pre-alpha data schema does not include a key identifier that represents originating marketplaces/platforms - something necessary for the TalentLayer contracts to know the difference between the various actors writing data to TalentLayer. All future data schema updates will not impact interoperability.
-{% endhint %}
-
 ### Meet TalentLayer
 
 Get to know TalentLayer's vision by visiting our website:

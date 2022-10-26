@@ -2,7 +2,6 @@
 
 * [🌐 What is TalentLayer Core?](README.md)
 * [🌿 Quick-Start Integration Guide](quick-start-integration-guide.md)
-* [🖥 What is Indie?](what-is-indie.md)
 
 ## 🆔 Work Reputation Module
 
@@ -29,16 +28,3 @@
 * [Graph Schema](developers/graph-schema.md)
 * [Local Environment Setup](developers/local-environment-setup.md)
 * [Glossary](developers/glossary.md)
-
-## 🤷 Indie User Guide
-
-* [Creating your TalentLayer ID](user-guides/creating-your-talentlayer-id.md)
-* [Creating your first job](user-guides/creating-your-first-job.md)
-* [Leaving mutual reviews](user-guides/leaving-mutual-reviews.md)
-* [Searching reputations](user-guides/searching-reputations.md)
-
-## 🛠 Use Cases
-
-* [For Freelancers](use-cases/for-freelancers.md)
-* [For Hirers](use-cases/for-hirers/README.md)
-  * [Writing a good job description](use-cases/for-hirers/writing-a-good-job-description.md)

@@ -62,8 +62,8 @@ For example, if you are running a freelancing marketplace and choose to host you
 
 We currently have a fork-able codebase that is set up to interact with TalentLayer’s smart contracts: the Indie DAPP. That codebase can be found here:
 
-{% content-ref url="what-is-indie.md" %}
-[what-is-indie.md](what-is-indie.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 We are currently working on an SDK and better documentation to help platforms integrate more quickly. If you have any questions on interfacing with our smart contracts, reach out to us on [Twitter @TalentLayer](https://twitter.com/TalentLayer).
