@@ -18,10 +18,10 @@ TalentLayer offers a variety of tools to help labor platforms empower their user
 
 TalentLayer Core is composed of the following key modules:
 
-* [TalentLayer Universal Work Reputation Module ](broken-reference/)\[live 07/24/2022]
+* [TalentLayer Universal Work Reputation Module ](broken-reference)\[live 07/24/2022]
   * [TalentLayer ID System](work-reputation-module/what-is-talentlayer-id.md)
   * [TalentLayer Review System](work-reputation-module/reviews-and-reputation.md)
-* [TalentLayer Universal Work Facilitation Module](broken-reference/) \[live 10/18/2022]
+* [TalentLayer Universal Work Facilitation Module](broken-reference) \[live 10/18/2022]
   * [TalentLayer Universal Job & Proposal System](work-facilitation-module/jobs-and-proposals.md)
   * [TalentLayer Escrow & Dispute System](work-facilitation-module/escrow-and-dispute-system.md)
 
@@ -29,7 +29,23 @@ TalentLayer creates a paradigm shift in how freelance marketplaces operate by cr
 
 ## How To Get Started Integrating TalentLayer Core into Your Platform
 
-TalentLayer’s Alpha is currently live on a few chains and testnets. We are actively improving the protocol on a weekly basis and are working closely with integrating platforms to implement their feedback.
+TalentLayer’s Alpha is currently live on a few chains and testnets. We are actively improving the protocol on a weekly basis and are working closely with integrating platforms to implement their feedback.&#x20;
+
+### Set Up Your Local Dev Environment
+
+[local-environment-setup.md](developers/local-environment-setup.md "mention")
+
+### Explore The Indie Demo DAPP
+
+Indie is an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired.
+
+Indie lays the groundwork for what will eventually become the TalentLayer SDK.
+
+{% embed url="https://www.youtube.com/watch?v=8Y6E282Nwtc" %}
+
+View the TalentLayer Indie frontend on Github here:
+
+{% embed url="https://github.com/TalentLayer-Labs/workshop-frontend" %}
 
 ### We're Here to Help
 
@@ -56,15 +72,7 @@ Writing is facilitated by connecting your platform with the various [TalentLayer
 
 Reading is facilitated by searching data via the [TalentLayer Graph](developers/graph-schema.md).
 
-For example, if you are running a freelancing marketplace and choose to host your Reputation and Jobs system on Polygon, you must integrate with the TalentLayer Core smart contracts on Polygon. Many of your users will have TalentLayer IDs on other chains as well as Polygon. To read reputation information from other chains, you can reference the TalentLayer Graphs on Polygon, Gnosis, and Ethereum to display holistic reputation data on your user interfaces.
-
-### Fork-able Frontend Codebase
-
-We currently have a fork-able codebase that is set up to interact with TalentLayer’s smart contracts: the Indie DAPP. That codebase can be found here:
-
-{% embed url="https://github.com/TalentLayer/talentlayer-id-dapp" %}
-
-We are currently working on an SDK and better documentation to help platforms integrate more quickly. If you have any questions on interfacing with our smart contracts, reach out to us on [Twitter @TalentLayer](https://twitter.com/TalentLayer).
+For example, if you are running a freelancing marketplace and choose to host your Reputation and Jobs system on Polygon, you must integrate with the TalentLayer Core smart contracts on Polygon. Many of your users will have TalentLayer IDs on other chains as well as Polygon. To read reputation information from other chains, you can reference the TalentLayer Graphs on Polygon, Gnosis, and Ethereum to display holistic reputation data on your user interfaces.We are currently working on an SDK and better documentation to help platforms integrate more quickly. If you have any questions on interfacing with our smart contracts, reach out to us on [Twitter @TalentLayer](https://twitter.com/TalentLayer).
 
 ### Writing to TalentLayer Core
 
@@ -105,6 +113,6 @@ Please stay tuned for updates and don’t hesitate to reach out with questions.
 
 ## TalentLayer’s Future Token Economics
 
-As a decentralized protocol, TalentLayer will have an ecosystem token, incentives system, and fees system. These systems are not present in our Alpha. We expect to implement a V1 of our incentives and fees systems over the course of Winter 2022. Please see our Economic Model Summary to better understand our thinking around tokenomics and fees. All information provided in the document below is not final - we will be working closely with integration partners to ensure fees and incentives align with their needs.
+As a decentralized protocol, TalentLayer will have an ecosystem token, incentives system, and fees system. These systems are not present in our Alpha. We expect to implement a V1 of our incentives and fees systems over the course of Winter 2022/2023. Please see our Economic Model Summary to better understand our thinking around tokenomics and fees. All information provided in the document below is not final - we will be working closely with integration partners to ensure fees and incentives align with their needs.&#x20;
 
 [TalentLayer Economic Model Summary \[NOT FINAL\]](https://www.notion.so/TalentLayer-Economic-Model-Summary-NOT-FINAL-fd99e6e616ca4f3c8dad191ab14aafe3)
