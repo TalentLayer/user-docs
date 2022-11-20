@@ -11,7 +11,7 @@
 
 ## 👷 Work Facilitation Module
 
-* [👩🏭 Jobs & Proposals](work-facilitation-module/jobs-and-proposals.md)
+* [👩🏭 Services & Proposals](work-facilitation-module/jobs-and-proposals.md)
 * [👨⚖ Escrow & Dispute System](work-facilitation-module/escrow-and-dispute-system.md)
 
 ## 💻 Developers
@@ -22,7 +22,7 @@
 * [Smart Contracts](developers/smart-contracts/README.md)
   * [TalentLayer ID](developers/smart-contracts/page-8.md)
   * [TalentLayer Review](developers/smart-contracts/page-7.md)
-  * [Job Registry](developers/smart-contracts/page-6.md)
+  * [Service Registry](developers/smart-contracts/page-6.md)
   * [Escrow & Disputes](developers/smart-contracts/escrow-and-disputes.md)
   * [Metadata](developers/smart-contracts/page-5.md)
 * [Graph Schema](developers/graph-schema.md)

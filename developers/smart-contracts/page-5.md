@@ -18,32 +18,32 @@
 }
 ```
 
-### Job Metadata
+### Service Metadata
 
 ```json
-/// @notice Job information struct
-/// @param status the current status of a job
+/// @notice Service information struct
+/// @param status the current status of a service
 /// @param employerId the talentLayerId of the employer
 /// @param employeeId the talentLayerId of the employee
-/// @param initiatorId the talentLayerId of the user who initialized the job
-/// @param jobDataUri token Id to IPFS URI mapping
+/// @param initiatorId the talentLayerId of the user who initialized the service
+/// @param serviceDataUri token Id to IPFS URI mapping
 {  
    "employerId": "",
    "employeeId": "",
    "initiatorId": "",
-   "jobDataUri": ""
+   "serviceDataUri": ""
  }
 ```
 
 ### Review Metadata
 
 ```json
-/// @param jobId the id of the job that is being reviewed
+/// @param serviceId the id of the service that is being reviewed
 /// @param toId the id of the person the review is for (recipient)
 /// @param tokenID the token id of the review NFT
 /// @param token token Id to IPFS URI mapping
 {
-    "jobId": "",
+    "serviceId": "",
     "toId": "",
     "tokenId": "",
     "reviewUri": ""
@@ -52,21 +52,21 @@
 
 ## Metadata on IPFS
 
-### Job Metadata
+### Service Metadata
 
 ```json
-//Unfilled Job Metadata
+//Unfilled Service Metadata
 {
-    "job_title": "",
-    "job_about": "",
-    "job_keywords": ["", "", ""]
+    "service_title": "",
+    "service_about": "",
+    "service_keywords": ["", "", ""]
 }
 
-//Example Job Metadata
+//Example Service Metadata
 {
-    "job_title": "Bug Fix for Gitbook",
-    "job_about": "Our tool does not size rows and columns properly. We will be hiring @rickroll for a short-term $25/hour role payable in USDT. Expected completion of the bug fix is July 30th.",
-    "job_keywords": ["ui/ux", "bug", "developer"]
+    "service_title": "Bug Fix for Gitbook",
+    "service_about": "Our tool does not size rows and columns properly. We will be hiring @rickroll for a short-term $25/hour role payable in USDT. Expected completion of the bug fix is July 30th.",
+    "service_keywords": ["ui/ux", "bug", "developer"]
 }
 ```
 
@@ -77,13 +77,13 @@
 {
     "role": "",
     "rating": "",
-    "job_review": ""
+    "service_review": ""
 }
 
 //Example Review Metadata
 {
     "role": "hirer",
     "rating": "5",
-    "job_review": "They did a great job. Will be hiring them again in the future. Prompt communication and timeley delivery."
+    "service_review": "They did a great job. Will be hiring them again in the future. Prompt communication and timeley delivery."
 }
 ```
