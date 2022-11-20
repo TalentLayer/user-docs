@@ -12,7 +12,6 @@ The [TalentLayer Graph Schema ](https://github.com/TalentLayer/talentlayer-id-su
 
 | Blockchain              | Endpoint                                                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Gnosis/xDAO             | [https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id](https://api.thegraph.com/subgraphs/name/talentlayerid/talent-layer-id)         |
 | Ethereum Goerli Testnet | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol) |
 
 TalentLayer's Graph can query and sort many diverse data points on services, reputations, identities, and how they associate with one another.

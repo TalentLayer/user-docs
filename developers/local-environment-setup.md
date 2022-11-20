@@ -7,16 +7,12 @@ description: >-
 
 # Local Environment Setup
 
-## Requirements &#x20;
+## Requirements
 
 → Git clone or Update your branches
 
 ```
 git clone https://github.com/TalentLayer/talentlayer-id-contracts.git
-```
-
-```
-git clone https://github.com/TalentLayer/talentlayer-id-dapp.git
 ```
 
 ```
@@ -27,7 +23,7 @@ git clone https://github.com/TalentLayer/talentlayer-id-subgraph.git
 
 → Install docker ([https://www.docker.com/](https://www.docker.com/))
 
-## Contract folder Setup&#x20;
+## Contract folder Setup
 
 {% hint style="info" %}
 In the [talentlayer-id-contracts](https://github.com/TalentLayer/talentlayer-id-contracts)
@@ -37,13 +33,13 @@ In the [talentlayer-id-contracts](https://github.com/TalentLayer/talentlayer-id-
 
 For local setting, ETHERSCAN\_API\_KEY & GNOSIS\_API\_KEY are optional
 
-→ Create a local chain:&#x20;
+→ Create a local chain:
 
 ```
 npx hardhat node 
 ```
 
-→ Run&#x20;
+→ Run
 
 ```
 make install
@@ -51,27 +47,23 @@ make install
 
 Please read the Makefile in you need information on the deployment process
 
-
-
-## Indie Subgraph folder Setup&#x20;
+## Indie Subgraph folder Setup
 
 {% hint style="info" %}
 In the [talentlayer-id-subgraph](https://github.com/TalentLayer/talentlayer-id-subgraph)
 {% endhint %}
 
-→ Launch the docker run-graph-node.sh&#x20;
+→ Launch the docker run-graph-node.sh
 
 ```
 sh run-graph-node.sh
 ```
 
-→ Run &#x20;
+→ Run
 
 ```
 make regenerate
 ```
-
-
 
 ## Dapp folder Setup
 
@@ -98,7 +90,7 @@ npm run start
 
 ## Others networks
 
-Please find below the changes to apply before launching all the installation commands&#x20;
+Please find below the changes to apply before launching all the installation commands
 
 For Goerli network
 
@@ -124,4 +116,4 @@ import configGoerli from '../autoconfig/talent.config_goerli.json';
 
 ## Support
 
-If you have any other issues or need help, please reach out to our team on Twitter @Talentlayer.&#x20;
+If you have any other issues or need help, please reach out to our team on Twitter @Talentlayer.
