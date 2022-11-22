@@ -2,7 +2,9 @@
 
 ## On-Chain Metadata
 
-### TalentLayer ID Metadata
+<details>
+
+<summary>TalentLayerID</summary>
 
 ```json
  //Emit when new TalentLayerID is minted.
@@ -18,7 +20,11 @@
 }
 ```
 
-### Service Metadata
+</details>
+
+<details>
+
+<summary>Service</summary>
 
 ```json
 /// @notice Service information struct
@@ -35,7 +41,11 @@
  }
 ```
 
-### Review Metadata
+</details>
+
+<details>
+
+<summary>Review</summary>
 
 ```json
 /// @param serviceId the id of the service that is being reviewed
@@ -50,9 +60,13 @@
 }
 ```
 
+</details>
+
 ## Metadata on IPFS
 
-### Service Metadata
+<details>
+
+<summary>Service</summary>
 
 ```json
 //Unfilled Service Metadata
@@ -70,7 +84,11 @@
 }
 ```
 
-### Review Metadata
+</details>
+
+<details>
+
+<summary>Review</summary>
 
 ```json
 //Unfilled Review Metadata
@@ -87,3 +105,5 @@
     "service_review": "They did a great job. Will be hiring them again in the future. Prompt communication and timeley delivery."
 }
 ```
+
+</details>

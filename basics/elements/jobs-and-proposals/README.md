@@ -1,8 +1,10 @@
-# 👩🏭 Services & Proposals
+# Service Registry
 
-The TalentLayer Universal Work Facilitation Module is a searchable on-chain repository of services such as jobs and bounties that can be posted to and read from by any integrated platform. This cross-posting allows for a broader range of users to view and submit proposals for a wide range of services.
+****[**ServiceRegistry.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/ServiceRegistry.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily.
 
-The Universal Work Facilitation contains a few sub-components that can be used together or separately based on the goals of your platform.
+The Service Registry is a searchable on-chain repository of services such as jobs and bounties that can be posted to and read from by any integrated platform. This cross-posting allows for a broader range of users to view and submit proposals for a wide range of services.
+
+The Service Registry contains a few sub-components that can be used together or separately based on the goals of your platform.
 
 ## Services
 
@@ -26,7 +28,7 @@ Services are created by Users on TalentLayer-integrated platforms. Services' met
 
 The TalentLayer Work Facilitation Module can be implemented with or without proposals.
 
-Both Services with Proposals and Services without Proposals are both executable across multiple platforms, as long as they are connected with the [TalentLayer Escrow System.](escrow-and-dispute-system.md)
+Both Services with Proposals and Services without Proposals are both executable across multiple platforms, as long as they are connected with the [TalentLayer Escrow System.](../escrow-and-dispute-system/)
 
 For example, User A, the employer can post a Service on Platform Y and User B can search for and submit a Proposal for that Service on Platform Z.
 
