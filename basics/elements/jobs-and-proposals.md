@@ -1,4 +1,4 @@
-# Service Registry
+# Services
 
 ****[**ServiceRegistry.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/ServiceRegistry.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily.
 
@@ -28,7 +28,7 @@ Services are created by Users on TalentLayer-integrated platforms. Services' met
 
 The TalentLayer Work Facilitation Module can be implemented with or without proposals.
 
-Both Services with Proposals and Services without Proposals are both executable across multiple platforms, as long as they are connected with the [TalentLayer Escrow System.](../escrow-and-dispute-system/)
+Both Services with Proposals and Services without Proposals are both executable across multiple platforms, as long as they are connected with the [TalentLayer Escrow System.](escrow-and-dispute-system/)
 
 For example, User A, the employer can post a Service on Platform Y and User B can search for and submit a Proposal for that Service on Platform Z.
 

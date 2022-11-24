@@ -1,6 +1,6 @@
 # Escrow
 
-The TalentLayer Escrow and Dispute Resolution Module allows for secure payments between users on TalentLayer integrated marketplaces AND between TalentLayer integrated marketplaces. TalentLayer's Escrow and Dispute Resolution allows for users on different marketplaces to remit transactions and handle disputes associated with [specific Services.](../jobs-and-proposals/)
+The TalentLayer Escrow and Dispute Resolution Module allows for secure payments between users on TalentLayer integrated marketplaces AND between TalentLayer integrated marketplaces. TalentLayer's Escrow and Dispute Resolution allows for users on different marketplaces to remit transactions and handle disputes associated with [specific Services.](../jobs-and-proposals.md)
 
 The TalentLayer Escrow System is an adaptation of [Kleros's MultipleArbitrableTransaction.sol](https://github.com/kleros/kleros-interaction/blob/master/contracts/standard/arbitration/MultipleArbitrableTransaction.sol) smart contract and Yubiai's [MultipleArbitrableTransaction.sol](https://github.com/yubiai/yubiai-contracts/blob/main/contracts/MultipleArbitrableTransaction.sol) updated version.&#x20;
 
