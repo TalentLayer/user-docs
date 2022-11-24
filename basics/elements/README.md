@@ -1,5 +1,4 @@
 # Elements
 
-**TalentLayer ID:**&#x20;
+This chapter describes goes through all the elements that makes up the TalentLayer system and their value.&#x20;
 
-**Reputation ID (or Review NFT):**&#x20;

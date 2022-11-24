@@ -1,4 +1,4 @@
-# Welcome
+# 👋 Welcome
 
 TalentLayer is a distributed organization developing tools for enabling the open and interoperable labor market of the future! Find out how we do it by[ going through the basics](basics/) and by [visiting our website](https://www.talentlayer.org/).
 
