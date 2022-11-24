@@ -1,6 +1,6 @@
 # Reading From and Writing to TalentLayer Core
 
-TalentLayer is multi-chain; that means there are implementations of TalentLayer Core living on multiple blockchains. Each platform must choose one TalentLayer Core chain implementation to write information to, and at least one TalentLayer Core chain implementation to read from. Please view [supported blockchains here](local-environment-setup/indie-frontend/network-support.md).
+TalentLayer is multi-chain; that means there are implementations of TalentLayer Core living on multiple blockchains. Each platform must choose one TalentLayer Core chain implementation to write information to, and at least one TalentLayer Core chain implementation to read from. Please view [supported blockchains here](broken-reference).
 
 Writing is facilitated by connecting your platform with the various [TalentLayer Core smart contracts](broken-reference) and triggering different actions.
 
