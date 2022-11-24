@@ -1,17 +1,16 @@
+---
+description: Basic understanding of the user identity on TalentLayer.
+---
+
 # TalentLayerID
-
-****[**TalentLayerID.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol) is the smart contract that initialises a user's TalentLayer ID. The contract can be used to:
-
-* Mint a TalentLayer ID
-* Link Proof of Humanity to your TalentLayerID
-* Initiate account recovery process
-* Look up TalentLayer users or their handles
 
 ## What is a TalentLayerID?
 
 TalentLayer ID is a work identity that allows ownership and growth of reputation across many gig marketplaces. TalentLayer IDs are ERC-721 NFTs that live inside crypto wallets; this means that reputation is self-custodied by the wallet owner and lives separately from integrated platforms. TalentLayer IDs are “soul-bound” in that they can not leave the originating wallet unless a recovery is initiated.
 
 TalentLayerID is the core identity element for service buyers and sellers when interacting with TalentLayer-integrated marketplaces and freelancing tools. The TalentLayer ID is associated with reviews and represents the overall reputation in the ecosystem.
+
+More information on how it is implemented can be found in out guide on the [TalentLayerID smart contract](../../../technical-guides/smart-contracts/talentlayerid.sol.md).
 
 ## Role-Agnostic IDs
 
