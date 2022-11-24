@@ -39,11 +39,11 @@ VITE_PLATFORMID=
 
 Get the WALLET\_CONNECT\_PROJECT\_ID from  [https://walletconnect.com/](https://walletconnect.com/)
 
-Get the INFURA\_ID and INFURA\_SECRET at [https://www.infura.io/](https://www.infura.io/)
+Get the INFURA\_ID and INFURA\_SECRET at [https://www.infura.io/](https://www.infura.io/) by creating a new project for IPFS.
 
 Set NETWORK\_ID to for now 5, this is the ID of [goerli testnet](https://goerli.net/). For other networks, find the chainID on [Chainlist](https://chainlist.org/).&#x20;
 
-Set the SUBGRAPH\_URL to [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol)\
+Set the SUBGRAPH\_URL to [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol). \
 (This is the subgraph endpoint on goerli testnet. The available endpoints can be found in the [Graph Schema](../talentlayer-id-subgraph/graph-schema.md) page.)
 
 Set PLATFORMID to 1 for now. More info on this will come.
