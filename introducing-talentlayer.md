@@ -52,7 +52,7 @@ TalentLayer is multi-chain; that means there are implementations of TalentLayer 
 
 ## Writing to TalentLayer Core <a href="#writing-to-talentlayer-core" id="writing-to-talentlayer-core"></a>
 
-Writing is necessary to create a user’s TalentLayer ID, mint reputation updates, and create jobs.To write to TalentLayer Core, you must connect with the appropriate TalentLayer smart contract for the action you intend to take.[Deployments](https://docs.talentlayer.org/developers/deployments)
+Writing is necessary to create a user’s TalentLayer ID, mint reputation updates, and create jobs.To write to TalentLayer Core, you must connect with the appropriate [TalentLayer smart contract](technical-guides/smart-contracts/) for the action you intend to take.
 
 ## Reading from TalentLayer Core <a href="#reading-from-talentlayer-core" id="reading-from-talentlayer-core"></a>
 
