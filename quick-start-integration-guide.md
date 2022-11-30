@@ -4,7 +4,7 @@
 
 The indie frontend is a [codebase](https://github.com/TalentLayer-Labs/indie-frontend) provided by us for quickly building a platform integrating the TalentLayer tools enabling the interoperability with any other integrating platform. Find out how to set up the indie frontend on your local environment[ here](technical-guides/local-environment-setup/indie-frontend.md)!
 
-## Using an SDK
+## Using the SDK
 
 We are currently working on an SDK to help platforms integrate efficiently. Stay up to date on the progress by following us on [Twitter @TalentLayer](https://twitter.com/TalentLayer).
 

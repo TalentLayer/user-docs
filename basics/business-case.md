@@ -1,6 +1,6 @@
 # Business Case
 
-As an operator of a labor marketplace, you want to…
+As a future operator of a labor marketplace, you want to…
 
 * Foster user loyalty.
 * Help users connect with their best-fit partners on your platform.
@@ -58,7 +58,7 @@ We can all benefit from more efficiency in labor markets - imaging the human pot
 
 ## Considering Integrating TalentLayer?
 
-Considering integrating TalentLayer into an existing marketplace? Want to build a new platform natively with TalentLayer? We have resources to help your team get off the ground fast with your platform’s integration.
+Want to build a new platform natively with TalentLayer? We have resources to help your team get off the ground fast with your platform’s integration.
 
 {% content-ref url="../" %}
 [..](../)
