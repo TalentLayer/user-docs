@@ -2,7 +2,7 @@
 
 ## Is TalentLayer A Good Fit For Your Platform? <a href="#is-talentlayer-a-good-fit-for-your-platform" id="is-talentlayer-a-good-fit-for-your-platform"></a>
 
-Are you looking to build platform like freelance marketplaces, bounty platforms, hackathon platforms, gig marketplaces, or something similar? TalentLayer is composable, decentralized, open-source infrastructure for labor markets; allowing anyone to easily build interoperable gig marketplaces. It is designed to empower workers to own their own reputation and access jobs without limitation. TalentLayer is optimized for a broad range of two-sided “labor platforms”, software platforms where users can complete services in exchange for payment. These platforms usually have a few things in common:
+Do you have an existing platform such as a freelance marketplace, bounty platform, hackathon platform, or something similar? Are you looking to build one of these platforms?TalentLayer is composable, decentralized, open-source infrastructure for talent markets; allowing anyone to easily build interoperable gig marketplaces. It is designed to empower workers to own their own reputation and access jobs without limitation.TalentLayer is optimized for a broad range of two-sided “labor platforms”, software platforms where users can complete services in exchange for payment. These platforms usually have a few things in common:
 
 1. Hirers post tasks or other service engagements to the platform
 2. Users complete work in exchange for payment
