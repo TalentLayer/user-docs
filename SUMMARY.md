@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
-* [☘ Introducing TalentLayer](introducing-talentlayer.md)
+* [☘ Getting Started Guide](getting-started-guide.md)
 * [👩🏫 Basics](basics/README.md)
   * [TalentLayer Core](basics/readme.md)
   * [Business Case](basics/business-case.md)
