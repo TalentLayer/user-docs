@@ -11,10 +11,26 @@ TalentLayer’s modular tools can be applied to build diverse marketplaces inclu
 * telemedicine apps
 * Rappi-style multi marketplace apps
 
-Why are developers and entrepreneurs building marketplaces using TalentLayer? Because open platforms benefit everyone; hirers, workers, and platforms. Discover why teams are building the next generation of labor markets on TalentLayer by[ going through the basics](basics/) and by [visiting our website](https://www.talentlayer.org/).
+Why are developers and entrepreneurs building marketplaces using TalentLayer? Because open platforms benefit everyone; hirers, workers, and platforms. Discover why teams are building the next generation of labor markets on TalentLayer.&#x20;
 
-Want to get started building with TalentLayer's tools? Check out [the integration guides](quick-start-integration-guide.md) and [reach out to us](broken-reference) if you need support!
+{% content-ref url="basics/business-case.md" %}
+[business-case.md](basics/business-case.md)
+{% endcontent-ref %}
 
-Developers, check out the [Technical Guides](technical-guides/) and [reach out to us](broken-reference) if you need help!
+Want to get started building with TalentLayer's tools? Check out our technical guides or get in touch with us.&#x20;
 
-Want to contribute or become a part of the TalentLayer's open-source collective? Check our the [Contribution page](open-source-contribution/) and [reach out to us](broken-reference)!
+{% content-ref url="technical-guides/" %}
+[technical-guides](technical-guides/)
+{% endcontent-ref %}
+
+Want to contribute or become a part of the TalentLayer's open-source collective? Learn about contributing and get in touch.&#x20;
+
+{% content-ref url="open-source-contribution/contribute-to-talentlayer.md" %}
+[contribute-to-talentlayer.md](open-source-contribution/contribute-to-talentlayer.md)
+{% endcontent-ref %}
+
+Need some help? We're here to chat.&#x20;
+
+{% content-ref url="quick-start-integration-guide.md" %}
+[quick-start-integration-guide.md](quick-start-integration-guide.md)
+{% endcontent-ref %}
