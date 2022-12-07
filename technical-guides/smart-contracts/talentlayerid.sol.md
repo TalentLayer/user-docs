@@ -36,7 +36,7 @@ struct Profile {
 ### Minting
 
 {% hint style="info" %}
-Minting a [TalentLayerID](../../basics/elements/what-is-talentlayer-id/#what-is-a-talentlayerid) requires a [PlatformID](../../basics/elements/platformid.md).&#x20;
+Minting a [TalentLayerID](../../basics/readme/what-is-talentlayer-id/#what-is-a-talentlayerid) requires a [PlatformID](../../basics/readme/platformid.md).&#x20;
 {% endhint %}
 
 There are two ways to mint a TalentLayerID, one that requires that the owner of the wallet address is registered with [Proof of Humanity](https://www.proofofhumanity.id/), and one that does not. [PoH](https://www.proofofhumanity.id/) is the system currently used in talentlayer for [sybil resistance](https://en.wikipedia.org/wiki/Sybil\_attack).&#x20;
@@ -53,7 +53,7 @@ function mint(uint256 _platformId, string memory _handle) public canMint(_handle
 
 #### Proof of Humanity (PoH)
 
-A user needs to get their wallet address registered with [Proof of Humanity](https://www.proofofhumanity.id/) before linking it to their [TalentLayerID](../../basics/elements/what-is-talentlayer-id/).&#x20;
+A user needs to get their wallet address registered with [Proof of Humanity](https://www.proofofhumanity.id/) before linking it to their [TalentLayerID](../../basics/readme/what-is-talentlayer-id/).&#x20;
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```solidity
@@ -72,7 +72,7 @@ function activatePoh(uint256 _tokenId) public;
 
 ### Account Recovery
 
-Recovering an account allows moving a [TalentLayerID](../../basics/elements/what-is-talentlayer-id/) to a new wallet address without accessing the current one by providing a recovery key.&#x20;
+Recovering an account allows moving a [TalentLayerID](../../basics/readme/what-is-talentlayer-id/) to a new wallet address without accessing the current one by providing a recovery key.&#x20;
 
 {% hint style="warning" %}
 2022-11-24: The recovery functionality is being audited and revised. More information will be provided shortly.

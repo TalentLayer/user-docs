@@ -1,7 +1,7 @@
-# Talentlayer-id-contracts
+# Install Contracts Locally
 
-{% hint style="info" %}
-Before you continue, make sure your system fulfills the requirements in the [Local Environment Setup](https://app.gitbook.com/o/uoAYI2Mv1g6UqAhiHLVU/s/LxwTmt3MOuMIlBTH8NKY/\~/changes/ea66kIRjVFnvwwnI8she/guides/local-environment-setup).
+{% hint style="warning" %}
+**ALERT:** In most cases, you don't need to set up local contracts - everything is ready to use on Testnet! If you have advanced needs, we recommend contacting our team.&#x20;
 {% endhint %}
 
 ## Requirements

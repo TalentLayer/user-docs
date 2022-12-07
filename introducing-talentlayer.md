@@ -27,11 +27,21 @@ TalentLayer creates a paradigm shift in how freelance marketplaces operate by cr
 
 TalentLayer’s Alpha is currently live on a few chains and testnets. We are actively improving the protocol on a weekly basis and are working closely with integrating platforms to implement their feedback.​
 
-### Explore The Indie Demo DAPP <a href="#explore-the-indie-demo-dapp" id="explore-the-indie-demo-dapp"></a>
+### Create A New DAPP in 5 Minutes <a href="#explore-the-indie-demo-dapp" id="explore-the-indie-demo-dapp"></a>
 
-Indie is an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired.Indie lays the groundwork for what will eventually become the TalentLayer SDK.View the TalentLayer Indie frontend on Github here:
+Indie is an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired. Indie lays the groundwork for what will eventually become the TalentLayer SDK.
 
-{% embed url="https://github.com/TalentLayer-Labs/indie-frontend" %}
+{% content-ref url="technical-guides/dapp-setup.md" %}
+[dapp-setup.md](technical-guides/dapp-setup.md)
+{% endcontent-ref %}
+
+### Get Your Platform ID <a href="#were-here-to-help" id="were-here-to-help"></a>
+
+To interact with TalentLayer's interoperable jobs system as a platform, you will need a Platform ID. Learn more:
+
+{% content-ref url="basics/readme/platformid.md" %}
+[platformid.md](basics/readme/platformid.md)
+{% endcontent-ref %}
 
 ## We're Here to Help <a href="#were-here-to-help" id="were-here-to-help"></a>
 
@@ -46,14 +56,14 @@ Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to t
 
 How does your application communicate with TalentLayer? Learn more here.
 
-{% content-ref url="technical-guides/reading-from-and-writing-to-talentlayer-core.md" %}
-[reading-from-and-writing-to-talentlayer-core.md](technical-guides/reading-from-and-writing-to-talentlayer-core.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Explore The Docs! <a href="#explore-the-docs" id="explore-the-docs"></a>
 
 We’re working hard to document our tech stack. You can view our docs on our website below.Please stay tuned for updates and don’t hesitate to reach out with questions.
 
-{% content-ref url="basics/" %}
-[basics](basics/)
+{% content-ref url="basics/readme/" %}
+[readme](basics/readme/)
 {% endcontent-ref %}

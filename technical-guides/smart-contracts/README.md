@@ -6,10 +6,14 @@ description: >-
 
 # Smart Contracts
 
-The contracts can be viewed [directly in GitHub](https://github.com/TalentLayer/talentlayer-id-contracts/tree/main/contracts).
+## Writing to TalentLayer Core
 
-## Deployment Addresses
+TalentLayer is multi-chain. Each platform must choose one TalentLayer Core chain implementation to write information to.
 
-The latest deployment addresses can be found directly on GitHub.&#x20;
+Writing is facilitated by connecting your platform with the various TalentLayer Core smart contracts and triggering different actions.
 
-{% embed url="https://github.com/TalentLayer/talentlayer-id-contracts#talentlayer" %}
+Writing is necessary to create a user’s TalentLayer ID, mint reputation updates, and create services.
+
+To write to TalentLayer Core, you must connect with the appropriate TalentLayer smart contract for the action you intend to take.
+
+We currently have a fork-able codebase that is set up to interact with TalentLayer’s smart contracts: the Indie DAPP. That codebase can be found [here](https://github.com/TalentLayer/talentlayer-id-dapp).
