@@ -17,7 +17,7 @@
   * [Technical Schemas](technical-guides/technical-schemas.md)
   * [Network Support](technical-guides/network-support.md)
   * [DAPP Local Setup](technical-guides/dapp-local-setup.md)
-  * [Graph](technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md)
+  * [Graph & Endpoints](technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md)
   * [Smart Contracts](technical-guides/smart-contracts/README.md)
     * [Deployments](technical-guides/smart-contracts/deployments.md)
     * [TalentLayerPlatformID.sol](technical-guides/smart-contracts/talentlayerplatformid.sol.md)
