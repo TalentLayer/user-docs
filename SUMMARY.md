@@ -14,6 +14,7 @@
       * [Disputes](basics/elements/escrow-and-dispute-system/disputes.md)
     * [Metadata](basics/elements/page-5.md)
 * [⚙ Technical Guides](technical-guides/README.md)
+  * [Technical Schemas](technical-guides/technical-schemas.md)
   * [Network Support](technical-guides/network-support.md)
   * [DAPP Local Setup](technical-guides/dapp-local-setup.md)
   * [Graph](technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md)
