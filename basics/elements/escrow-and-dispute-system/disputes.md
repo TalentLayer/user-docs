@@ -1,4 +1,4 @@
-# Disputes
+# Kleros Arbitration
 
 Through leveraging an augmented version of Kleros Escrow, TalentLayer's escrow system is fully compatible with the Kleros decentralized dispute resolution protocol. When one user initiates a dispute, the result of the dispute is judged by jurors in the Kleros Court system. A ruling is then sent back to the platform, to be displayed to the users.
 
