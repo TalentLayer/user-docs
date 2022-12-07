@@ -14,14 +14,18 @@ TalentLayer offers a variety of tools to help labor platforms empower their user
 
 TalentLayer Core is composed of the following key modules:
 
-* ​[TalentLayer Universal Work Reputation Module ](https://docs.talentlayer.org/work-reputation-module)\[live 07/24/2022]
-  * ​[TalentLayer ID System](https://docs.talentlayer.org/work-reputation-module/what-is-talentlayer-id)​
-  * ​[TalentLayer Review System](https://docs.talentlayer.org/work-reputation-module/reviews-and-reputation)​
-* ​[TalentLayer Universal Work Facilitation Module](https://docs.talentlayer.org/work-facilitation-module) \[live 10/18/2022]
-  * ​[TalentLayer Universal Job & Proposal System](https://docs.talentlayer.org/work-facilitation-module/jobs-and-proposals)​
-  * [​TalentLayer Escrow & Dispute System](technical-guides/smart-contracts/escrow-and-dispute/)​
+* ​TalentLayer Universal Work Reputation Module \[live 07/24/2022]
+  * ​TalentLayer ID System​
+  * ​TalentLayer Review System​
+* ​TalentLayer Universal Work Facilitation Module \[live 10/18/2022]
+  * ​TalentLayer Universal Job & Proposal System​
+  * ​TalentLayer Escrow & Dispute System​
 
 TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a universal reputation system and jobs repository that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces. Marketplaces that build on TalentLayer receive rewards by onboarding talent and jobs.
+
+{% content-ref url="basics/" %}
+[basics](basics/)
+{% endcontent-ref %}
 
 ## How To Get Started Integrating TalentLayer Core into Your Platform <a href="#how-to-get-started-integrating-talentlayer-core-into-your-platform" id="how-to-get-started-integrating-talentlayer-core-into-your-platform"></a>
 
@@ -50,14 +54,24 @@ Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to t
 1. Understand how to implement TalentLayer on your platform: Every platform is a little different, and we want to know how we can best make our tech stack as composable as possible. By helping you, we learn too!
 2. Deploy TalentLayer on your platform’s native EVM chain: TalentLayer aims to be a cross-chain platform, and are in the process of spinning up implementations of our Alpha release on multiple EVM chains.
 
-[Network Support](https://docs.talentlayer.org/developers/network-support)****
+{% content-ref url="technical-guides/network-support.md" %}
+[network-support.md](technical-guides/network-support.md)
+{% endcontent-ref %}
 
 ## Reading From and Writing to TalentLayer Core <a href="#reading-and-writing-to-talentlayer-core" id="reading-and-writing-to-talentlayer-core"></a>
 
 How does your application communicate with TalentLayer? Learn more here.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+### Writing to TalentLayer
+
+{% content-ref url="technical-guides/smart-contracts/" %}
+[smart-contracts](technical-guides/smart-contracts/)
+{% endcontent-ref %}
+
+### Reading from TalentLayer
+
+{% content-ref url="technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md" %}
+[graph-schema.md](technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md)
 {% endcontent-ref %}
 
 ## Explore The Docs! <a href="#explore-the-docs" id="explore-the-docs"></a>
