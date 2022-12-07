@@ -19,7 +19,7 @@ TalentLayer Core is composed of the following key modules:
   * ​[TalentLayer Review System](https://docs.talentlayer.org/work-reputation-module/reviews-and-reputation)​
 * ​[TalentLayer Universal Work Facilitation Module](https://docs.talentlayer.org/work-facilitation-module) \[live 10/18/2022]
   * ​[TalentLayer Universal Job & Proposal System](https://docs.talentlayer.org/work-facilitation-module/jobs-and-proposals)​
-  * ​[TalentLayer Escrow & Dispute System](https://docs.talentlayer.org/work-facilitation-module/escrow-and-dispute-system)​
+  * [​TalentLayer Escrow & Dispute System](basics/readme/escrow-and-dispute/)​
 
 TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a universal reputation system and jobs repository that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces. Marketplaces that build on TalentLayer receive rewards by onboarding talent and jobs.
 

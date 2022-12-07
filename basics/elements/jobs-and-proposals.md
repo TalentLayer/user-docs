@@ -28,7 +28,7 @@ Services are created by Users on TalentLayer-integrated platforms. Services' met
 
 The TalentLayer Work Facilitation Module can be implemented with or without proposals.
 
-Both Services with Proposals and Services without Proposals are both executable across multiple platforms, as long as they are connected with the [TalentLayer Escrow System.](escrow-and-dispute-system/)
+Both Services with Proposals and Services without Proposals are both executable across multiple platforms, as long as they are connected with the [TalentLayer Escrow System.](broken-reference)
 
 For example, User A, the employer can post a Service on Platform Y and User B can search for and submit a Proposal for that Service on Platform Z.
 

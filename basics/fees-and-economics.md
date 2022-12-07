@@ -18,6 +18,8 @@ Example 2: User A and User B were both onboarded by Platform G. Platform G recei
 
 This is a fee that is configured by platforms for jobs that are posted by that platform  on behalf of a user to the TalentLayer network. This is remitted back to the platform that posted the job.&#x20;
 
+The default configuration of this fee is 0%.&#x20;
+
 ### TalentLayer Fee (1%)
 
 This fee is used to support the development of the TalentLayer protocol. It is sent to the TalentLayer treasury. The treasury is currently managed by the TalentLayer Core team and will eventually be transitioned to be managed by the eventual TalentLayer DAO.&#x20;
