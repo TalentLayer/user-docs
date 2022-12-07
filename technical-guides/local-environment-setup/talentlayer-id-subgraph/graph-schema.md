@@ -1,4 +1,4 @@
-# Graph
+# Graph & Endpoints
 
 The TalentLayer Subgraph is hosted on [The Graph](https://thegraph.com/en/)'s decentralized managed hosting service. In mid-2023 we will be migrating to their decentralized hosting service.
 
@@ -28,5 +28,6 @@ The [TalentLayer Graph Schema ](https://github.com/TalentLayer/talentlayer-id-su
 | Blockchain              | Endpoint                                                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Ethereum Goerli Testnet | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol) |
+| Avalanche Fuji Testnet  | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji)         |
 
 TalentLayer's Graph can query and sort many diverse data points on services, reputations, identities, and how they associate with one another.
