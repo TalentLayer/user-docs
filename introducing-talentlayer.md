@@ -31,8 +31,8 @@ TalentLayer’s Alpha is currently live on a few chains and testnets. We are act
 
 Indie is an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired. Indie lays the groundwork for what will eventually become the TalentLayer SDK.
 
-{% content-ref url="technical-guides/local-environment-setup/indie-frontend.md" %}
-[indie-frontend.md](technical-guides/local-environment-setup/indie-frontend.md)
+{% content-ref url="technical-guides/dapp-local-setup.md" %}
+[dapp-local-setup.md](technical-guides/dapp-local-setup.md)
 {% endcontent-ref %}
 
 ### Get Your Platform ID <a href="#were-here-to-help" id="were-here-to-help"></a>
