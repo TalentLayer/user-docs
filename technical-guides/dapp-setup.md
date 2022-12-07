@@ -1,15 +1,21 @@
-# DAPP Local Setup
+# DAPP Setup
 
 "Indie" is an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired.
 
 It's a good first step to set up a local version of Indie to...
 
 1. Get to know how frontends interface with TalentLayer
-2. Optionally, use Indie as a foundation for your next DAPP.&#x20;
+2. Optionally, use Indie as a foundation for your next DAPP.
+
+## Watch the Demo
+
+{% embed url="https://youtu.be/8Y6E282Nwtc" %}
+
+## View on Github&#x20;
 
 {% embed url="https://github.com/TalentLayer-Labs/indie-frontend" %}
 
-## Instructions
+## Local Setup Instructions
 
 ### 1. Clone Repository from GitHub
 
