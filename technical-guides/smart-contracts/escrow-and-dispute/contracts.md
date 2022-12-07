@@ -1,6 +1,8 @@
-# Escrow and Dispute
+# Contracts
 
-The [**Kleros folder**](https://github.com/TalentLayer/talentlayer-id-contracts/tree/main/contracts/kleros) **** is the main parent folder of all contracts associated with Escrow and Dispute Resolution**.** These contracts facilitate the creation of custom escrow accounts for each instance of a job.
+## Contracts
+
+[Here is the main parent folder](https://github.com/TalentLayer/talentlayer-id-contracts/tree/main/contracts/kleros) of all contracts associated with Escrow and Dispute Resolution**.** These contracts facilitate the creation of custom escrow accounts for each instance of a job.
 
 | Contract on Github                                                                                                                                                                | Use                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
