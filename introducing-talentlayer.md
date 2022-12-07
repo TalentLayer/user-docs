@@ -31,16 +31,16 @@ TalentLayer’s Alpha is currently live on a few chains and testnets. We are act
 
 Indie is an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired. Indie lays the groundwork for what will eventually become the TalentLayer SDK.
 
-{% content-ref url="technical-guides/dapp-setup.md" %}
-[dapp-setup.md](technical-guides/dapp-setup.md)
+{% content-ref url="technical-guides/local-environment-setup/indie-frontend.md" %}
+[indie-frontend.md](technical-guides/local-environment-setup/indie-frontend.md)
 {% endcontent-ref %}
 
 ### Get Your Platform ID <a href="#were-here-to-help" id="were-here-to-help"></a>
 
 To interact with TalentLayer's interoperable jobs system as a platform, you will need a Platform ID. Learn more:
 
-{% content-ref url="basics/readme/platformid.md" %}
-[platformid.md](basics/readme/platformid.md)
+{% content-ref url="basics/elements/platformid.md" %}
+[platformid.md](basics/elements/platformid.md)
 {% endcontent-ref %}
 
 ## We're Here to Help <a href="#were-here-to-help" id="were-here-to-help"></a>
@@ -64,6 +64,6 @@ How does your application communicate with TalentLayer? Learn more here.
 
 We’re working hard to document our tech stack. You can view our docs on our website below.Please stay tuned for updates and don’t hesitate to reach out with questions.
 
-{% content-ref url="basics/readme/" %}
-[readme](basics/readme/)
+{% content-ref url="basics/" %}
+[basics](basics/)
 {% endcontent-ref %}

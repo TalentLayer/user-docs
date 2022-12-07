@@ -17,4 +17,4 @@ Want to get started building with TalentLayer's tools? Check out [the integratio
 
 Developers, check out the [Technical Guides](technical-guides/) and [reach out to us](broken-reference) if you need help!
 
-Want to contribute or become a part of the TalentLayer's open-source collective? Check our the [Contribution page](open-source-contribution.md) and [reach out to us](broken-reference)!
+Want to contribute or become a part of the TalentLayer's open-source collective? Check our the [Contribution page](contribution.md) and [reach out to us](broken-reference)!
