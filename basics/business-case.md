@@ -18,7 +18,13 @@ The next generation of marketplaces is possible thanks to blockchain tech - the 
 
 ## Go to Market Fast With TalentLayer
 
-With TalentLayer's modular tech stack, you can start building your&#x20;
+With TalentLayer's modular tech stack, you can launch a marketplace in a fraction of the time it previously took. TalentLayer's smart contracts, subgraph, and team are here to help you get to market fast.&#x20;
+
+[🚀](https://emojipedia.org/rocket/) Start building on top of our fork-able frontend codebase to get to market even faster!&#x20;
+
+{% content-ref url="../technical-guides/dapp-setup.md" %}
+[dapp-setup.md](../technical-guides/dapp-setup.md)
+{% endcontent-ref %}
 
 ## Higher Liquidity Means Increased User Loyalty
 
