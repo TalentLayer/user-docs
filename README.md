@@ -2,6 +2,13 @@
 
 TalentLayer is infrastructure for open labor markets; backend tooling for building interoperable marketplaces that leverage one unified liquidity pool for users and gigs.
 
+TalentLayer provides core tooling for building marketplaces including:
+
+* On-chain jobs and proposals
+* Soul-bound identity and reviews
+* Configurable escrow supporting milestone, lump sum, hourly pay and more
+* Decentralized and platform-managed dispute resolution options
+
 TalentLayer’s modular tools can be applied to build diverse marketplaces including…
 
 * gig marketplaces
