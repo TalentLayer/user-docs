@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-TalentLayer is infrastructure for open labor markets; backend tooling for building interoperable marketplaces that leverage one unified liquidity pool for users and gigs.
+TalentLayer is infrastructure for open labor markets; backend tooling for building marketplaces that leverage an on-chain liquidity pool of users and services.
 
 TalentLayer provides core tooling for building marketplaces including:
 
