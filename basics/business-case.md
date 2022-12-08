@@ -8,15 +8,6 @@ As a future operator of a labor marketplace, you want to…
 
 TalentLayer is infrastructure for open labor markets; backend tools for building interoperable labor marketplaces that leverage blockchain tech for escrow, dispute resolution, job pools, reputation, and more. In other words - tech that helps you meet your goals as a business!&#x20;
 
-TalentLayer’s tech stack can be applied to build any diverse labor marketplaces including…
-
-* gig marketplaces
-* ride sharing apps
-* house sharing apps
-* photography marketplaces
-* telemedicine apps
-* Rappi-style multi marketplace apps
-
 Why are platforms integrating with TalentLayer? Because TalentLayer helps platforms…
 
 1. **Go to market rapidly:** let TalentLayer take care of the hard stuff on the backend
@@ -24,6 +15,10 @@ Why are platforms integrating with TalentLayer? Because TalentLayer helps platfo
 3. **Build user-centric tech:** Give users the benefits of interoperability - portable reputation, greater liquidity of jobs and talent, and more
 
 The next generation of marketplaces is possible thanks to blockchain tech - the underlying innovation that TalentLayer leverages for interoperability, financial transfers, and reputation.
+
+## Go to Market Fast With TalentLayer
+
+With TalentLayer's modular tech stack, you can start building your&#x20;
 
 ## Higher Liquidity Means Increased User Loyalty
 
