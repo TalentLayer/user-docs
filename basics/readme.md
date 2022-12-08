@@ -16,4 +16,4 @@ TalentLayer Core is composed of the following key modules:
   * TalentLayer Universal Services & Proposal System
   * TalentLayer Escrow & Dispute System
 
-TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a universal reputation system and services repository that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces. Marketplaces that build on TalentLayer receive rewards by onboarding talent and services.
+TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a universal reputation system and services repository that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces.
