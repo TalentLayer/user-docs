@@ -11,3 +11,11 @@ All review NFTs will follow the TalentLayer ID to the new wallet if an emergency
 {% hint style="info" %}
 **Good to know:** Right now, there is no way to remove a review after it has been written. TalentLayer is working on a method for reviews that both parties agree should be removed to be deleted.
 {% endhint %}
+
+## Learn More About The Tech
+
+Learn more about the technical side of reviews in our Technical Guide on the smart contract.
+
+{% content-ref url="../../technical-guides/smart-contracts/talentlayerreview.sol.md" %}
+[talentlayerreview.sol.md](../../technical-guides/smart-contracts/talentlayerreview.sol.md)
+{% endcontent-ref %}

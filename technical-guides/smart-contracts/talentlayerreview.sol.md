@@ -7,3 +7,11 @@ It can be broken up used to:
 * Initiate of a review for a user, listing a counter-party to invite
 * Mint a review to a user
 * Look up reviews
+
+## Learn More
+
+Learn more about why we have Reviews and how they function in workflows:&#x20;
+
+{% content-ref url="../../basics/elements/reviews-and-reputation.md" %}
+[reviews-and-reputation.md](../../basics/elements/reviews-and-reputation.md)
+{% endcontent-ref %}

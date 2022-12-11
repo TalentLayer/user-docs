@@ -91,3 +91,10 @@ function recoverAccount(
 ```
 {% endcode %}
 
+## Learn More
+
+Learn more about why we have TalentLayer IDs and how they function in workflows:&#x20;
+
+{% content-ref url="../../basics/elements/what-is-talentlayer-id/" %}
+[what-is-talentlayer-id](../../basics/elements/what-is-talentlayer-id/)
+{% endcontent-ref %}

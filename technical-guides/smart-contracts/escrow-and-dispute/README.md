@@ -23,3 +23,11 @@ For current arbitration options, please see the following page:&#x20;
 {% content-ref url="arbitration/" %}
 [arbitration](arbitration/)
 {% endcontent-ref %}
+
+## Learn More About The Tech
+
+Learn more about the technical side of escrow and disputes in our Technical Guide on the smart contract.&#x20;
+
+{% content-ref url="../escrow-and-dispute.md" %}
+[escrow-and-dispute.md](../escrow-and-dispute.md)
+{% endcontent-ref %}

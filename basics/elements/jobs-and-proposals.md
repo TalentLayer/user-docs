@@ -47,3 +47,11 @@ In this implementation, the employer defines factors like pay rate and terms, wi
 Platforms may want to implement a workflow where users can create services with proposals if they want users to be able to post services and have potential employees submit proposals for those services.
 
 In this implementation, the Proposal defines the final pay rate and terms. When the Proposal is accepted by the employer, those terms are accepted.
+
+## Learn More About The Tech
+
+Learn more about the technical side of services and proposals in our Technical Guide on the smart contract.&#x20;
+
+{% content-ref url="../../technical-guides/smart-contracts/serviceregistry.sol.md" %}
+[serviceregistry.sol.md](../../technical-guides/smart-contracts/serviceregistry.sol.md)
+{% endcontent-ref %}

@@ -2,8 +2,8 @@
 
 Account recovery allows associating a [TalentLayerID](./) with another wallet of the same owner.
 
-{% hint style="info" %}
-**Good To Know:** Platforms can optionally implement recovery flows for their users. These flows are not required as core functionality for TalentLayer.
+{% hint style="warning" %}
+**Alert:** TalentLayer ID Recovery is currently under construction! We've temporarily disabled this feature as we work to improve its architecture. (December 11, 2022)
 {% endhint %}
 
 ## Initiate a Recovery

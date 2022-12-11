@@ -4,7 +4,7 @@
 
 ### Service Status
 
-&#x20;are assigned different statuses based on the stage of the service lifecycle they are in.
+Services are assigned different statuses based on the stage of the service lifecycle they are in.
 
 ```
     enum Status {
@@ -16,4 +16,10 @@
     }
 ```
 
-##
+## Learn More
+
+Learn more about why we have the Service Registry and how it functions in workflows:&#x20;
+
+{% content-ref url="../../basics/elements/jobs-and-proposals.md" %}
+[jobs-and-proposals.md](../../basics/elements/jobs-and-proposals.md)
+{% endcontent-ref %}

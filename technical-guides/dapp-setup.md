@@ -55,7 +55,15 @@ Set NETWORK\_ID to for now 5, this is the ID of [goerli testnet](https://goerli.
 Set the SUBGRAPH\_URL to [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol). \
 (This is the subgraph endpoint on goerli testnet. The available endpoints can be found in the [Graph Schema](local-environment-setup/talentlayer-id-subgraph/graph-schema.md) page.)
 
-Set PLATFORMID to 1 for now. More info on this will come.
+If you have a PLATFORMID, set it to the numeric identifier for your ID.&#x20;
+
+If you do not yet have a PLATFORMID, set this field  to 1.  This allows you to interface with the contracts as a null identity on testnet while you are waiting for your PLATFORMID.&#x20;
+
+Learn about how to request a PLATFORMID here:&#x20;
+
+{% content-ref url="../basics/elements/platformid.md" %}
+[platformid.md](../basics/elements/platformid.md)
+{% endcontent-ref %}
 
 ### 4. Install dependencies
 

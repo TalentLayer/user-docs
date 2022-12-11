@@ -2,7 +2,9 @@
 
 ## Contracts
 
-[Here is the main parent folder](https://github.com/TalentLayer/talentlayer-id-contracts/tree/main/contracts/kleros) of all contracts associated with Escrow and Dispute Resolution**.** These contracts facilitate the creation of custom escrow accounts for each instance of a job.
+All contracts associated with Escrow and Dispute Resolution are available in their parent folder here:&#x20;
+
+{% embed url="https://github.com/TalentLayer/talentlayer-id-contracts/tree/main/contracts/kleros" %}
 
 | Contract on Github                                                                                                                                                                | Use                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,3 +15,10 @@
 | [Arbitrator.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/kleros/Arbitrator.sol)                                                               | Arbitrator contracts initiate the judgment process for Arbitrable contracts. Arbitrator contracts give rulings and Arbitrable contracts enforce them.                                              |
 | [IArbitrable.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/kleros/IArbitrable.sol)                                                             | Arbitrator Interface contract.                                                                                                                                                                     |
 
+## Learn More
+
+Learn more about our escrow and dispute system and how they function in workflows:&#x20;
+
+{% content-ref url="escrow-and-dispute/" %}
+[escrow-and-dispute](escrow-and-dispute/)
+{% endcontent-ref %}

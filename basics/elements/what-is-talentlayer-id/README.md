@@ -25,3 +25,11 @@ You can have a maximum of 10 characters in your TalentLayer ID.
 {% hint style="info" %}
 **Choose wisely:** Make sure you choose your handle carefully - after your ID has been initiated, your handle can not be changed.
 {% endhint %}
+
+## Learn More About The Tech
+
+Learn more about the technical side of the TalentLayer ID in our Technical Guide on the smart contract.&#x20;
+
+{% content-ref url="../../../technical-guides/smart-contracts/talentlayerid.sol.md" %}
+[talentlayerid.sol.md](../../../technical-guides/smart-contracts/talentlayerid.sol.md)
+{% endcontent-ref %}
