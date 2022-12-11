@@ -28,6 +28,16 @@ This fee is used to support the development of the TalentLayer protocol. It is s
 **Market-Based Fee Pricing:** We are in the process of re-working our fee system to allow for platforms to configure Originating Platform Fees, amongst other alternatives. Please standby for updates. This decision was made based on user feedback and game theoretical evaluation.&#x20;
 {% endhint %}
 
+## Job Posting Fees
+
+Because many platforms desire to levy fees on job posts, TalentLayer will offer an optional configurable job posting fee. The default Job Posting Fee will be 0%.&#x20;
+
+When considering whether to levy a job posting fee, take into consideration that charging to post jobs can help limit the possibility of spam job posts on your platform.&#x20;
+
+{% hint style="warning" %}
+**Alert:** The Job Posting Fee is not currently implemented. It is a planned feature.&#x20;
+{% endhint %}
+
 ## Gas Fees
 
 By making transactions, your users will experience any gas or transaction fees required by the blockchain you are interfacing with.&#x20;
