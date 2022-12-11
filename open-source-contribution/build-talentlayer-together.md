@@ -1,4 +1,4 @@
-# Contribute to TalentLayer
+# Build TalentLayer Together
 
 We’re a scrappy team of builders who believe that the future of work is open, uncensorable, and fair.&#x20;
 
