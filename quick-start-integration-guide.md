@@ -2,12 +2,18 @@
 
 ## We're Here to Help
 
-Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to the team on Twitter @TalentLayer or via email labs@talentlayer.org before integrating directly with TalentLayer’s interoperable reputation and services systems.
+Need help with something? Just want to chat?&#x20;
+
+Get in touch with the team:
+
+🐦 Twitter:  @TalentLayer&#x20;
+
+✉️ Email:  labs@talentlayer.org
 
 We are happy to help you:
 
-1. Understand how to implement TalentLayer on your platform: Every platform is a little different, and we want to know how we can best make our tech stack as composable as possible. By helping you, we learn too!
-2. Deploy TalentLayer on your platform’s native EVM chain: TalentLayer aims to be a cross-chain platform, and are in the process of spinning up implementations of our Alpha release on multiple EVM chains.
+1. Understand how to implement TalentLayer on your platform: By helping you, we learn how to better serve teams like you!
+2. Deploy TalentLayer on your platform’s native EVM chain: TalentLayer is cross-chain and are in the process of spinning up implementations of our Alpha release on multiple EVM chains.
 
 Happy building!
 
