@@ -6,7 +6,7 @@ Need help with something? Just want to chat?&#x20;
 
 Get in touch with the team:
 
-🐦 Twitter:  @TalentLayer&#x20;
+🐦 Twitter:  [@TalentLayer ](https://twitter.com/talentlayer)
 
 ✉️ Email:  labs@talentlayer.org
 
