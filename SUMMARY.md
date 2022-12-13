@@ -18,6 +18,7 @@
         * [ERC-1497: Evidence Standard](technical-guides/smart-contracts/escrow-and-dispute/arbitration/erc-1497-evidence-standard.md)
   * [Fees & Economics](basics/fees-and-economics.md)
 * [⚙ Technical Guides](technical-guides/README.md)
+  * [Integration Workshop](technical-guides/integration-workshop.md)
   * [Technical Schemas](technical-guides/technical-schemas.md)
   * [Network Support](technical-guides/network-support.md)
   * [DAPP Setup](technical-guides/dapp-setup.md)

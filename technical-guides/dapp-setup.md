@@ -1,6 +1,6 @@
 # DAPP Setup
 
-"Indie" is an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired.
+"Indie" is an open-source fork-able marketplace codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired.
 
 It's a good first step to set up a local version of Indie to...
 
