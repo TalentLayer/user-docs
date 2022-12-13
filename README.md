@@ -18,23 +18,31 @@ TalentLayer’s modular tools can be applied to build diverse marketplaces inclu
 * telemedicine apps
 * Rappi-style multi marketplace apps
 
+## Why TalentLayer?
+
 Why are developers and entrepreneurs building marketplaces using TalentLayer? Because open platforms benefit everyone; hirers, workers, and platforms. Discover why teams are building the next generation of labor markets on TalentLayer.&#x20;
 
 {% content-ref url="basics/business-case.md" %}
 [business-case.md](basics/business-case.md)
 {% endcontent-ref %}
 
-Want to get started building with TalentLayer's tools? Check out our technical guides or get in touch with us.&#x20;
+## Technical Guides
+
+Want to start building with TalentLayer's tools? Check out our technical guides or get in touch with us.&#x20;
 
 {% content-ref url="technical-guides/" %}
 [technical-guides](technical-guides/)
 {% endcontent-ref %}
 
-Want to contribute or become a part of the TalentLayer's open-source collective? Learn about contributing and get in touch.&#x20;
+## Integration Workshop
 
-{% content-ref url="open-source-contribution/build-talentlayer-together.md" %}
-[build-talentlayer-together.md](open-source-contribution/build-talentlayer-together.md)
+Want to see some visuals? Watch our latest technical workshop from Filecoin Hacker Hub in Lisbon and follow async with a clickable walkthrough.&#x20;
+
+{% content-ref url="technical-guides/integration-workshop.md" %}
+[integration-workshop.md](technical-guides/integration-workshop.md)
 {% endcontent-ref %}
+
+## Talk To The Team
 
 Need some help? We're here to chat.&#x20;
 
