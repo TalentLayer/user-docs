@@ -17,6 +17,7 @@
         * [ERC-792: Arbitration standard](technical-guides/smart-contracts/escrow-and-dispute/arbitration/erc-792-arbitration-standard.md)
         * [ERC-1497: Evidence Standard](technical-guides/smart-contracts/escrow-and-dispute/arbitration/erc-1497-evidence-standard.md)
   * [Fees & Economics](basics/fees-and-economics.md)
+  * [Decentralization](basics/decentralization.md)
 * [⚙ Technical Guides](technical-guides/README.md)
   * [Integration Workshop](technical-guides/integration-workshop.md)
   * [Technical Schemas](technical-guides/technical-schemas.md)
