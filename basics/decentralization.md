@@ -2,7 +2,7 @@
 
 ## Technical Components
 
-TalentLayer intends to be a fully decentralized protocol. We have composed all TalentLayer Core contracts in a decentralized way from day 1. Below you can explore the few centralized components that exist today; all relating to operations, onboarding, and third-party integrations
+TalentLayer intends to be a fully decentralized protocol. We have composed all TalentLayer Core contracts in a decentralized way from day 1. Below you can explore the few centralized components that exist today; all relating to operations, onboarding, and third-party integrations.
 
 If you have any questions, please scroll to the bottom of this page and get in touch!
 
@@ -60,7 +60,7 @@ All contracts and components not specifically mentioned in the section above are
 
 ## Development Operations
 
-Today, TalentLayer is being maintained by a team of open-source developers. TalentLayer was founded by [Kirsten](https://kirstenpomales.com/) and [Romain](https://github.com/0xromain), who coordinate the team. This team is in the process of creating an entity, TalentLayer Labs, based in Estonia to accept investment to support the continued development and expansion of TalentLayer. This team also manages the TalentLayer treasury and the few centralized components discussed in the prior section. &#x20;
+Today, TalentLayer is being maintained by a team of open-source developers. TalentLayer was founded by [Kirsten](https://kirstenpomales.com/) and [Romain](https://github.com/0xromain), who coordinate the team. This team is in the process of creating an Estonian entity, TalentLayer Labs, to support the development and expansion of TalentLayer. This team also manages the TalentLayer treasury and the few centralized components discussed in the prior section. &#x20;
 
 In the future, once our decentralized governance launches, our development operations will also be decentralized. Token holders and representatives they elect will then have control over treasury and contract management; funding open-source development and growing the protocol as the community votes.&#x20;
 
