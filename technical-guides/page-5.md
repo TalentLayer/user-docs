@@ -11,11 +11,11 @@
 <summary>TalentLayerID On-Chain</summary>
 
 ```json
-id
-handle
-pohAddress
-PlatformId
-DataUri (CID)
+id // nft identifier 
+handle // user's TalentLayer ID handle
+pohAddress // OPTIONAL user's proof of humanity address
+PlatformId // the platform where an ID was minted from
+DataUri (CID) // Link to the off-chain (IPFS) data
 ```
 
 </details>
@@ -25,13 +25,13 @@ DataUri (CID)
 <summary>TalentLayerID IPFS</summary>
 
 ```json
-title
-about
-skills 
-timeZone //Optional
-headline //Optional
-country //Optional
-picture //Optional
+title // 
+about // user's about me information
+skills // user's skill keywords
+timeZone // OPTIONAL 
+headline // OPTIONAL 
+country // OPTIONAL
+picture // OPTIONAL
 ```
 
 </details>
@@ -47,11 +47,11 @@ picture //Optional
 <summary>PlatformID On-Chain</summary>
 
 ```json
-id
-names
+id // nft identifier 
+names 
 takenNames
-platformUri
-fee
+platformUri // Link to the off-chain (IPFS) data
+fee // Fee configured for Platform Fee
 ```
 
 </details>
@@ -62,9 +62,9 @@ fee
 
 ```json
 about
-website //Optional
-country //Optional
-logo //Optional
+website // OPTIONAL
+country // OPTIONAL
+logo // OPTIONAL
 ```
 
 </details>
@@ -86,14 +86,14 @@ logo //Optional
 <summary>Service On-Chain</summary>
 
 ```json
-Status : Opened / Confirmed / Finished / Rejected
-buyerId
-sellerId
-initiatorId
-serviceDataUri
-countProposals
-transactionId
-platformId
+Status: Opened / Confirmed / Finished / Rejected 
+buyerId // TalentLayer ID handle of the buyer/hirer
+sellerId // TalentLayer ID handle of the seller/worker
+initiatorId // TalentLayer ID handle of the user who initiated the work 
+serviceDataUri // Link to the off-chain (IPFS) data
+countProposals 
+transactionId 
+platformId // Platform ID of the platform who facilitated post of service
 ```
 
 </details>
@@ -105,14 +105,14 @@ platformId
 ```json
 title
 about
-startDate
-expectedEndDate
-keywords
-role
-rateToken
-rateAmount
-recipient
-location //Optional
+startDate // start date of work, if applicable
+expectedEndDate // end date of work, if applicable
+keywords 
+role // is the service posted by a seller or a buyer
+rateToken // the token that the payment will be made in (token address mapped to a ticker sign)
+rateAmount // number of tokens to be paid
+recipient // TalentLayer ID of the seller/worker
+location // OPTIONAL
 ```
 
 </details>
@@ -125,10 +125,10 @@ location //Optional
 
 ```json
 Status ; Pending / Validated / Rejected
-sellerId
-rateToken
-rateAmount
-proposalDataUri
+sellerId // Talentlayer ID of the seller/worker
+rateToken // the token that the payment is requested in (token address mapped to a ticker sign)
+rateAmount // Numeber of tokens requested
+proposalDataUri // Link to the off-chain (IPFS) data
 ```
 
 </details>
@@ -141,7 +141,7 @@ proposalDataUri
 startDate
 title
 about
-expectedHours
+expectedHours // OPTIONAL
 ```
 
 </details>
@@ -159,11 +159,11 @@ expectedHours
 <summary>Escrow Transaction On-Chain</summary>
 
 ```json
-sender
-receiver
-token
-amount
-serviceId
+sender // person who sends funds (buyer)
+receiver // person who recived funds (seller)
+token // the token that is in the escrow contract
+amount // the number of tokens in the escrow contract
+serviceId // the identifier for the service the escrow is related to
 ```
 
 </details>
@@ -175,10 +175,10 @@ serviceId
 <summary>Escrow Payment On-Chain</summary>
 
 ```json
-PaymentType
-amount
-token
-serviceId
+PaymentType 
+token // the token that is in the escrow contract
+amount // the number of tokens in the escrow contract
+serviceId // the identifier for the service the escrow is related to
 ```
 
 </details>
@@ -218,12 +218,12 @@ DisputeStatus (Waiting, Appealable, Solved)
 <summary>Review On-Chain</summary>
 
 ```json
-serviceId
-toId
-tokenId
-rating
-reviewUri
-platformId
+serviceId // the identifier for the service the escrow is related to
+toId // the TalentLayer ID of the receiver of the review
+tokenId // identifier for the review NFT
+rating 
+reviewUri // Link to the off-chain (IPFS) data
+platformId // the platform where an ID was minted from
 ```
 
 </details>
@@ -233,8 +233,8 @@ platformId
 <summary>Review IPFS</summary>
 
 ```json
-content
-rating
+content // text content of the review 
+rating 
 ```
 
 </details>
@@ -243,3 +243,6 @@ rating
 [talentlayerreview.sol.md](smart-contracts/talentlayerreview.sol.md)
 {% endcontent-ref %}
 
+{% hint style="info" %}
+**Numeric Rating:** We intend to eventually remove the numeric rating metadata piece in the review element. Numeric ratings are highly subjective across diverse platforms and it is better if these ratings are calculated by the platforms themselves.
+{% endhint %}
