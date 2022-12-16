@@ -33,6 +33,8 @@
     * [TalentLayerReview.sol](technical-guides/smart-contracts/talentlayerreview.sol.md)
     * [Escrow & Dispute Contracts](technical-guides/smart-contracts/escrow-and-dispute.md)
   * [Common Errors](technical-guides/common-errors.md)
+  * [How-To Guides](technical-guides/how-to-guides/README.md)
+    * [How to implement minting TalentLayer IDs?](technical-guides/how-to-guides/how-to-implement-minting-talentlayer-ids.md)
 * [😁 Open-Source Contribution](open-source-contribution/README.md)
   * [Build TalentLayer Together](open-source-contribution/build-talentlayer-together.md)
   * [Advanced Documentation](open-source-contribution/advanced-documentation/README.md)
