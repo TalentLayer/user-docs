@@ -91,6 +91,10 @@ function recoverAccount(
 ```
 {% endcode %}
 
+## Visualization
+
+<figure><img src="../../.gitbook/assets/TalentLayerId.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+
 ## Learn More
 
 Learn more about why we have TalentLayer IDs and how they function in workflows:&#x20;

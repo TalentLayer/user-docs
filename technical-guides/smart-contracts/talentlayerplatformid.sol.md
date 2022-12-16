@@ -12,6 +12,10 @@
 More info coming soon!
 {% endhint %}
 
+## Visualization
+
+<figure><img src="../../.gitbook/assets/TalentLayerPLatformId.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+
 ## Learn More
 
 Learn more about why we have Platform IDs and how to get one here:

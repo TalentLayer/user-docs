@@ -8,6 +8,10 @@ It can be broken up used to:
 * Mint a review to a user
 * Look up reviews
 
+## Visualization
+
+<figure><img src="../../.gitbook/assets/TalentLayerReview.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+
 ## Learn More
 
 Learn more about why we have Reviews and how they function in workflows:&#x20;

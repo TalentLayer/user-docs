@@ -16,6 +16,10 @@ Services are assigned different statuses based on the stage of the service lifec
     }
 ```
 
+## Visualization
+
+<figure><img src="../../.gitbook/assets/ServiceRegistry.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+
 ## Learn More
 
 Learn more about why we have the Service Registry and how it functions in workflows:&#x20;
