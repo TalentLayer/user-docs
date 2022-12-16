@@ -1,7 +1,7 @@
 # 👋 Welcome
 
 {% hint style="success" %}
-**START BUILDING TODAY:** TalentLayer is live today! Launch a marketplace DAPP in minutes with our fork-able frontend, or integrate your own in a matter of weeks.
+**START BUILDING TODAY:** TalentLayer is live today! Launch a marketplace DAPP in minutes with our fork-able frontend, or integrate your own in days.
 {% endhint %}
 
 TalentLayer is infrastructure for open labor markets; backend tooling for building marketplaces that leverage an on-chain liquidity pool of users and services.
