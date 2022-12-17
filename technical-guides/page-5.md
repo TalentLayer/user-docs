@@ -8,7 +8,7 @@ In this section we provide all metadata elements that are used as a part of Tale
 
 ## **What Metadata Is Required For My Platform To Use?**&#x20;
 
-On-chain metadata is required operationally for TalentLayer. All on-chain metadata elements are thus required for your platform to function.&#x20;
+All on-chain metadata (except for metadata relating to third-party on-chain integrations) is required operationally for TalentLayer. These required metadata elements are necessary for your platform to function using TalentLayer.
 
 Off-chain metadata is a mixture of required, optional, and recommended. Please refer to each data element for the specifics.&#x20;
 
