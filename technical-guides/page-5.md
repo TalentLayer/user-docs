@@ -1,8 +1,26 @@
 # Metadata
 
+In this section we provide all metadata elements that are used as a part of TalentLayer today. Included below are comments explaining each piece of metadata and giving information on requirements of the various data pieces.&#x20;
+
 {% hint style="info" %}
-**What Metadata Is Required?** On-chain metadata is required operationally for TalentLayer. Off-chain metadata is a mixture of required and optional. Please refer to each data element for the specifics. For optional metadata, you can choose to allow users to submit information for the fields or you can choose to disregard the data fields.
+**Think We're Missing Something?** We're taking active feedback on our metadata and would love to hear what you think about our data structures. Have an opinion? Reach out to our team via the "Get Help" page of these docs.&#x20;
 {% endhint %}
+
+## **What Metadata Is Required For My Platform To Use?**&#x20;
+
+On-chain metadata is required operationally for TalentLayer. All on-chain metadata elements are thus required for your platform to function.&#x20;
+
+Off-chain metadata is a mixture of required, optional, and recommended. Please refer to each data element for the specifics.&#x20;
+
+Optional metadata is labeled "OPTIONAL"
+
+Recommended metadata is labeled "RECOMMENDED"&#x20;
+
+All other metadata elements not labeled can be considered required.
+
+For optional and recommended metadata, you can choose to allow users to submit information for the fields or you can choose to disregard the data fields.&#x20;
+
+Recommended metadata improves search-ability and user experience, but will still allow your workflows to function if left out.&#x20;
 
 ## TalentLayer ID
 
@@ -25,11 +43,11 @@ DataUri (CID) // Link to the off-chain (IPFS) data
 <summary>TalentLayerID IPFS</summary>
 
 ```json
-title // 
-about // user's about me information
-skills // user's skill keywords
+title // RECOMMENDED a user's professional title (e.g. "developer", "creative marketing expert")
+about // RECOMMENDED user's about me information
+skills // RECOMMENDED user's skill keywords
 timeZone // OPTIONAL 
-headline // OPTIONAL 
+headline // OPTIONAL an introduction headline (e.g. "passionate developer looking for solidity opportunities")
 country // OPTIONAL
 picture // OPTIONAL
 ```
@@ -48,8 +66,7 @@ picture // OPTIONAL
 
 ```json
 id // nft identifier 
-names 
-takenNames
+name // platform's ID handle - usually name of platform
 platformUri // Link to the off-chain (IPFS) data
 fee // Fee configured for Platform Fee
 ```
@@ -61,7 +78,7 @@ fee // Fee configured for Platform Fee
 <summary>PlatformID IPFS</summary>
 
 ```json
-about
+about // OPTIONAL
 website // OPTIONAL
 country // OPTIONAL
 logo // OPTIONAL
@@ -91,8 +108,8 @@ buyerId // TalentLayer ID handle of the buyer/hirer
 sellerId // TalentLayer ID handle of the seller/worker
 initiatorId // TalentLayer ID handle of the user who initiated the work 
 serviceDataUri // Link to the off-chain (IPFS) data
-countProposals 
-transactionId 
+countProposals // The total number of proposal for this service
+transactionId // the escrow transaction ID linked to the service
 platformId // Platform ID of the platform who facilitated post of service
 ```
 
@@ -103,16 +120,16 @@ platformId // Platform ID of the platform who facilitated post of service
 <summary>Service IPFS</summary>
 
 ```json
-title
-about
-startDate // start date of work, if applicable
-expectedEndDate // end date of work, if applicable
-keywords 
+title // title of the job
+about // about the job
+startDate // RECOMMENDED start date of work, if applicable
+expectedEndDate // RECOMMENDED end date of work, if applicable
+keywords // RECOMMENDED keywords of the job
 role // is the service posted by a seller or a buyer
 rateToken // the token that the payment will be made in (token address mapped to a ticker sign)
 rateAmount // number of tokens to be paid
 recipient // TalentLayer ID of the seller/worker
-location // OPTIONAL
+location // OPTIONAL Location of user
 ```
 
 </details>
@@ -138,9 +155,9 @@ proposalDataUri // Link to the off-chain (IPFS) data
 <summary>Proposal IPFS</summary>
 
 ```json
-startDate
-title
-about
+startDate // RECOMMENDED start date of work for proposal
+title // title of proposal
+about // details of the proposal
 expectedHours // OPTIONAL
 ```
 
@@ -175,7 +192,7 @@ serviceId // the identifier for the service the escrow is related to
 <summary>Escrow Payment On-Chain</summary>
 
 ```json
-PaymentType 
+paymentType // can be either “release” (pay the seller) or “reimburse” (money back to the buyer)
 token // the token that is in the escrow contract
 amount // the number of tokens in the escrow contract
 serviceId // the identifier for the service the escrow is related to
@@ -194,11 +211,11 @@ serviceId // the identifier for the service the escrow is related to
 <summary>Kleros Arbitrator On-Chain</summary>
 
 ```json
-Arbitrable
-Choices
-fee
-ruling
-DisputeStatus (Waiting, Appealable, Solved)
+Arbitrable // contract that the arbitatror is ruling on (where the dispute came from, e.g. our escrow)
+Choices // number of different choices that the arbitrator can make (the number of possible outcomes of the dispute)
+fee // arbitration fee, amount that must be paid to the arbitrator in order to raise a dispute
+ruling // decision taken by the arbitrator (must be one of the available choices or 0, which stands for “refused to arbitrate”)
+DisputeStatus (Waiting, Appealable, Solved) // current status of the dispute - whether it has just been created, or a ruling has been given but can still be appealed, or is definitely solved
 ```
 
 </details>
@@ -234,7 +251,7 @@ platformId // the platform where an ID was minted from
 
 ```json
 content // text content of the review 
-rating 
+rating // OPTIONAL 1-5 star rating for the work done
 ```
 
 </details>
