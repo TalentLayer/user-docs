@@ -8,17 +8,19 @@ TalentLayer is multi-chain. We have deployments across various networks. Support
 
 ## Supported Networks&#x20;
 
-| Network         | Status            | Type    | Features\*                                                          |
-| --------------- | ----------------- | ------- | ------------------------------------------------------------------- |
-| Gnosis          | Live              | Mainnet | All features except Kleros Arbitration                              |
-| Ethereum Goerli | Live              | Testnet | All features except TalentLayer ID Recovery                         |
-| Ethereum Kovan  | Live              | Testnet | All features except subgraph querying                               |
-| Avalanche Fuji  | Live              | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
-| Avalanche       | Deploying Q1 2023 | Mainnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Network         | Status                  | Type    | Features\*                                                          |
+| --------------- | ----------------------- | ------- | ------------------------------------------------------------------- |
+| Gnosis          | Live                    | Mainnet | All features except Kleros Arbitration                              |
+| Ethereum Goerli | Live                    | Testnet | All features except TalentLayer ID Recovery                         |
+| Ethereum Kovan  | Live                    | Testnet | All features except subgraph querying                               |
+| Avalanche Fuji  | Live                    | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Avalanche       | Deploying Q1 2023       | Mainnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Polygon Mumbai  | Deploying December 2022 | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Polygon         | Deploying Q1 2023       | Mainnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
 
-We intend to over the next 6-12 month deploy to additional chains including but not limited to Aurora, Polygon, Polkadot Moonbeam.&#x20;
+We intend to over the next 6-12 month deploy to additional chains including but not limited to Aurora, Polkadot Moonbeam.&#x20;
 
-We intend to partner with organizations to co-create TalentLayer conracts outside of the EVM space, with deployment planning in progress for NEAR and Stacks.&#x20;
+We intend to partner with organizations to co-create TalentLayer contracts outside of the EVM space, with deployment planning in progress for NEAR and Stacks.&#x20;
 
 \*Features that are listed as not supported on specific chains are due to certain third-party technologies not being deployed to those chains. For example, Kleros only supports Ethereum and not other EVM chains.&#x20;
 
