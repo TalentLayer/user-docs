@@ -42,3 +42,4 @@
     * [Smart Contracts Local Setup](open-source-contribution/advanced-documentation/smart-contracts-local-setup.md)
 * [🛠 Get Help](quick-start-integration-guide.md)
 * [🙌 Support TalentLayer](support-talentlayer.md)
+* [🧠 Inspiration for Builders](inspiration-for-builders.md)
