@@ -8,15 +8,16 @@ TalentLayer is multi-chain. We have deployments across various networks. Support
 
 ## Supported Networks&#x20;
 
-| Network         | Status                  | Type    | Features\*                                                          |
-| --------------- | ----------------------- | ------- | ------------------------------------------------------------------- |
-| Gnosis          | Live                    | Mainnet | All features except Kleros Arbitration                              |
-| Ethereum Goerli | Live                    | Testnet | All features except TalentLayer ID Recovery                         |
-| Ethereum Kovan  | Live                    | Testnet | All features except subgraph querying                               |
-| Avalanche Fuji  | Live                    | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
-| Avalanche       | Deploying Q1 2023       | Mainnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
-| Polygon Mumbai  | Deploying December 2022 | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
-| Polygon         | Deploying Q1 2023       | Mainnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Network                 | Status                        | Type    | Features\*                                                          |
+| ----------------------- | ----------------------------- | ------- | ------------------------------------------------------------------- |
+| Gnosis                  | Live                          | Mainnet | All features except Kleros Arbitration                              |
+| Ethereum Goerli         | Live                          | Testnet | All features except TalentLayer ID Recovery                         |
+| Ethereum Kovan          | Live                          | Testnet | All features except subgraph querying                               |
+| Avalanche Fuji          | Live                          | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Avalanche               | Deploying Q1 2023             | Mainnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Polygon Mumbai          | Deploying December 2022       | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Polygon                 | Deploying Q1 2023             | Mainnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
+| Moonbeam Moonbase Alpha | Deploying Q2 2023 (tentative) | Testnet | All features except Kleros Arbitration and TalentLayer ID Recovery  |
 
 We intend to over the next 6-12 month deploy to additional chains including but not limited to Aurora, Polkadot Moonbeam.&#x20;
 
