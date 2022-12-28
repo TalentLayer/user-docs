@@ -1,8 +1,7 @@
-# Contribute to TalentLayer
+# Build TalentLayer Together
 
-We’re a scrappy team of builders who believe that the future of work is open, uncensorable, and fair.&#x20;
+TalentLayer is maintained by a fast-growing community of open-source contributors, let by the **Core Team**. All team members have been freelancers, most have hired freelancers, and some have built gig marketplaces. Together, they’re a united front building a better way to do work.
 
-* All of us have been freelancers and most of us have hired freelancers
 * We represent 9+ nationalities and even more languages
 * We currently have 15 active people contributing; led by our Core Team
 * To date we’ve had 17+ people contribute to our open-source development and biz ops to get TalentLayer where it is today
