@@ -46,6 +46,16 @@ Want to see some visuals? Watch our latest technical workshop from Filecoin Hack
 [integration-workshop.md](technical-guides/integration-workshop.md)
 {% endcontent-ref %}
 
+## Looking for the 🌱 Lens Protocol Integration?&#x20;
+
+TalentLayer has partnered with Lens, the decentralized social graph, to connect our protocols; enabling platforms building on Lens to offer work-related offerings like job posts, proposals, escrow payments and more, and platforms building on TalentLayer to let users display their social history alongside their work reputations.
+
+Learn more here:
+
+{% content-ref url="basics/lens-integration.md" %}
+[lens-integration.md](basics/lens-integration.md)
+{% endcontent-ref %}
+
 ## Talk To The Team
 
 Need some help? We're here to chat.&#x20;
