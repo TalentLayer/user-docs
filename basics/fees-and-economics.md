@@ -35,7 +35,7 @@ Because many platforms desire to levy fees on job posts, TalentLayer will offer 
 When considering whether to levy a job posting fee, take into consideration that charging to post jobs can help limit the possibility of spam job posts on your platform.&#x20;
 
 {% hint style="warning" %}
-**Alert:** The Job Posting Fee is in development and is launching late December 2022.&#x20;
+**Alert:** The Job Posting Fee is in development and is launching soon.&#x20;
 {% endhint %}
 
 ## Gas Fees
@@ -49,7 +49,7 @@ With Fee Sponsorship, you can cover protocol fees and gas fees on behalf of your
 Fee Sponsorship can be configured with your Platform ID and involves you loading a wallet with cryptos to cover fees that users incur.
 
 {% hint style="warning" %}
-**Alert:** The Fee Sponsorship is in development and is launching late December 2022.&#x20;
+**Alert:** The Fee Sponsorship is in development and is launching soon.&#x20;
 {% endhint %}
 
 ## Other Fees and Economics
