@@ -8,6 +8,12 @@
 * **Appeal:** an opportunity for a party to try to contest the current (but not final) ruling
 * **Evidence:** material provided by a party to support his/her viewpoint
 
+## Dispute Resolution Deep Dive
+
+{% embed url="https://youtu.be/3GlDAjYVC2E" %}
+Recorded January 2023 - Subject to Change
+{% endembed %}
+
 ## Dispute Workflow
 
 1. Two parties disagree on something.
