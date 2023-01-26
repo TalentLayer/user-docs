@@ -1,53 +1,77 @@
-# Graph & Endpoints
+# The Graph
 
-The TalentLayer Subgraph is hosted on [The Graph](https://thegraph.com/en/)'s decentralized managed hosting service. In mid-2023 we will be migrating to their decentralized hosting service.
+TalentLayer provides querying mechanisms by using the tools provided by [The Graph](https://thegraph.com/en/). The [TalentLayer Subgraph](https://github.com/TalentLayer/talentlayer-id-subgraph) is the implementation of [The Graph](https://thegraph.com/en/) that should be used to query TalentLayer data. The Data that can be queried is defined by [the Subgraph Schema](https://github.com/TalentLayer/talentlayer-id-subgraph/blob/main/schema.graphql) and can be explored using [the GraphQL explorer](https://cloud.hasura.io/public/graphiql)..
 
-## Reading from TalentLayer
+## Exploring the Subgraph
 
-TalentLayer is multi-chain. Each platform must choose at least one TalentLayer Core chain implementation to read from.
+The easiest way to explore the TalentLayer subgraph is to check out the Graph's playground environment. We currently have two subgraphs hosted there, one for the Ethereum goerli testnet and one for the Avalanche fuiji testnet.
 
-Reading is necessary to display repetitional and service information on your UI. You can create features such as:
+* [**TalentLayer Subgraph Playground - Ethereum Goerli Testnet**](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol)****
+* [**TalentLayer Subgraph Playground - Avalanche Fuji Testnet**](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji)
 
-* Reputation search pages
-* Service search pages
-* Pages that show a user their own reputation
-* More
+## Understanding the Schema
 
-There are three key **data entities** that can be searched in the TalentLayer Graph:
+The most commonly used entities has a related description entity that stores the off-chain data hosted on [IPFS](https://www.ipfs.com/).
 
-1. Service - A service that has been minted and it’s status
-2. User - A user’s TalentLayer ID NFT
-3. Review - A review that has been minted and associated with someone’s TalentLayer ID
+| On-chain Entity | Off-chain Entity    |
+| --------------- | ------------------- |
+| Service         | ServiceDescription  |
+| Proposal        | ProposalDescription |
+| Review          | ReviewDescription   |
+| User            | UserDescription     |
+| Platform        | PlatformDescription |
 
-The TalentLayer Graph is highly flexible: you can query and sort many diverse data points on services, reputations, identities, and how they associate with one another.
+The off-chain entity that is related to an on-chain entity can be accessed through the field description. Here is an example of what the relationship looks like in GraphQL.
 
-## Exploring the Schema
-
-The [TalentLayer Graph Schema ](https://github.com/TalentLayer/talentlayer-id-subgraph/blob/main/schema.graphql)can be tested, explored and query easly:&#x20;
-
-* Using one of the official playground links that you can find bellow (example for Goerli: [https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol)).
-* With the [the GraphQL explorer](https://cloud.hasura.io/public/graphiql) tool with any of the endpoints.
-* By directly visiting the endpoint links and manually inputting the query.
-
-| Blockchain              | Docs & Playground                                                                                                                                                | Endpoint                                                                                                                                               |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ethereum Goerli Testnet | [https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol) | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol) |
-| Avalanche Fuji Testnet  | [https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji)         | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji)         |
-
-## Querying the graph&#x20;
-
-This is an example of a query that you can run:&#x20;
-
+```graphql
+{
+  services {
+    id
+    description {
+      id
+    }
+  }
+}
 ```
-// Get last 5 opened services with their offchain data for the platform 1
 
+{% hint style="info" %}
+This same pattern can be applied to the other entities by simply changing **services** to either **users, proposals, reviews,** or **platforms.**
+{% endhint %}
+
+### Querying Services
+
+#### Querying Services with their related description
+
+Any of the attributes associated with the entities can be queried.&#x20;
+
+```graphql
+{
+  services {
+    id
+    createdAt
+    updatedAt
+    description {
+      id
+      title
+      about
+    }
+  }
+}
+```
+
+#### Filtering Services Based On Different Attributes
+
+Queries can also be ordered by and limited in number based on the values of different attributes.
+
+```graphql
+# Get last 5 opened services with their offchain data for the platform 1
 {
   services(
-    orderBy: createdAt,
-    orderDirection: desc,
-    first: 5,
+    orderBy: createdAt
+    orderDirection: desc
+    first: 5
     where: {
-      status: Opened,
+      status: Opened
       platform: "1"
     })
   {
@@ -59,12 +83,12 @@ This is an example of a query that you can run:&#x20;
       id
     }
     buyer {
-      id, 
-      handle, 
-      numReviews,
+      id 
+      handle 
+      numReviews
     }
     description {
-      id,
+      id
       title
       about
       startDate
@@ -75,8 +99,44 @@ This is an example of a query that you can run:&#x20;
     }
   }
 }
-
-
-
-
 ```
+
+{% hint style="info" %}
+For more information about sorting, pagination, and filtering please check out [The Graph GraphQL API documentation](https://thegraph.com/docs/en/querying/graphql-api/).
+{% endhint %}
+
+#### Fulltext Search for ServiceDescription using
+
+The TalentLayer Subgraph further offers a fulltext search feature that can be used to make more advanced text searches.&#x20;
+
+```graphql
+type _Schema_ @fulltext (
+  name: "serviceDescriptionSearchRank"
+  language: en
+  algorithm: proximityRank
+  include: [
+    { entity: "ServiceDescription", fields: [
+      { name: "title" }, 
+      { name: "keywords_raw" }
+    ]}]
+)
+```
+
+The fulltext search allows using operators to query service descriptions based on text. For example, all the services that has a description that contains either  the word `hadhat` or the word \`development\` in the field `title` or in the field `keywords_raw` can be found using the followng query:
+
+```graphql
+{
+  serviceDescriptionSearchRank(text: "hardhat | development") {
+    title
+    about
+    keywords_raw
+    service {
+      id
+    }
+  }
+}
+```
+
+{% hint style="info" %}
+For more information on which operators are allowed and how to use them, please check out the Graph's [documentations on fulltext search queries](https://thegraph.com/docs/en/querying/graphql-api/#fulltext-search-queries).
+{% endhint %}
