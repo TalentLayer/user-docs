@@ -23,9 +23,60 @@ The TalentLayer Graph is highly flexible: you can query and sort many diverse da
 
 ## Exploring the Schema
 
-The [TalentLayer Graph Schema ](https://github.com/TalentLayer/talentlayer-id-subgraph/blob/main/schema.graphql)can be explored using [the GraphQL explorer](https://cloud.hasura.io/public/graphiql) with any of the endpoints listed below or by directly visiting the endpoint links and manually inputting the query.
+The [TalentLayer Graph Schema ](https://github.com/TalentLayer/talentlayer-id-subgraph/blob/main/schema.graphql)can be tested, explored and query easly:&#x20;
 
-| Blockchain              | Endpoint                                                                                                                                               |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ethereum Goerli Testnet | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol) |
-| Avalanche Fuji Testnet  | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji)         |
+* Using one of the official playground links that you can find bellow (example for Goerli: [https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol)).
+* With the [the GraphQL explorer](https://cloud.hasura.io/public/graphiql) tool with any of the endpoints.
+* By directly visiting the endpoint links and manually inputting the query.
+
+| Blockchain              | Docs & Playground                                                                                                                                                | Endpoint                                                                                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Ethereum Goerli Testnet | [https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol) | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol) |
+| Avalanche Fuji Testnet  | [https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji)         | [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-fuji)         |
+
+## Querying the graph&#x20;
+
+This is an example of a query that you can run:&#x20;
+
+```
+// Get last 5 opened services with their offchain data for the platform 1
+
+{
+  services(
+    orderBy: createdAt,
+    orderDirection: desc,
+    first: 5,
+    where: {
+      status: Opened,
+      platform: "1"
+    })
+  {
+    id
+    createdAt
+    updatedAt
+    status
+    platform {
+      id
+    }
+    buyer {
+      id, 
+      handle, 
+      numReviews,
+    }
+    description {
+      id,
+      title
+      about
+      startDate
+      expectedEndDate
+      keywords_raw
+      rateToken
+      rateAmount
+    }
+  }
+}
+
+
+
+
+```
