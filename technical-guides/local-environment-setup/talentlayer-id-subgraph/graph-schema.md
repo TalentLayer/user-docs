@@ -9,7 +9,13 @@ The easiest way to explore the TalentLayer subgraph is to check out the Graph's 
 * [**TalentLayer Subgraph Playground - Ethereum Goerli Testnet**](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol)****
 * [**TalentLayer Subgraph Playground - Avalanche Fuji Testnet**](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji)
 
-## Understanding the Schema
+## Using the Playground
+
+Using the playground you can create and save your own graphQL queries, as well as **try out the default queries that we provide to get you up and running!**
+
+On the righthand side, you have access to some neat functionality that will help you explore the subgraph. Check out **the GraphQL Explorer** as well as **Documentation Explorer** to create customized queries on the fly!
+
+## An Introduction to Writing GraphQL Queries for the TalentLayer Subgraph
 
 The most commonly used entities has a related description entity that stores the off-chain data hosted on [IPFS](https://www.ipfs.com/).
 
@@ -105,24 +111,11 @@ Queries can also be ordered by and limited in number based on the values of diff
 For more information about sorting, pagination, and filtering please check out [The Graph GraphQL API documentation](https://thegraph.com/docs/en/querying/graphql-api/).
 {% endhint %}
 
-#### Fulltext Search for ServiceDescription using
+#### Fulltext Search for ServiceDescription
 
 The TalentLayer Subgraph further offers a fulltext search feature that can be used to make more advanced text searches.&#x20;
 
-```graphql
-type _Schema_ @fulltext (
-  name: "serviceDescriptionSearchRank"
-  language: en
-  algorithm: proximityRank
-  include: [
-    { entity: "ServiceDescription", fields: [
-      { name: "title" }, 
-      { name: "keywords_raw" }
-    ]}]
-)
-```
-
-The fulltext search allows using operators to query service descriptions based on text. For example, all the services that has a description that contains either  the word `hadhat` or the word \`development\` in the field `title` or in the field `keywords_raw` can be found using the followng query:
+The fulltext search allows using operators to query service descriptions based on text. For example, all the services that has a description that contains either  the word `hadhat` or the word `development` in the field `title` or in the field `keywords_raw` can be found using the followng query:
 
 ```graphql
 {
