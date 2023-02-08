@@ -1,4 +1,4 @@
-# 🛠 Get Help
+# 🛠 Contact The Team
 
 ## We're Here to Help
 
@@ -14,9 +14,3 @@ We are happy to help you:
 
 1. Understand how to implement TalentLayer on your platform: By helping you, we learn how to better serve teams like you!
 2. Deploy TalentLayer on your platform’s native EVM chain: TalentLayer is cross-chain and are in the process of spinning up implementations of our Alpha release on multiple EVM chains.
-
-Happy building!
-
-Twitter: @TalentLayer
-
-Email: labs@talentlayer.org
