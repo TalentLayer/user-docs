@@ -163,8 +163,8 @@ expectedHours // OPTIONAL
 
 </details>
 
-{% content-ref url="smart-contracts/serviceregistry.sol.md" %}
-[serviceregistry.sol.md](smart-contracts/serviceregistry.sol.md)
+{% content-ref url="smart-contracts/talentlayerservice.sol.md" %}
+[talentlayerservice.sol.md](smart-contracts/talentlayerservice.sol.md)
 {% endcontent-ref %}
 
 ## Escrow

@@ -1,6 +1,6 @@
 # Services
 
-****[**ServiceRegistry.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/ServiceRegistry.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily.
+[TalentLayerService.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerService.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily.
 
 The Service Registry is a searchable on-chain repository of services such as jobs and bounties that can be posted to and read from by any integrated platform. This cross-posting allows for a broader range of users to view and submit proposals for a wide range of services.
 
@@ -52,6 +52,6 @@ In this implementation, the Proposal defines the final pay rate and terms. When 
 
 Learn more about the technical side of services and proposals in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../../technical-guides/smart-contracts/serviceregistry.sol.md" %}
-[serviceregistry.sol.md](../../technical-guides/smart-contracts/serviceregistry.sol.md)
+{% content-ref url="../../technical-guides/smart-contracts/talentlayerservice.sol.md" %}
+[talentlayerservice.sol.md](../../technical-guides/smart-contracts/talentlayerservice.sol.md)
 {% endcontent-ref %}

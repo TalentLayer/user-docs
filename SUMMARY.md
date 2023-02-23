@@ -29,7 +29,7 @@
     * [Deployments](technical-guides/smart-contracts/deployments.md)
     * [TalentLayerPlatformID.sol](technical-guides/smart-contracts/talentlayerplatformid.sol.md)
     * [TalentLayerID.sol](technical-guides/smart-contracts/talentlayerid.sol.md)
-    * [ServiceRegistry.sol](technical-guides/smart-contracts/serviceregistry.sol.md)
+    * [TalentLayerService.sol](technical-guides/smart-contracts/talentlayerservice.sol.md)
     * [TalentLayerReview.sol](technical-guides/smart-contracts/talentlayerreview.sol.md)
     * [Escrow & Dispute Contracts](technical-guides/smart-contracts/escrow-and-dispute.md)
   * [Common Errors](technical-guides/common-errors.md)

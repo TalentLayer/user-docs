@@ -1,6 +1,6 @@
-# ServiceRegistry.sol
+# TalentLayerService.sol
 
-[**ServiceRegistry.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/ServiceRegistry.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily.
+[TalentLayerService.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerService.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily.
 
 ### Service Status
 
