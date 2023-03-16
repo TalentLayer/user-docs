@@ -44,8 +44,8 @@ The decentralization of this components is on our engineering timeline. We can a
 
 Learn more about TalentLayer ID Recovery below.&#x20;
 
-{% content-ref url="elements/what-is-talentlayer-id/talentlayer-id-recovery.md" %}
-[talentlayer-id-recovery.md](elements/what-is-talentlayer-id/talentlayer-id-recovery.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### Subgraph Hosting
