@@ -7,7 +7,7 @@ TalentLayer provides querying mechanisms by using the tools provided by [The Gra
 The easiest way to explore the TalentLayer subgraph is to check out the Graph's playground environment. We currently have two subgraphs hosted there, one for the Ethereum goerli testnet and one for the Avalanche fuiji testnet.
 
 * [**TalentLayer Subgraph Playground - Ethereum Goerli Testnet**](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-protocol)****
-* [**TalentLayer Subgraph Playground - Avalanche Fuji Testnet**](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji)
+* [**TalentLayer Subgraph Playground - P**](https://thegraph.com/hosted-service/subgraph/talentlayer/talent-layer-fuji)****[**olygon Mumbai Testnet**](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-mumbai)****
 
 ## Using the Playground
 
