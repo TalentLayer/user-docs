@@ -50,7 +50,7 @@ Get the WALLET\_CONNECT\_PROJECT\_ID from  [https://walletconnect.com/](https://
 
 Get the INFURA\_ID and INFURA\_SECRET at [https://www.infura.io/](https://www.infura.io/) by creating a new project for IPFS.
 
-Set NETWORK\_ID to for now 5, this is the ID of [goerli testnet](https://goerli.net/). For other networks, find the chainID on [Chainlist](https://chainlist.org/).&#x20;
+Set NETWORK\_ID to for now to the ID for Mumbai Testnet. Find the chainID on [Chainlist](https://chainlist.org/).&#x20;
 
 Set the SUBGRAPH\_URL to [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol). \
 (This is the subgraph endpoint on goerli testnet. The available endpoints can be found in the [Graph Schema](local-environment-setup/talentlayer-id-subgraph/graph-schema.md) page.)
