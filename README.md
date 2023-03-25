@@ -63,8 +63,4 @@ Learn more here:
 
 ## Talk To The Team
 
-Need some help? We're here to chat.&#x20;
-
-{% content-ref url="quick-start-integration-guide.md" %}
-[quick-start-integration-guide.md](quick-start-integration-guide.md)
-{% endcontent-ref %}
+{% embed url="https://th0ijmupkis.typeform.com/to/elUeofTE" %}
