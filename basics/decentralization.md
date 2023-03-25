@@ -36,17 +36,7 @@ Learn more about Platform IDs here.
 [platformid.md](elements/platformid.md)
 {% endcontent-ref %}
 
-#### TalentLayer ID Recovery
 
-The TalentLayer ID recovery process involves a centralized repository of recovery keys that is hosted by the TalentLayer team. Additionally, the TalentLayer team has the capability of creating recovery codes on behalf of users.&#x20;
-
-The decentralization of this components is on our engineering timeline. We can achieve this through using zk technology combined with the storage of recovery keys on-chain rather than on a server.&#x20;
-
-Learn more about TalentLayer ID Recovery below.&#x20;
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 #### Subgraph Hosting
 
@@ -60,13 +50,13 @@ All contracts and components not specifically mentioned in the section above are
 
 ## Development Operations
 
-Today, TalentLayer is being maintained by a team of open-source developers. TalentLayer was founded by [Kirsten](https://kirstenpomales.com/) and [Romain](https://github.com/0xromain), who coordinate the team. This team is in the process of creating an Estonian entity, TalentLayer Labs, to support the development and expansion of TalentLayer. This team also manages the TalentLayer treasury and the few centralized components discussed in the prior section. &#x20;
+Today, TalentLayer is being maintained by a team of open-source developers. TalentLayer was founded by [Kirsten](https://kirstenpomales.com/) and [Romain](https://github.com/0xromain), who coordinate the team. This team manages the TalentLayer treasury and the few centralized components discussed in the prior section. &#x20;
 
 In the future, once our decentralized governance launches, our development operations will also be decentralized. Token holders and representatives they elect will then have control over treasury and contract management; funding open-source development and growing the protocol as the community votes.&#x20;
 
 ## Decentralization Timeline
 
-TalentLayer intends to launch our token and transition contract management to a decentralized organization when we have reached a sufficient number of integrated platforms. We believe this number will be between 20 and 50 platforms, depending on the level these platforms choose to co-create with us. This is because tokenomic and governance design of decentralized systems needs to be crafted with involvement from diverse ecosystem participants; in our case, this includes various types of integrating platforms and their users.&#x20;
+TalentLayer intends to launch our token and transition contract management to a decentralized organization when we have reached a sufficient number of integrated platforms. We believe this number will be between 20 and 50 platforms, depending on the level these platforms choose to co-create with us. This is because tokenomics and governance design of decentralized systems needs to be crafted with involvement from diverse ecosystem participants; in our case, this includes various types of integrating platforms and their users.&#x20;
 
 We hope to closely involve our earliest marketplace partners in a process of tokenomics and governance co-creation to ensure that TalentLayer succeeds in it's goal of being a user-owned and governed network.&#x20;
 
