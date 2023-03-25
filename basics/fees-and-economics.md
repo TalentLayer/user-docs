@@ -48,6 +48,6 @@ With our Delegation system, you can cover protocol fees and gas fees on behalf o
 
 Fee Sponsorship can be configured with your Platform ID and involves you loading a wallet with cryptos to cover fees that users incur.
 
-{% content-ref url="../technical-guides/delegation-and-covering-fees.md" %}
-[delegation-and-covering-fees.md](../technical-guides/delegation-and-covering-fees.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

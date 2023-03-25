@@ -24,7 +24,6 @@
   * [DAPP Setup](technical-guides/dapp-setup.md)
   * [The Graph](technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md)
   * [Metadata](technical-guides/page-5.md)
-  * [Delegation & Covering Fees](technical-guides/delegation-and-covering-fees.md)
   * [Smart Contracts](technical-guides/smart-contracts/README.md)
     * [Deployments](technical-guides/smart-contracts/deployments.md)
     * [TalentLayerPlatformID.sol](technical-guides/smart-contracts/talentlayerplatformid.sol.md)
