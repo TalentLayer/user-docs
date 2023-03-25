@@ -20,7 +20,7 @@ Unlike other freelancing platforms, separate accounts are not needed to hire fre
 
 Your TalentLayer ID Handle is a unique string of characters and numbers that you can choose when you create your TalentLayer ID. This handle is how others can search for your reputation.
 
-You can have a maximum of 10 characters in your TalentLayer ID.
+You can have a maximum of 31 characters in your TalentLayer ID and use only low characters, numbers and - or \_.
 
 {% hint style="info" %}
 **Choose wisely:** Make sure you choose your handle carefully - after your ID has been initiated, your handle can not be changed.
@@ -38,13 +38,13 @@ TalentLayer IDs can also be claimed on any integrated marketplace platform.
 
 | CHARACTERS | PRICE (MATIC) |
 | ---------- | ------------- |
-| 5+         | Free          |
+| 5+         | 1             |
 | 4          | 25            |
 | 3          | 50            |
 | 2          | 100           |
 | 1          | 200           |
 
-Standard TalentLayer IDs are between 5 and 20 characters long - they are available for minting for free by anyone, forever.\
+Standard TalentLayer IDs are between 5 and 31 characters long - they are available for minting for a symbolic 1 MATIC by anyone.\
 \
 Specialty TalentLayer IDs are between 1 and 4 characters long - these are available for purchase at the price rates below. Proceeds from TalentLayer ID sales go to fund TalentLayer’s open-source development.
 

@@ -4,11 +4,10 @@ TalentLayer Core is composable, decentralized, open-source infrastructure for ta
 
 TalentLayer Core is composed of the following key modules:
 
-* TalentLayer ID System
-  * TalentLayer ID
-  * Platform ID
-  * TalentLayer Review
-* TalentLayer Universal Services & Proposal System
-* TalentLayer Escrow & Dispute System
+* **TalentLayerPlatformID:** Marketplace configuration (fees, dispute, access)
+* **TalentLayerID:** Worker and hirer identity
+* **TalentLayerReview:** Mutual review&#x20;
+* **TalentLayerService:** Universal Services & Proposal System
+* **TalentLayerEscrow:** Escrow & Dispute System
 
 TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a universal reputation system and services repository that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces.
