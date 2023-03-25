@@ -9,7 +9,7 @@
 
 ## Data Structure
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ## Visualization
 

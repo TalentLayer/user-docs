@@ -43,27 +43,22 @@ touch .env #Create env file
 
 {% code title=".env" lineNumbers="true" %}
 ```
-VITE_WALLECT_CONNECT_PROJECT_ID=
-VITE_NETWORK_ID=
-VITE_INFURA_ID=
-VITE_INFURA_SECRET=
-VITE_SUBGRAPH_URL=
-VITE_PLATFORMID=
+VITE_WALLECT_CONNECT_PROJECT_ID=xxxxx
+VITE_NETWORK_ID=80001
+VITE_INFURA_ID=xxxxx
+VITE_INFURA_SECRET=xxxxxx
+VITE_PLATFORM_ID=4
+VITE_LENS_URL=https://api.lens.dev/
+VITE_IPFS_BASE_URL=https://ipfs.io/ipfs/
+VITE_POH_SUBGRAPH_URL=https://api.thegraph.com/subgraphs/name/kleros/proof-of-humanity-mainnet
+VITE_SIGNATURE_API_URL=
 ```
 {% endcode %}
 
-Get the WALLET\_CONNECT\_PROJECT\_ID from  [https://walletconnect.com/](https://walletconnect.com/)
-
-Get the INFURA\_ID and INFURA\_SECRET at [https://www.infura.io/](https://www.infura.io/) by creating a new project for IPFS.
-
-Set NETWORK\_ID to for now to the ID for Mumbai Testnet. Find the chainID on [Chainlist](https://chainlist.org/).&#x20;
-
-Set the SUBGRAPH\_URL to [https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol](https://api.thegraph.com/subgraphs/name/talentlayer/talent-layer-protocol). \
-(This is the subgraph endpoint on goerli testnet. The available endpoints can be found in the [Graph Schema](local-environment-setup/talentlayer-id-subgraph/graph-schema.md) page.)
-
-If you have a PLATFORMID, set it to the numeric identifier for your ID.&#x20;
-
-If you do not yet have a PLATFORMID, set this field  to 1.  This allows you to interface with the contracts as a null identity on testnet while you are waiting for your PLATFORMID.&#x20;
+* Get the VITE\_WALLECT\_CONNECT\_PROJECT\_ID from  [https://walletconnect.com/](https://walletconnect.com/)
+* Get the VITE\_INFURA\_ID and VITE\_INFURA\_SECRET at [https://www.infura.io/](https://www.infura.io/) by creating a new project for IPFS.
+* Set NETWORK\_ID to for now to the ID for Mumbai Testnet. Find the chainID on [Chainlist](https://chainlist.org/).&#x20;
+* Set it to the numeric identifier for the platform ID you want to post on.&#x20;
 
 Learn about how to request a PLATFORMID here:&#x20;
 

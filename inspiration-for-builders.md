@@ -63,8 +63,8 @@ Names ideas: AuctionWork, noWWorking. AutoPlan. Freererlance, BetterWork, WorkBe
 
 TalentLayer’s low-level infra creates a new base layer that many new sorts of platforms, services, and other infrastructures can build on top of. There’s so much that’s possible; check out some of the key demographics of products that you can launch to power the future of work.
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

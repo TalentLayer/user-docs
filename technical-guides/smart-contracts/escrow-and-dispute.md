@@ -12,7 +12,7 @@ It can used to:
 
 ## Data Structure
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 ## Visualization: TalentLayerEscrow.sol
 

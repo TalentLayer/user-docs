@@ -9,7 +9,7 @@ It can used to:
 
 ## Data Structure
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 ## Visualization
 

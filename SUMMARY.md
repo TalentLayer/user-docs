@@ -32,7 +32,6 @@
     * [TalentLayerService.sol](technical-guides/smart-contracts/talentlayerservice.sol.md)
     * [TalentLayerReview.sol](technical-guides/smart-contracts/talentlayerreview.sol.md)
     * [Escrow & Dispute Contracts](technical-guides/smart-contracts/escrow-and-dispute.md)
-  * [Common Errors](technical-guides/common-errors.md)
   * [Standards](technical-guides/standards/README.md)
     * [ERC-792: Arbitration standard](technical-guides/standards/erc-792-arbitration-standard.md)
     * [ERC-1497: Evidence Standard](technical-guides/standards/erc-1497-evidence-standard.md)
