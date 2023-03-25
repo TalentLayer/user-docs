@@ -1,0 +1,471 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1111pt" height="1388pt" viewBox="0.00 0.00 1111.26 1388.00">
+<g id="graph0" class="graph" transform="translate(4,1384) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1384 1107.26,-1384 1107.26,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterTalentLayerService">
+
+<path fill="#445773" stroke="#445773" d="M20,-340C20,-340 822.42,-340 822.42,-340 828.42,-340 834.42,-346 834.42,-352 834.42,-352 834.42,-1223 834.42,-1223 834.42,-1229 828.42,-1235 822.42,-1235 822.42,-1235 20,-1235 20,-1235 14,-1235 8,-1229 8,-1223 8,-1223 8,-352 8,-352 8,-346 14,-340 20,-340" style=""/>
+<text text-anchor="middle" x="421.21" y="-1218.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TalentLayerService</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterITalentLayerID">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M330.86,-201C330.86,-201 499.38,-201 499.38,-201 505.38,-201 511.38,-207 511.38,-213 511.38,-213 511.38,-320 511.38,-320 511.38,-326 505.38,-332 499.38,-332 499.38,-332 330.86,-332 330.86,-332 324.86,-332 318.86,-326 318.86,-320 318.86,-320 318.86,-213 318.86,-213 318.86,-207 324.86,-201 330.86,-201" style=""/>
+<text text-anchor="middle" x="415.12" y="-315.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITalentLayerID</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterERC2771RecipientUpgradeable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M623.41,-8C623.41,-8 794.97,-8 794.97,-8 800.97,-8 806.97,-14 806.97,-20 806.97,-20 806.97,-127 806.97,-127 806.97,-133 800.97,-139 794.97,-139 794.97,-139 623.41,-139 623.41,-139 617.41,-139 611.41,-133 611.41,-127 611.41,-127 611.41,-20 611.41,-20 611.41,-14 617.41,-8 623.41,-8" style=""/>
+<text text-anchor="middle" x="709.19" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC2771RecipientUpgradeable</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterITalentLayerPlatformID">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M613.63,-147C613.63,-147 804.75,-147 804.75,-147 810.75,-147 816.75,-153 816.75,-159 816.75,-159 816.75,-320 816.75,-320 816.75,-326 810.75,-332 804.75,-332 804.75,-332 613.63,-332 613.63,-332 607.63,-332 601.63,-326 601.63,-320 601.63,-320 601.63,-159 601.63,-159 601.63,-153 607.63,-147 613.63,-147" style=""/>
+<text text-anchor="middle" x="709.19" y="-315.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITalentLayerPlatformID</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterECDSAUpgradeable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M866.42,-367C866.42,-367 1083.26,-367 1083.26,-367 1089.26,-367 1095.26,-373 1095.26,-379 1095.26,-379 1095.26,-486 1095.26,-486 1095.26,-492 1089.26,-498 1083.26,-498 1083.26,-498 866.42,-498 866.42,-498 860.42,-498 854.42,-492 854.42,-486 854.42,-486 854.42,-379 854.42,-379 854.42,-373 860.42,-367 866.42,-367" style=""/>
+<text text-anchor="middle" x="974.84" y="-481.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ECDSAUpgradeable</text>
+</g>
+<g id="clust6" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="54.14,-1243 54.14,-1372 450.12,-1372 450.12,-1243 54.14,-1243" style=""/>
+<text text-anchor="middle" x="252.13" y="-1355.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- TalentLayerService.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="TalentLayerService.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-1184" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-1179.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- TalentLayerService._disableInitializers -->
+<g id="node23" class="node" pointer-events="visible" data-name="TalentLayerService._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-1184" rx="84.52" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-1179.8" font-family="Times,serif" font-size="14.00" style="">_disableInitializers</text>
+</g>
+<!-- TalentLayerService.&lt;Constructor&gt;&#45;&gt;TalentLayerService._disableInitializers -->
+<g id="edge1" class="edge" data-name="TalentLayerService.&lt;Constructor&gt;-&gt;TalentLayerService._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M195.91,-1184C231.83,-1184 276.6,-1184 316.22,-1184" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="316.13,-1187.5 326.13,-1184 316.13,-1180.5 316.13,-1187.5" style=""/>
+</g>
+<!-- TalentLayerService.onlyOwnerOrDelegate -->
+<g id="node2" class="node" pointer-events="visible" data-name="TalentLayerService.onlyOwnerOrDelegate">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="234.42,-740.54 234.42,-755.46 171.58,-766 82.71,-766 19.86,-755.46 19.86,-740.54 82.71,-730 171.58,-730 234.42,-740.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="238.43,-737.16 238.43,-758.84 171.91,-770 82.37,-770 15.86,-758.84 15.86,-737.16 82.37,-726 171.91,-726 238.43,-737.16" style=""/>
+<text text-anchor="middle" x="127.14" y="-743.8" font-family="Times,serif" font-size="14.00" style="">onlyOwnerOrDelegate</text>
+</g>
+<!-- TalentLayerService._msgSender -->
+<g id="node17" class="node" pointer-events="visible" data-name="TalentLayerService._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-366" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-361.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- TalentLayerService.onlyOwnerOrDelegate&#45;&gt;TalentLayerService._msgSender -->
+<g id="edge3" class="edge" data-name="TalentLayerService.onlyOwnerOrDelegate-&gt;TalentLayerService._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.05,-732.57C226.3,-728.47 232.89,-723.36 238.28,-717 332.02,-606.52 176.02,-499.47 274.28,-393 291.86,-373.96 318.48,-365.98 343.79,-363.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="343.74,-366.72 353.44,-362.45 343.2,-359.74 343.74,-366.72" style=""/>
+</g>
+<!-- ITalentLayerID.isOwnerOrDelegate -->
+<g id="node31" class="node" pointer-events="visible" data-name="ITalentLayerID.isOwnerOrDelegate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-227" rx="88.02" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-222.8" font-family="Times,serif" font-size="14.00" style="">isOwnerOrDelegate</text>
+</g>
+<!-- TalentLayerService.onlyOwnerOrDelegate&#45;&gt;ITalentLayerID.isOwnerOrDelegate -->
+<g id="edge2" class="edge" data-name="TalentLayerService.onlyOwnerOrDelegate-&gt;ITalentLayerID.isOwnerOrDelegate">
+
+<path fill="none" stroke="white" stroke-width="2" d="M219.53,-732.6C226.63,-728.5 233.06,-723.37 238.28,-717 303.74,-637.21 205.55,-330.98 274.28,-254 284.74,-242.28 298.62,-234.72 313.58,-229.97" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="314.07,-233.46 322.83,-227.51 312.27,-226.7 314.07,-233.46" style=""/>
+</g>
+<!-- TalentLayerService.initialize -->
+<g id="node3" class="node" pointer-events="visible" data-name="TalentLayerService.initialize">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-1130" rx="44.64" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-1125.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- TalentLayerService.updateMinCompletionPercentage -->
+<g id="node16" class="node" pointer-events="visible" data-name="TalentLayerService.updateMinCompletionPercentage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-806" rx="140.67" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-801.8" font-family="Times,serif" font-size="14.00" style="">updateMinCompletionPercentage</text>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService.updateMinCompletionPercentage -->
+<g id="edge11" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService.updateMinCompletionPercentage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173.06,-1130.33C195.84,-1128.01 222.04,-1121.09 238.28,-1103 319.15,-1012.91 191.21,-921.06 274.28,-833 277.66,-829.42 281.37,-826.23 285.32,-823.39" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="287.01,-826.46 293.73,-818.27 283.37,-820.48 287.01,-826.46" style=""/>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService._msgSender -->
+<g id="edge8" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173.11,-1130.9C196.19,-1128.8 222.67,-1121.9 238.28,-1103 338.91,-981.21 170.67,-512.25 274.28,-393 291.42,-373.28 318.23,-365.24 343.8,-362.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="343.86,-366.1 353.59,-361.9 343.37,-359.12 343.86,-366.1" style=""/>
+</g>
+<!-- TalentLayerService.__Ownable_init -->
+<g id="node24" class="node" pointer-events="visible" data-name="TalentLayerService.__Ownable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-860" rx="73.02" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-855.8" font-family="Times,serif" font-size="14.00" style="">__Ownable_init</text>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService.__Ownable_init -->
+<g id="edge4" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService.__Ownable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173.1,-1130.09C195.75,-1127.68 221.82,-1120.76 238.28,-1103 304.47,-1031.64 206.35,-956.69 274.28,-887 288.65,-872.26 308.45,-864.26 328.64,-860.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="328.93,-863.66 338.23,-858.58 327.79,-856.75 328.93,-863.66" style=""/>
+</g>
+<!-- TalentLayerService.__AccessControl_init -->
+<g id="node25" class="node" pointer-events="visible" data-name="TalentLayerService.__AccessControl_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-914" rx="95.01" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-909.8" font-family="Times,serif" font-size="14.00" style="">__AccessControl_init</text>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService.__AccessControl_init -->
+<g id="edge5" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService.__AccessControl_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173,-1129.69C195.47,-1127.16 221.42,-1120.24 238.28,-1103 289.87,-1050.28 221.41,-992.42 274.28,-941 283.75,-931.79 295.36,-925.25 307.8,-920.66" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="308.57,-924.09 317.06,-917.75 306.47,-917.41 308.57,-924.09" style=""/>
+</g>
+<!-- TalentLayerService.__UUPSUpgradeable_init -->
+<g id="node26" class="node" pointer-events="visible" data-name="TalentLayerService.__UUPSUpgradeable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-968" rx="112.34" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-963.8" font-family="Times,serif" font-size="14.00" style="">__UUPSUpgradeable_init</text>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService.__UUPSUpgradeable_init -->
+<g id="edge6" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService.__UUPSUpgradeable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173.11,-1128.86C195.2,-1126.06 220.77,-1119.15 238.28,-1103 275.49,-1068.71 236.24,-1028.36 274.28,-995 281.31,-988.84 289.32,-983.9 297.85,-979.97" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="298.98,-983.29 306.97,-976.34 296.39,-976.79 298.98,-983.29" style=""/>
+</g>
+<!-- TalentLayerService._setupRole -->
+<g id="node27" class="node" pointer-events="visible" data-name="TalentLayerService._setupRole">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-1022" rx="54.48" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-1017.8" font-family="Times,serif" font-size="14.00" style="">_setupRole</text>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService._setupRole -->
+<g id="edge7" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService._setupRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M172.53,-1126.64C193.95,-1123.23 219.1,-1116.45 238.28,-1103 261.9,-1086.44 250.26,-1064.97 274.28,-1049 295.4,-1034.96 322.04,-1027.84 346.39,-1024.34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="346.74,-1027.82 356.25,-1023.15 345.9,-1020.87 346.74,-1027.82" style=""/>
+</g>
+<!-- TalentLayerService.ITalentLayerID -->
+<g id="node28" class="node" pointer-events="visible" data-name="TalentLayerService.ITalentLayerID">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-1076" rx="71.75" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-1071.8" font-family="Times,serif" font-size="14.00" style="">ITalentLayerID</text>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService.ITalentLayerID -->
+<g id="edge9" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService.ITalentLayerID">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M169.42,-1122.21C214.6,-1113.67 287.87,-1099.84 342.47,-1089.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="343.07,-1092.98 352.25,-1087.68 341.77,-1086.1 343.07,-1092.98" style=""/>
+</g>
+<!-- TalentLayerService.ITalentLayerPlatformID -->
+<g id="node29" class="node" pointer-events="visible" data-name="TalentLayerService.ITalentLayerPlatformID">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-1130" rx="105.34" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-1125.8" font-family="Times,serif" font-size="14.00" style="">ITalentLayerPlatformID</text>
+</g>
+<!-- TalentLayerService.initialize&#45;&gt;TalentLayerService.ITalentLayerPlatformID -->
+<g id="edge10" class="edge" data-name="TalentLayerService.initialize-&gt;TalentLayerService.ITalentLayerPlatformID">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173.14,-1130C206.07,-1130 252.36,-1130 295.57,-1130" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="295.54,-1133.5 305.54,-1130 295.54,-1126.5 295.54,-1133.5" style=""/>
+</g>
+<!-- TalentLayerService.getService -->
+<g id="node4" class="node" pointer-events="visible" data-name="TalentLayerService.getService">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.14" cy="-1022" rx="51.58" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-1017.8" font-family="Times,serif" font-size="14.00" style="">getService</text>
+</g>
+<!-- TalentLayerService.getProposal -->
+<g id="node5" class="node" pointer-events="visible" data-name="TalentLayerService.getProposal">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.14" cy="-968" rx="56.77" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-963.8" font-family="Times,serif" font-size="14.00" style="">getProposal</text>
+</g>
+<!-- TalentLayerService.getServiceAndProposal -->
+<g id="node6" class="node" pointer-events="visible" data-name="TalentLayerService.getServiceAndProposal">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.14" cy="-914" rx="102.44" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-909.8" font-family="Times,serif" font-size="14.00" style="">getServiceAndProposal</text>
+</g>
+<!-- TalentLayerService.isTokenAllowed -->
+<g id="node7" class="node" pointer-events="visible" data-name="TalentLayerService.isTokenAllowed">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.14" cy="-860" rx="75.31" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-855.8" font-family="Times,serif" font-size="14.00" style="">isTokenAllowed</text>
+</g>
+<!-- TalentLayerService.createService -->
+<g id="node8" class="node" pointer-events="visible" data-name="TalentLayerService.createService">
+
+<ellipse fill="#ff9797" stroke="brown" stroke-width="3" cx="127.14" cy="-1076" rx="63.07" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-1071.8" font-family="Times,serif" font-size="14.00" style="">createService</text>
+</g>
+<!-- TalentLayerService._validateService -->
+<g id="node19" class="node" pointer-events="visible" data-name="TalentLayerService._validateService">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-474" rx="75.27" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-469.8" font-family="Times,serif" font-size="14.00" style="">_validateService</text>
+</g>
+<!-- TalentLayerService.createService&#45;&gt;TalentLayerService._validateService -->
+<g id="edge12" class="edge" data-name="TalentLayerService.createService-&gt;TalentLayerService._validateService">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M191.21,-1074.1C208.95,-1070.35 226.58,-1062.95 238.28,-1049 316.72,-955.5 193.55,-592.52 274.28,-501 287.63,-485.87 306.68,-477.64 326.43,-473.45" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="326.86,-476.93 336.13,-471.8 325.69,-470.03 326.86,-476.93" style=""/>
+</g>
+<!-- ITalentLayerID.setHasActivity -->
+<g id="node32" class="node" pointer-events="visible" data-name="ITalentLayerID.setHasActivity">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-281" rx="68.36" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-276.8" font-family="Times,serif" font-size="14.00" style="">setHasActivity</text>
+</g>
+<!-- TalentLayerService.createService&#45;&gt;ITalentLayerID.setHasActivity -->
+<g id="edge13" class="edge" data-name="TalentLayerService.createService-&gt;ITalentLayerID.setHasActivity">
+
+<path fill="none" stroke="white" stroke-width="2" d="M191.34,-1074.21C209.09,-1070.46 226.69,-1063.04 238.28,-1049 339.32,-926.69 181.69,-464.82 274.28,-336 289.92,-314.25 315.52,-301.1 340.56,-293.15" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="341.21,-296.6 349.86,-290.48 339.28,-289.87 341.21,-296.6" style=""/>
+</g>
+<!-- TalentLayerService.createProposal -->
+<g id="node9" class="node" pointer-events="visible" data-name="TalentLayerService.createProposal">
+
+<ellipse fill="#ff9797" stroke="brown" stroke-width="3" cx="127.14" cy="-806" rx="67.76" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-801.8" font-family="Times,serif" font-size="14.00" style="">createProposal</text>
+</g>
+<!-- TalentLayerService._validateProposal -->
+<g id="node20" class="node" pointer-events="visible" data-name="TalentLayerService._validateProposal">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="415.12" cy="-420" rx="80.46" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-415.8" font-family="Times,serif" font-size="14.00" style="">_validateProposal</text>
+</g>
+<!-- TalentLayerService.createProposal&#45;&gt;TalentLayerService._validateProposal -->
+<g id="edge14" class="edge" data-name="TalentLayerService.createProposal-&gt;TalentLayerService._validateProposal">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M195.16,-802.81C211.41,-798.8 227.26,-791.59 238.28,-779 336.06,-667.34 173.76,-556.2 274.28,-447 286.61,-433.61 303.4,-425.69 321.07,-421.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="321.68,-424.65 330.76,-419.18 320.25,-417.8 321.68,-424.65" style=""/>
+</g>
+<!-- TalentLayerService.createProposal&#45;&gt;ITalentLayerID.setHasActivity -->
+<g id="edge15" class="edge" data-name="TalentLayerService.createProposal-&gt;ITalentLayerID.setHasActivity">
+
+<path fill="none" stroke="white" stroke-width="2" d="M195.39,-803C211.64,-798.99 227.43,-791.74 238.28,-779 302.35,-703.82 215.41,-415.31 274.28,-336 290.25,-314.49 315.91,-301.39 340.92,-293.41" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="341.55,-296.87 350.19,-290.73 339.61,-290.14 341.55,-296.87" style=""/>
+</g>
+<!-- TalentLayerService.updateProposal -->
+<g id="node10" class="node" pointer-events="visible" data-name="TalentLayerService.updateProposal">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-690" rx="70.65" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-685.8" font-family="Times,serif" font-size="14.00" style="">updateProposal</text>
+</g>
+<!-- TalentLayerService.afterDeposit -->
+<g id="node11" class="node" pointer-events="visible" data-name="TalentLayerService.afterDeposit">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.14" cy="-636" rx="58.53" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-631.8" font-family="Times,serif" font-size="14.00" style="">afterDeposit</text>
+</g>
+<!-- TalentLayerService.updateAllowedTokenList -->
+<g id="node12" class="node" pointer-events="visible" data-name="TalentLayerService.updateAllowedTokenList">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="415.12" cy="-528" rx="109.96" ry="18" style=""/>
+<text text-anchor="middle" x="415.12" y="-523.8" font-family="Times,serif" font-size="14.00" style="">updateAllowedTokenList</text>
+</g>
+<!-- TalentLayerService.address -->
+<g id="node30" class="node" pointer-events="visible" data-name="TalentLayerService.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="709.19" cy="-474" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="709.19" y="-469.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- TalentLayerService.updateAllowedTokenList&#45;&gt;TalentLayerService.address -->
+<g id="edge16" class="edge" data-name="TalentLayerService.updateAllowedTokenList-&gt;TalentLayerService.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M492.09,-513.95C544.36,-504.29 612.31,-491.73 657.94,-483.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="658.3,-486.78 667.49,-481.52 657.03,-479.9 658.3,-486.78" style=""/>
+</g>
+<!-- TalentLayerService.afterFullPayment -->
+<g id="node13" class="node" pointer-events="visible" data-name="TalentLayerService.afterFullPayment">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.14" cy="-582" rx="78.17" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-577.8" font-family="Times,serif" font-size="14.00" style="">afterFullPayment</text>
+</g>
+<!-- TalentLayerService.updateServiceData -->
+<g id="node14" class="node" pointer-events="visible" data-name="TalentLayerService.updateServiceData">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-528" rx="83.93" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-523.8" font-family="Times,serif" font-size="14.00" style="">updateServiceData</text>
+</g>
+<!-- TalentLayerService.cancelService -->
+<g id="node15" class="node" pointer-events="visible" data-name="TalentLayerService.cancelService">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-474" rx="64.8" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-469.8" font-family="Times,serif" font-size="14.00" style="">cancelService</text>
+</g>
+<!-- ERC2771RecipientUpgradeable._msgSender -->
+<g id="node33" class="node" pointer-events="visible" data-name="ERC2771RecipientUpgradeable._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="709.19" cy="-88" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="709.19" y="-83.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- TalentLayerService._msgSender&#45;&gt;ERC2771RecipientUpgradeable._msgSender -->
+<g id="edge17" class="edge" data-name="TalentLayerService._msgSender-&gt;ERC2771RecipientUpgradeable._msgSender">
+
+<path fill="none" stroke="white" stroke-width="2" d="M474.63,-367.7C502.88,-365.34 535.08,-357.44 555.95,-336 616.82,-273.47 538.69,-212.11 591.95,-143 606.02,-124.74 627.65,-112.27 648.45,-103.88" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="649.53,-107.21 657.7,-100.45 647.1,-100.65 649.53,-107.21" style=""/>
+</g>
+<!-- TalentLayerService._msgData -->
+<g id="node18" class="node" pointer-events="visible" data-name="TalentLayerService._msgData">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.14" cy="-420" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-415.8" font-family="Times,serif" font-size="14.00" style="">_msgData</text>
+</g>
+<!-- ERC2771RecipientUpgradeable._msgData -->
+<g id="node34" class="node" pointer-events="visible" data-name="ERC2771RecipientUpgradeable._msgData">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="709.19" cy="-34" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="709.19" y="-29.8" font-family="Times,serif" font-size="14.00" style="">_msgData</text>
+</g>
+<!-- TalentLayerService._msgData&#45;&gt;ERC2771RecipientUpgradeable._msgData -->
+<g id="edge18" class="edge" data-name="TalentLayerService._msgData-&gt;ERC2771RecipientUpgradeable._msgData">
+
+<path fill="none" stroke="white" stroke-width="2" d="M178.84,-419.25C199.98,-416.28 223.09,-409.11 238.28,-393 299.05,-328.56 219.01,-266.2 274.28,-197 366.35,-81.73 549.07,-47.97 645.39,-38.08" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="645.48,-41.59 655.1,-37.15 644.81,-34.62 645.48,-41.59" style=""/>
+</g>
+<!-- TalentLayerService._validatePlatformSignature -->
+<g id="node21" class="node" pointer-events="visible" data-name="TalentLayerService._validatePlatformSignature">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="709.19" cy="-420" rx="117.47" ry="18" style=""/>
+<text text-anchor="middle" x="709.19" y="-415.8" font-family="Times,serif" font-size="14.00" style="">_validatePlatformSignature</text>
+</g>
+<!-- TalentLayerService._validateService&#45;&gt;TalentLayerService._validatePlatformSignature -->
+<g id="edge22" class="edge" data-name="TalentLayerService._validateService-&gt;TalentLayerService._validatePlatformSignature">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M477.35,-462.68C517.86,-455.19 571.71,-445.23 617.21,-436.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="617.63,-440.3 626.82,-435.04 616.35,-433.42 617.63,-440.3" style=""/>
+</g>
+<!-- TalentLayerService._validateService&#45;&gt;TalentLayerService.address -->
+<g id="edge21" class="edge" data-name="TalentLayerService._validateService-&gt;TalentLayerService.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M491.71,-474C542.94,-474 609.38,-474 655.06,-474" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="654.92,-477.5 664.92,-474 654.92,-470.5 654.92,-477.5" style=""/>
+</g>
+<!-- ITalentLayerPlatformID.getServicePostingFee -->
+<g id="node35" class="node" pointer-events="visible" data-name="ITalentLayerPlatformID.getServicePostingFee">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="709.19" cy="-281" rx="94.93" ry="18" style=""/>
+<text text-anchor="middle" x="709.19" y="-276.8" font-family="Times,serif" font-size="14.00" style="">getServicePostingFee</text>
+</g>
+<!-- TalentLayerService._validateService&#45;&gt;ITalentLayerPlatformID.getServicePostingFee -->
+<g id="edge19" class="edge" data-name="TalentLayerService._validateService-&gt;ITalentLayerPlatformID.getServicePostingFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M491.59,-473.86C514.56,-470.29 538.36,-462.56 555.95,-447 594.81,-412.65 557.71,-374.95 591.95,-336 604.95,-321.22 622.78,-310.09 640.58,-301.86" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="641.93,-305.09 649.74,-297.93 639.17,-298.66 641.93,-305.09" style=""/>
+</g>
+<!-- ITalentLayerPlatformID.getSigner -->
+<g id="node36" class="node" pointer-events="visible" data-name="ITalentLayerPlatformID.getSigner">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="709.19" cy="-227" rx="48.09" ry="18" style=""/>
+<text text-anchor="middle" x="709.19" y="-222.8" font-family="Times,serif" font-size="14.00" style="">getSigner</text>
+</g>
+<!-- TalentLayerService._validateService&#45;&gt;ITalentLayerPlatformID.getSigner -->
+<g id="edge20" class="edge" data-name="TalentLayerService._validateService-&gt;ITalentLayerPlatformID.getSigner">
+
+<path fill="none" stroke="white" stroke-width="2" d="M491.38,-475.38C514.88,-472.01 539.05,-464.01 555.95,-447 617.46,-385.1 531.62,-317.04 591.95,-254 606.24,-239.07 627.04,-231.68 647.1,-228.21" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="647.33,-231.72 656.77,-226.9 646.39,-224.78 647.33,-231.72" style=""/>
+</g>
+<!-- TalentLayerService._validateProposal&#45;&gt;TalentLayerService._validatePlatformSignature -->
+<g id="edge26" class="edge" data-name="TalentLayerService._validateProposal-&gt;TalentLayerService._validatePlatformSignature">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M496.7,-420C521.7,-420 549.92,-420 577.42,-420" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="577.39,-423.5 587.39,-420 577.39,-416.5 577.39,-423.5" style=""/>
+</g>
+<!-- TalentLayerService._validateProposal&#45;&gt;TalentLayerService.address -->
+<g id="edge25" class="edge" data-name="TalentLayerService._validateProposal-&gt;TalentLayerService.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M479.85,-431.78C533.32,-441.67 608.64,-455.59 657.92,-464.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="657.03,-468.1 667.5,-466.48 658.3,-461.22 657.03,-468.1" style=""/>
+</g>
+<!-- TalentLayerService._validateProposal&#45;&gt;ITalentLayerPlatformID.getSigner -->
+<g id="edge24" class="edge" data-name="TalentLayerService._validateProposal-&gt;ITalentLayerPlatformID.getSigner">
+
+<path fill="none" stroke="white" stroke-width="2" d="M496.89,-419.69C518.37,-415.83 540,-407.98 555.95,-393 602.47,-349.31 546.26,-298.55 591.95,-254 606.55,-239.76 627.11,-232.48 646.89,-228.91" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="647.3,-232.39 656.7,-227.5 646.31,-225.46 647.3,-232.39" style=""/>
+</g>
+<!-- ITalentLayerPlatformID.getProposalPostingFee -->
+<g id="node37" class="node" pointer-events="visible" data-name="ITalentLayerPlatformID.getProposalPostingFee">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="709.19" cy="-173" rx="99.61" ry="18" style=""/>
+<text text-anchor="middle" x="709.19" y="-168.8" font-family="Times,serif" font-size="14.00" style="">getProposalPostingFee</text>
+</g>
+<!-- TalentLayerService._validateProposal&#45;&gt;ITalentLayerPlatformID.getProposalPostingFee -->
+<g id="edge23" class="edge" data-name="TalentLayerService._validateProposal-&gt;ITalentLayerPlatformID.getProposalPostingFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M496.84,-420.51C518.57,-416.72 540.36,-408.7 555.95,-393 617.46,-331.1 531.62,-263.04 591.95,-200 596.62,-195.12 601.99,-191.05 607.8,-187.65" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="609.3,-190.81 616.73,-183.26 606.21,-184.53 609.3,-190.81" style=""/>
+</g>
+<!-- ECDSAUpgradeable.toEthSignedMessageHash -->
+<g id="node38" class="node" pointer-events="visible" data-name="ECDSAUpgradeable.toEthSignedMessageHash">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="974.84" cy="-447" rx="112.34" ry="18" style=""/>
+<text text-anchor="middle" x="974.84" y="-442.8" font-family="Times,serif" font-size="14.00" style="">toEthSignedMessageHash</text>
+</g>
+<!-- TalentLayerService._validatePlatformSignature&#45;&gt;ECDSAUpgradeable.toEthSignedMessageHash -->
+<g id="edge27" class="edge" data-name="TalentLayerService._validatePlatformSignature-&gt;ECDSAUpgradeable.toEthSignedMessageHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M810.24,-430.25C827.82,-432.05 846.21,-433.93 864.04,-435.76" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="863.59,-439.23 873.9,-436.76 864.31,-432.26 863.59,-439.23" style=""/>
+</g>
+<!-- ECDSAUpgradeable.recover -->
+<g id="node39" class="node" pointer-events="visible" data-name="ECDSAUpgradeable.recover">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="974.84" cy="-393" rx="39.97" ry="18" style=""/>
+<text text-anchor="middle" x="974.84" y="-388.8" font-family="Times,serif" font-size="14.00" style="">recover</text>
+</g>
+<!-- TalentLayerService._validatePlatformSignature&#45;&gt;ECDSAUpgradeable.recover -->
+<g id="edge28" class="edge" data-name="TalentLayerService._validatePlatformSignature-&gt;ECDSAUpgradeable.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M810.24,-409.75C848.27,-405.86 890.04,-401.58 921.86,-398.32" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="921.81,-401.85 931.4,-397.35 921.1,-394.88 921.81,-401.85" style=""/>
+</g>
+<!-- TalentLayerService._authorizeUpgrade -->
+<g id="node22" class="node" pointer-events="visible" data-name="TalentLayerService._authorizeUpgrade">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.14" cy="-366" rx="85.08" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-361.8" font-family="Times,serif" font-size="14.00" style="">_authorizeUpgrade</text>
+</g>
+<!-- key -->
+<g id="node40" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="192.14,-1339 62.14,-1339 62.14,-1251 192.14,-1251 192.14,-1339" style=""/>
+<text text-anchor="start" x="111.78" y="-1320.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="107.89" y="-1300.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="85.35" y="-1280.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="71.74" y="-1260.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node41" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="442.12,-1339 388.12,-1339 388.12,-1251 442.12,-1251 442.12,-1339" style=""/>
+<text text-anchor="start" x="405.12" y="-1320.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="405.12" y="-1300.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="403.12,-1275 403.12,-1295 428.12,-1295 428.12,-1275 403.12,-1275" style=""/>
+<text text-anchor="start" x="405.12" y="-1280.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="405.12,-1257 405.12,-1273 426.12,-1273 426.12,-1257 405.12,-1257" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge29" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.14,-1325C277.15,-1325 303.32,-1325 389.28,-1325" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="389.09,-1328.5 399.09,-1325 389.09,-1321.5 389.09,-1328.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge30" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M185.14,-1305C277.15,-1305 303.32,-1305 389.28,-1305" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="389.09,-1308.5 399.09,-1305 389.09,-1301.5 389.09,-1308.5" style=""/>
+</g>
+</g>
+</svg>

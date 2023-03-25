@@ -1,24 +1,18 @@
 # TalentLayerService.sol
 
-[TalentLayerService.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerService.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily.
+[TalentLayerService.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerService.sol) is the smart contract that creates an instance of a Services and associates Proposals with that service as they are submitted. Services and Proposals are not minted as NFTs - rather, their data is stored in an on-chain registry within the smart contract. Services and Proposals can be deleted or updated easily. The contract can be used to&#x20;
 
-### Service Status
+* Create a new service&#x20;
+* Add a proposal for a open service&#x20;
+* update a service or a proposal&#x20;
 
-Services are assigned different statuses based on the stage of the service lifecycle they are in.
+## Data Structure
 
-```
-    enum Status {
-        Filled, /// The service has been assigned to an employee
-        Confirmed, /// The service has been consented to by an employee
-        Finished, /// (if no escrow) The service has been market completed by an employer or (if escrow) escrow has been released 
-        Rejected, /// The service has been removed by the employer
-        Opened /// The service has been created, but not assigned to an employee
-    }
-```
+![](<../../.gitbook/assets/image (8).png>)
 
 ## Visualization
 
-<figure><img src="../../.gitbook/assets/ServiceRegistry.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/services.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 
