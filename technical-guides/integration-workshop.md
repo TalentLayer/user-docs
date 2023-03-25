@@ -47,7 +47,7 @@ In the workshop we walk through:
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Alert: The "Indie" Frontend has received some updates since the workshop! The UX is slightly different and we've added more functionality for you to get started building with.&#x20;
+Alert: The "Indie" Frontend has received some updates since the workshop! The UX is slightly different and we've added more functionality.
 {% endhint %}
 
 ## Have Some Questions?&#x20;
