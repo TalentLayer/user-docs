@@ -6,23 +6,23 @@ Three types of fees are levied at the release of an escrow transaction (after a 
 
 These fees enable TalentLayers' interoperability between multiple marketplaces; allowing marketplaces to make money on users and jobs they onboard to the protocol even if they do transactions on other platforms or with users of other platforms.
 
-### originServiceFeeRate  (0%-100%)
+### originServiceFeeRate
 
 This is a fee that is configured by platforms for jobs that result in the release of an escrow on the Talentlayer network. This is remitted back to the platform that posted the job.&#x20;
 
-### originValidatedProposalFeeRate (0%-100%)
+The default configuration of this fee is 0%.&#x20;
+
+### originValidatedProposalFeeRate
 
 This is a fee that is configured by platforms for proposals that result in the release of an escrow on the Talentlayer network. This is remitted back to the platform that posted the job.&#x20;
 
 The default configuration of this fee is 0%.&#x20;
 
-### protocolFee (1%)
+### protocolFee
 
 This fee is used to support the development of the TalentLayer protocol. It is sent to the TalentLayer treasury. The treasury is currently managed by the TalentLayer Core team and will eventually be transitioned to be managed by the eventual TalentLayer DAO.&#x20;
 
-{% hint style="info" %}
-**Market-Based Fee Pricing:** We are in the process of re-working our fee system to allow for platforms to configure Originating Platform Fees, amongst other alternatives. Please standby for updates. This decision was made based on user feedback and game theoretical evaluation.&#x20;
-{% endhint %}
+This fee is set at 1%.
 
 ## Job Posting Fees
 
