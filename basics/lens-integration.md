@@ -4,49 +4,27 @@ TalentLayer has partnered with Lens, the decentralized social graph, to connect 
 
 ## Why TalentLayer and 🌱 Lens?
 
-We have the same open-source and interoperable vision for work that Lens has for social media! We want to see a world where all users own their data and work platforms benefit from user sharing.&#x20;
+TalentLayer and Lens are both composable infrastructures that teams can build new platforms on top of! We both want to see a world where all users own their data and work platforms benefit from user sharing. So, it’s only natural to team up 🤝.
 
-So, it’s only natural to team up 🤝.
-
-TalentLayer empowers builders in the Lens community to add freelance and work marketplace functionality to their social apps! PLUS: Work marketplace builders can add social feeds to their apps!&#x20;
-
-All that’s left is to build the link between us ❤️connecting TalentLayer work IDs with Lens handles and building some SDK tools to help platforms integrate united profiles!
-
-There is a clear benefit to hirers on work platforms to see verified social feeds, and there’s value in being able to showcase your fave work history updates on your professional social feeds.
+TalentLayer empowers builders in the Lens community to add freelance and work marketplace functionality to their social apps! PLUS: Work marketplace builders can add social feeds to their apps.
 
 Read the full public announcement here:&#x20;
 
 {% embed url="https://twitter.com/kirstenrpomales/status/1608088909388386304" %}
 
-## Milestones
+## Display 🌱 Lens Feeds on Your Work Platform
 
-### Unite 🌱 Lens Handles & TalentLayer IDs 🤝
+The TalentLayer x Lens integration is ready to go! Want to learn how to integrate? Get started with forking our demo DAPP to learn how applications can reference TalentLayer and Lens profile data at the same time.
 
-Timeline: Early January
+{% content-ref url="../technical-guides/dapp-setup.md" %}
+[dapp-setup.md](../technical-guides/dapp-setup.md)
+{% endcontent-ref %}
 
-On-chain association of IDs
+<figure><img src="../.gitbook/assets/Screen Shot 2023-03-25 at 12.14.22 PM.png" alt=""><figcaption></figcaption></figure>
 
-Graph setup for searching identities
+## Are you Building Social Platforms on 🌱 Lens?
 
-### Build Fork-Able Plugin for Displaying Unified Profiles 👨🏽
-
-Timeline: Late January
-
-User profile frontend with social feed and work feed in demo DAPP
-
-Docs for how to integrate feeds into marketplaces & social platforms&#x20;
-
-### Get Lens Profiles Displayed on 1st Work Marketplace! 🌱
-
-Timeline: Late February
-
-Get a full Lens social feed displayed for real users in a job marketplace!
-
-## Are you building on 🌱 Lens?
-
-Are you building a social media platform on Lens Protocol? We want to help YOU integrate work tools into your platform.&#x20;
-
-Get in touch here:&#x20;
+Are you building a social media platform on Lens Protocol? We want to help YOU integrate work tools into your platform. Get in touch here:&#x20;
 
 {% content-ref url="../quick-start-integration-guide.md" %}
 [quick-start-integration-guide.md](../quick-start-integration-guide.md)
