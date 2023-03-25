@@ -4,12 +4,11 @@
 
 TalentLayer Core is composed of the following key modules:
 
-* TalentLayer ID System
-  * TalentLayer ID
-  * Platform ID
-  * TalentLayer Review
-* TalentLayer Universal Services & Proposal System
-* TalentLayer Escrow & Dispute System
+* **TalentLayerID:** Worker and hirer identity
+* **TalentLayerPlatformID:** Marketplace configuration (fees, dispute, access)
+* **TalentLayerReview:** Mutual review&#x20;
+* **TalentLayerService:** Universal Services & Proposal System
+* **TalentLayerEscrow:** Escrow & Dispute System
 
 TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a pool of jobs and user reputations that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces. Marketplaces that build on TalentLayer can configure fees on transactions, job posts, user account creation and more - fully configurable to meet your business needs.&#x20;
 
@@ -37,7 +36,7 @@ To interact with TalentLayer's interoperable jobs system as a platform, you will
 
 ## We're Here to Help <a href="#were-here-to-help" id="were-here-to-help"></a>
 
-Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to the team on Twitter @TalentLayer before integrating directly with TalentLayer’s interoperable reputation and jobs systems.We are happy to help you:
+Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to the team on Twitter @TalentLayer before integrating directly with TalentLayer’s interoperable reputation and jobs systems. We are happy to help you:
 
 1. Understand how to implement TalentLayer on your platform: Every platform is a little different, and we want to know how we can best make our tech stack as composable as possible. By helping you, we learn too!
 2. Deploy TalentLayer on your platform’s native EVM chain: TalentLayer aims to be a cross-chain platform, and are in the process of spinning up implementations of our Alpha release on multiple EVM chains.
@@ -49,6 +48,8 @@ Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to t
 ## Reading From and Writing to TalentLayer Core <a href="#reading-and-writing-to-talentlayer-core" id="reading-and-writing-to-talentlayer-core"></a>
 
 How does your application communicate with TalentLayer? Learn more here.
+
+![](.gitbook/assets/image.png)
 
 ### Writing to TalentLayer
 
