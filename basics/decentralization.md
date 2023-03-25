@@ -40,7 +40,7 @@ Learn more about Platform IDs here.
 
 #### Subgraph Hosting
 
-TalentLayer's subgraph is currently live on on The Graph's Hosted Service (a service hosted by The Graph's team). The Graph is currently undergoing their own decentralization effort, which involves deploying support for more chains and storage systems on The Graph Network (a decentralized protocol).&#x20;
+TalentLayer's subgraph is currently live on The Graph's Hosted Service (a service hosted by The Graph's team). The Graph is currently undergoing their own decentralization effort, which involves deploying support for more chains and storage systems on The Graph Network (a decentralized protocol).&#x20;
 
 TalentLayer is in the process of migrating our various subgraphs as The Graph Network deploys support for those networks and maintains sufficient uptime on them to support our platform partner's transactions.&#x20;
 
@@ -56,9 +56,9 @@ In the future, once our decentralized governance launches, our development opera
 
 ## Decentralization Timeline
 
-TalentLayer intends to launch our token and transition contract management to a decentralized organization when we have reached a sufficient number of integrated platforms. We believe this number will be between 20 and 50 platforms, depending on the level these platforms choose to co-create with us. This is because tokenomics and governance design of decentralized systems needs to be crafted with involvement from diverse ecosystem participants; in our case, this includes various types of integrating platforms and their users.&#x20;
+TalentLayer intends to launch our token and transition contract management to a decentralized organization when we have reached a sufficient number of integrated platforms. We believe this number will be between 20 and 50 platforms, depending on the level these platforms choose to co-create with us. This is because tokenomics and governance design of decentralized systems need to be crafted with involvement from diverse ecosystem participants; in our case, this includes various types of integrating platforms and their users.&#x20;
 
-We hope to closely involve our earliest marketplace partners in a process of tokenomics and governance co-creation to ensure that TalentLayer succeeds in it's goal of being a user-owned and governed network.&#x20;
+We hope to closely involve our earliest marketplace partners in a process of tokenomics and governance co-creation to ensure that TalentLayer succeeds in its goal of being a user-owned and governed network.&#x20;
 
 If you have any questions on our decentralization timeline or where we are now, feel free to get in touch!
 
