@@ -4,22 +4,19 @@
 **START BUILDING TODAY:** TalentLayer is live today! Launch a marketplace DAPP in minutes with our fork-able frontend, or integrate your own in days.
 {% endhint %}
 
-TalentLayer is infrastructure for open service markets; backend tooling for building marketplaces that leverage an on-chain liquidity pool of users and services.
+TalentLayer is infrastructure for open service markets; backend tooling for building interoperable marketplaces that leverage an on-chain liquidity pool of users and services.
 
 TalentLayer provides core tooling for building marketplaces including:
 
 * On-chain jobs and proposals
 * Soul-bound identity and reviews
-* Configurable escrow supporting milestone, lump sum, hourly pay and more
+* Configurable escrow capable of supporting milestone, lump sum, hourly pay and more
 * Decentralized and platform-managed dispute resolution options
+* Configurable fees system enabling fees on escrow transactions, job posts, proposal submissions, dispute resolution&#x20;
 
 ## Is TalentLayer A Good Fit For Your Platform? <a href="#is-talentlayer-a-good-fit-for-your-platform" id="is-talentlayer-a-good-fit-for-your-platform"></a>
 
-Are you looking to build platform like freelance marketplaces, bounty platforms, hackathon platforms, gig marketplaces, or something similar? TalentLayer is optimized for a broad range of two-sided “labor platforms”, software platforms where users can complete services in exchange for payment. These platforms usually have a few things in common:
-
-1. Hirers post tasks or other service engagements to the platform
-2. Users complete work in exchange for payment
-3. By completing work on the platform, users can build a reputation
+Are you looking to build platform like freelance marketplaces, bounty platforms, hackathon platforms, gig marketplaces, or something similar? TalentLayer is optimized for a broad range of service marketplaces; platforms where people connect with each other to exchange services or "work" for money.&#x20;
 
 TalentLayer’s modular tools can be applied to build diverse service marketplaces including…
 
