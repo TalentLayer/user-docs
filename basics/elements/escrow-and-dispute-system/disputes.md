@@ -17,7 +17,7 @@ Once a dispute has been initiated via TalentLayer, on the backend your dispute g
 > 1. **Evidence** - Evidence can be submitted. This is also when drawing has to take place.
 > 2. **Commit** - Jurors commit a hashed vote. This is skipped for courts without hidden votes.
 > 3. **Vote -** Jurors reveal/cast their vote depending on whether the court has hidden votes or not.
-> 4. **Appeal** - \*\*\*\* The dispute can be appealed.
+> 4. **Appeal** - The dispute can be appealed.
 > 5. **Execution** - Tokens are redistributed and the ruling is executed.
 >
 > The period of each stage is different for each (sub)court.
