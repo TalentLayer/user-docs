@@ -51,7 +51,7 @@ Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to t
 
 How does your application communicate with TalentLayer? Learn more here.
 
-![](<.gitbook/assets/image (1) (2).png>)
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Writing to TalentLayer
 
