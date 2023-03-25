@@ -1,0 +1,676 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="896pt" height="1882pt" viewBox="0.00 0.00 895.85 1882">
+<g id="graph0" class="graph" transform="translate(4,1878) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1878 891.85,-1878 891.85,4 -4,4"/>
+<g id="clust2" class="cluster" data-name="clusterCountersUpgradeable.Counter">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M648.76,-8C648.76,-8 811.05,-8 811.05,-8 817.05,-8 823.05,-14 823.05,-20 823.05,-20 823.05,-127 823.05,-127 823.05,-133 817.05,-139 811.05,-139 811.05,-139 648.76,-139 648.76,-139 642.76,-139 636.76,-133 636.76,-127 636.76,-127 636.76,-20 636.76,-20 636.76,-14 642.76,-8 648.76,-8" style=""/>
+<text text-anchor="middle" x="729.9" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">CountersUpgradeable.Counter</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterERC721Upgradeable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M392.38,-147C392.38,-147 540.51,-147 540.51,-147 546.51,-147 552.51,-153 552.51,-159 552.51,-159 552.51,-212 552.51,-212 552.51,-218 546.51,-224 540.51,-224 540.51,-224 392.38,-224 392.38,-224 386.38,-224 380.38,-218 380.38,-212 380.38,-212 380.38,-159 380.38,-159 380.38,-153 386.38,-147 392.38,-147" style=""/>
+<text text-anchor="middle" x="466.45" y="-207.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC721Upgradeable</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterAccessControlUpgradeable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M392.38,-62C392.38,-62 540.51,-62 540.51,-62 546.51,-62 552.51,-68 552.51,-74 552.51,-74 552.51,-127 552.51,-127 552.51,-133 546.51,-139 540.51,-139 540.51,-139 392.38,-139 392.38,-139 386.38,-139 380.38,-133 380.38,-127 380.38,-127 380.38,-74 380.38,-74 380.38,-68 386.38,-62 392.38,-62" style=""/>
+<text text-anchor="middle" x="466.45" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">AccessControlUpgradeable</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterstring">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M697.17,-147C697.17,-147 761.64,-147 761.64,-147 767.64,-147 773.64,-153 773.64,-159 773.64,-159 773.64,-212 773.64,-212 773.64,-218 767.64,-224 761.64,-224 761.64,-224 697.17,-224 697.17,-224 691.17,-224 685.17,-218 685.17,-212 685.17,-212 685.17,-159 685.17,-159 685.17,-153 691.17,-147 697.17,-147" style=""/>
+<text text-anchor="middle" x="729.4" y="-207.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">string</text>
+</g>
+<g id="clust6" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="107.97,-1737 107.97,-1866 501.45,-1866 501.45,-1737 107.97,-1737" style=""/>
+<text text-anchor="middle" x="304.71" y="-1849.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<g id="edge1" class="edge" data-name="TalentLayerPlatformID.&lt;Constructor&gt;-&gt;TalentLayerPlatformID._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M249.87,-1678C285.11,-1678 328.81,-1678 367.63,-1678"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="367.56,-1681.5 377.56,-1678 367.56,-1674.5 367.56,-1681.5"/>
+</g><g id="clust1" class="cluster" data-name="clusterTalentLayerPlatformID">
+
+<path fill="#445773" stroke="#445773" d="M20,-232C20,-232 867.85,-232 867.85,-232 873.85,-232 879.85,-238 879.85,-244 879.85,-244 879.85,-1717 879.85,-1717 879.85,-1723 873.85,-1729 867.85,-1729 867.85,-1729 20,-1729 20,-1729 14,-1729 8,-1723 8,-1717 8,-1717 8,-244 8,-244 8,-238 14,-232 20,-232" style=""/>
+<text text-anchor="middle" x="443.93" y="-1712.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TalentLayerPlatformID</text>
+</g>
+<!-- TalentLayerPlatformID.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-1678" rx="67.55" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1673.8" font-family="Times,serif" font-size="14.00">&lt;Constructor&gt;</text>
+</g>
+<!-- TalentLayerPlatformID._disableInitializers -->
+<g id="node38" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-1678" rx="84.52" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1673.8" font-family="Times,serif" font-size="14.00">_disableInitializers</text>
+</g>
+<!-- TalentLayerPlatformID.&lt;Constructor&gt;&#45;&gt;TalentLayerPlatformID._disableInitializers -->
+<g id="edge9" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID.updateMinArbitrationFeeTimeout" data-comment="TalentLayerPlatformID.&lt;Constructor&gt;-&gt;TalentLayerPlatformID._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M487.12,-1552.9C509.67,-1534.24 548.51,-1504.9 586.96,-1489 596.24,-1485.16 606.09,-1481.86 616.1,-1479.03"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="616.66,-1482.5 625.44,-1476.57 614.88,-1475.73 616.66,-1482.5"/>
+</g>
+<!-- TalentLayerPlatformID.initialize -->
+<g id="node2" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.initialize">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="466.45" cy="-1570" rx="44.64" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1565.8" font-family="Times,serif" font-size="14.00">initialize</text>
+</g>
+<!-- TalentLayerPlatformID.updateMinArbitrationFeeTimeout -->
+<g id="node27" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateMinArbitrationFeeTimeout">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1462" rx="142.39" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1457.8" font-family="Times,serif" font-size="14.00">updateMinArbitrationFeeTimeout</text>
+</g><g id="edge2" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID.__ERC721_init" data-comment="TalentLayerPlatformID.updateMinArbitrationFeeTimeout">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M506.94,-1560.73C530.19,-1555.36 560.2,-1548.58 586.96,-1543 609.36,-1538.33 633.83,-1533.55 656.01,-1529.33"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="656.63,-1532.78 665.81,-1527.48 655.33,-1525.9 656.63,-1532.78"/>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID.updateMinArbitrationFeeTimeout -->
+
+<!-- TalentLayerPlatformID.__ERC721_init -->
+<g id="node39" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.__ERC721_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1516" rx="71.83" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1511.8" font-family="Times,serif" font-size="14.00">__ERC721_init</text>
+</g><g id="edge3" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID.__AccessControl_init" data-comment="TalentLayerPlatformID.__ERC721_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M512.31,-1570C542.09,-1570 582.53,-1570 620.38,-1570"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="620.07,-1573.5 630.07,-1570 620.07,-1566.5 620.07,-1573.5"/>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID.__ERC721_init -->
+
+<!-- TalentLayerPlatformID.__AccessControl_init -->
+<g id="node40" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.__AccessControl_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1570" rx="95.01" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1565.8" font-family="Times,serif" font-size="14.00">__AccessControl_init</text>
+</g><g id="edge4" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID.__UUPSUpgradeable_init" data-comment="TalentLayerPlatformID.__AccessControl_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M506.94,-1579.27C530.19,-1584.64 560.2,-1591.42 586.96,-1597 603.71,-1600.49 621.62,-1604.05 638.87,-1607.38"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="638.14,-1610.8 648.62,-1609.25 639.46,-1603.93 638.14,-1610.8"/>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID.__AccessControl_init -->
+
+<!-- TalentLayerPlatformID.__UUPSUpgradeable_init -->
+<g id="node41" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.__UUPSUpgradeable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1624" rx="112.34" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1619.8" font-family="Times,serif" font-size="14.00">__UUPSUpgradeable_init</text>
+</g><g id="edge5" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID._setupRole" data-comment="TalentLayerPlatformID.__UUPSUpgradeable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M500.84,-1582.82C523.7,-1597.93 555.46,-1619.97 586.96,-1633 618.51,-1646.05 656.66,-1652.86 685.38,-1659.11"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="684.38,-1662.47 694.91,-1661.28 685.94,-1655.64 684.38,-1662.47"/>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID.__UUPSUpgradeable_init -->
+
+<!-- TalentLayerPlatformID._setupRole -->
+<g id="node42" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._setupRole">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1678" rx="54.48" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1673.8" font-family="Times,serif" font-size="14.00">_setupRole</text>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID._setupRole -->
+
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID._setupRole -->
+<g id="edge8" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID.address" data-comment="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID._setupRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.8,-1551.92C500.84,-1527.04 534.16,-1480.17 552.51,-1435 580.22,-1366.8 534.37,-1324.5 586.96,-1273 610.14,-1250.3 646.17,-1243.67 676.07,-1242.66"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="675.88,-1246.16 685.85,-1242.57 675.82,-1239.16 675.88,-1246.16"/>
+</g><g id="edge6" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID._setupRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M487.12,-1587.1C509.67,-1605.76 548.51,-1635.1 586.96,-1651 610.75,-1660.84 638.29,-1667.13 662.72,-1671.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="662.14,-1674.59 672.55,-1672.63 663.19,-1667.67 662.14,-1674.59"/>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID._setupRole -->
+<g id="edge7" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;TalentLayerPlatformID._setupRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M477.17,-1588.85C496.56,-1613.48 542.02,-1650.42 586.96,-1669 613.74,-1680.07 645.26,-1686.66 671.75,-1688.87" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="671.49,-1692.36 681.67,-1689.45 671.89,-1685.37 671.49,-1692.36"/>
+</g>
+<!-- TalentLayerPlatformID.address -->
+<g id="node43" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1246" rx="40" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1241.8" font-family="Times,serif" font-size="14.00">address</text>
+</g><g id="edge10" class="edge" data-name="TalentLayerPlatformID.initialize-&gt;CountersUpgradeable.Counter.increment" data-comment="TalentLayerPlatformID.address">
+
+<path fill="none" stroke="white" stroke-width="2" d="M483.38,-1551.94C503.86,-1527.44 538.44,-1481.39 552.51,-1435 573.35,-1366.29 545.63,-201.72 586.96,-143 605.4,-116.79 638.25,-103.07 667.65,-95.89"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="668,-99.4 677.03,-93.84 666.51,-92.56 668,-99.4"/>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;TalentLayerPlatformID.address -->
+
+<!-- CountersUpgradeable.Counter.increment -->
+<g id="node51" class="node" pointer-events="visible" data-name="CountersUpgradeable.Counter.increment">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-88" rx="49.79" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-83.8" font-family="Times,serif" font-size="14.00">increment</text>
+</g>
+<!-- TalentLayerPlatformID.initialize&#45;&gt;CountersUpgradeable.Counter.increment -->
+<g id="edge11" class="edge" data-name="TalentLayerPlatformID.numberMinted-&gt;TalentLayerPlatformID.balanceOf" data-comment="TalentLayerPlatformID.initialize-&gt;CountersUpgradeable.Counter.increment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M536.01,-1138C575.68,-1138 625.28,-1138 664.18,-1138"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="664.17,-1141.5 674.17,-1138 664.17,-1134.5 664.17,-1141.5"/>
+</g>
+<!-- TalentLayerPlatformID.numberMinted -->
+<g id="node3" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.numberMinted">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="466.45" cy="-1138" rx="68.36" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1133.8" font-family="Times,serif" font-size="14.00">numberMinted</text>
+</g>
+<!-- TalentLayerPlatformID.balanceOf -->
+<g id="node44" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1138" rx="50.92" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1133.8" font-family="Times,serif" font-size="14.00">balanceOf</text>
+</g>
+<!-- TalentLayerPlatformID.numberMinted&#45;&gt;TalentLayerPlatformID.balanceOf -->
+<g id="edge12" class="edge" data-name="TalentLayerPlatformID.getOriginServiceFeeRate-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.numberMinted-&gt;TalentLayerPlatformID.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M290.09,-1232.56C311.24,-1227.92 331.35,-1218.98 345.94,-1203 417.87,-1124.17 329.06,-817.57 380.38,-724 426.22,-640.41 506.99,-679.77 552.51,-596 609.41,-491.33 508.11,-150.31 586.96,-61 609.18,-35.83 647.02,-29.64 677.97,-29.44"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.66,-32.93 687.72,-29.63 677.79,-25.93 677.66,-32.93"/>
+</g>
+<!-- TalentLayerPlatformID.getOriginServiceFeeRate -->
+<g id="node4" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.getOriginServiceFeeRate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="180.97" cy="-1230" rx="108.79" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1225.8" font-family="Times,serif" font-size="14.00">getOriginServiceFeeRate</text>
+</g>
+<!-- CountersUpgradeable.Counter.current -->
+<g id="node52" class="node" pointer-events="visible" data-name="CountersUpgradeable.Counter.current">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-34" rx="38.26" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-29.8" font-family="Times,serif" font-size="14.00">current</text>
+</g><g id="edge13" class="edge" data-name="TalentLayerPlatformID.getOriginValidatedProposalFeeRate-&gt;CountersUpgradeable.Counter.current" data-comment="CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M320.11,-1168.24C329.75,-1163.4 338.55,-1157.1 345.94,-1149 419.31,-1068.48 332.75,-757.98 380.38,-660 425.51,-567.14 507.04,-596.7 552.51,-504 596,-415.35 521.12,-134.59 586.96,-61 609.35,-35.98 647.18,-29.78 678.08,-29.54"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.75,-33.03 687.81,-29.71 677.88,-26.04 677.75,-33.03"/>
+</g>
+<!-- TalentLayerPlatformID.getOriginServiceFeeRate&#45;&gt;CountersUpgradeable.Counter.current -->
+
+<!-- TalentLayerPlatformID.getOriginValidatedProposalFeeRate -->
+<g id="node5" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.getOriginValidatedProposalFeeRate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="180.97" cy="-1176" rx="151.05" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1171.8" font-family="Times,serif" font-size="14.00">getOriginValidatedProposalFeeRate</text>
+</g><g id="edge14" class="edge" data-name="TalentLayerPlatformID.getServicePostingFee-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.getOriginValidatedProposalFeeRate">
+
+<path fill="none" stroke="white" stroke-width="2" d="M273.48,-1343.39C300.43,-1340.11 327.58,-1331.16 345.94,-1311 419.74,-1229.97 318.45,-909.43 380.38,-819 428.15,-749.24 505.41,-808.22 552.51,-738 594.48,-675.45 537.49,-117.8 586.96,-61 609.08,-35.6 647.1,-29.45 678.16,-29.34"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.87,-32.83 687.95,-29.55 678.03,-25.83 677.87,-32.83"/>
+</g>
+<!-- TalentLayerPlatformID.getOriginValidatedProposalFeeRate&#45;&gt;CountersUpgradeable.Counter.current -->
+
+<!-- TalentLayerPlatformID.getServicePostingFee -->
+<g id="node6" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.getServicePostingFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="180.97" cy="-1338" rx="94.93" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1333.8" font-family="Times,serif" font-size="14.00">getServicePostingFee</text>
+</g><g id="edge15" class="edge" data-name="TalentLayerPlatformID.getProposalPostingFee-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.getServicePostingFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M279.03,-1288.61C304.1,-1284.81 328.83,-1275.76 345.94,-1257 418.3,-1177.66 323.72,-866.22 380.38,-775 427.17,-699.65 506.29,-749.71 552.51,-674 623.61,-557.55 497.08,-163.65 586.96,-61 609.08,-35.74 646.92,-29.55 677.9,-29.38"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.6,-32.87 687.67,-29.57 677.74,-25.87 677.6,-32.87"/>
+</g>
+<!-- TalentLayerPlatformID.getServicePostingFee&#45;&gt;CountersUpgradeable.Counter.current -->
+
+<!-- TalentLayerPlatformID.getProposalPostingFee -->
+<g id="node7" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.getProposalPostingFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="180.97" cy="-1284" rx="99.61" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1279.8" font-family="Times,serif" font-size="14.00">getProposalPostingFee</text>
+</g><g id="edge16" class="edge" data-name="TalentLayerPlatformID.getSigner-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.getProposalPostingFee">
+
+<path fill="none" stroke="white" stroke-width="2" d="M229.8,-579.28C313.06,-571.63 482.42,-542.43 552.51,-431 596.48,-361.1 531.43,-122.12 586.96,-61 609.46,-36.23 647.11,-29.98 677.91,-29.66"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.55,-33.15 687.6,-29.8 677.65,-26.15 677.55,-33.15"/>
+</g>
+<!-- TalentLayerPlatformID.getProposalPostingFee&#45;&gt;CountersUpgradeable.Counter.current -->
+
+<!-- TalentLayerPlatformID.getSigner -->
+<g id="node8" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.getSigner">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="180.97" cy="-582" rx="48.09" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-577.8" font-family="Times,serif" font-size="14.00">getSigner</text>
+</g><g id="edge17" class="edge" data-name="TalentLayerPlatformID.getPlatform-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.getSigner">
+
+<path fill="none" stroke="white" stroke-width="2" d="M238.43,-525.25C270.91,-522.09 311.9,-515.34 345.94,-501 450.98,-456.74 495.11,-447.48 552.51,-349 617.43,-237.63 499.03,-155.27 586.96,-61 609.78,-36.52 647.42,-30.26 678.13,-29.86"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.74,-33.36 687.78,-29.98 677.82,-26.36 677.74,-33.36"/>
+</g>
+<!-- TalentLayerPlatformID.getSigner&#45;&gt;CountersUpgradeable.Counter.current -->
+
+<!-- TalentLayerPlatformID.getPlatform -->
+<g id="node9" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.getPlatform">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="180.97" cy="-528" rx="56.76" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-523.8" font-family="Times,serif" font-size="14.00">getPlatform</text>
+</g><g id="edge18" class="edge" data-name="TalentLayerPlatformID.totalSupply-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.getPlatform">
+
+<path fill="none" stroke="white" stroke-width="2" d="M237.47,-417.75C321.76,-410.99 479.91,-384.52 552.51,-282 609.96,-200.87 517.87,-132.48 586.96,-61 609.96,-37.2 647.01,-30.8 677.42,-30.16"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.37,-33.66 687.39,-30.21 677.4,-26.66 677.37,-33.66"/>
+</g>
+<!-- TalentLayerPlatformID.getPlatform&#45;&gt;CountersUpgradeable.Counter.current -->
+
+<!-- TalentLayerPlatformID.totalSupply -->
+<g id="node10" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.totalSupply">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-420" rx="55.64" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-415.8" font-family="Times,serif" font-size="14.00">totalSupply</text>
+</g>
+<!-- TalentLayerPlatformID.totalSupply&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge21" class="edge" data-name="TalentLayerPlatformID.mint-&gt;TalentLayerPlatformID._afterMint" data-comment="TalentLayerPlatformID.totalSupply-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M210.29,-1512.76C247.41,-1517.21 311.8,-1518.4 345.94,-1481 417.73,-1402.34 314.44,-1086.63 380.38,-1003 386.38,-995.39 394.53,-989.88 403.42,-985.91"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="404.39,-989.28 412.58,-982.56 401.98,-982.71 404.39,-989.28"/>
+</g>
+<!-- TalentLayerPlatformID.mint -->
+<g id="node11" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.mint">
+
+<ellipse fill="#ff9797" stroke="brown" stroke-width="3" cx="180.97" cy="-1508" rx="28.99" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1503.8" font-family="Times,serif" font-size="14.00">mint</text>
+</g>
+<!-- TalentLayerPlatformID._afterMint -->
+<g id="node28" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._afterMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-976" rx="52.17" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-971.8" font-family="Times,serif" font-size="14.00">_afterMint</text>
+</g><g id="edge19" class="edge" data-name="TalentLayerPlatformID.mint-&gt;TalentLayerPlatformID._safeMint" data-comment="TalentLayerPlatformID._afterMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M210.24,-1512.72C247.3,-1517.11 311.63,-1518.24 345.94,-1481 409.98,-1411.47 321.51,-1130.96 380.38,-1057 386.69,-1049.07 395.32,-1043.43 404.69,-1039.43"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="405.67,-1042.79 413.96,-1036.19 403.36,-1036.19 405.67,-1042.79"/>
+</g>
+<!-- TalentLayerPlatformID.mint&#45;&gt;TalentLayerPlatformID._afterMint -->
+<g id="edge20" class="edge" data-name="TalentLayerPlatformID.mint-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.mint-&gt;TalentLayerPlatformID._afterMint">
+
+<path fill="none" stroke="white" stroke-width="2" d="M210.36,-1512.83C247.57,-1517.35 312.05,-1518.62 345.94,-1481 433.23,-1384.07 300.38,-998.04 380.38,-895 429.63,-831.56 503.73,-903.8 552.51,-840 605.15,-771.18 530.27,-126.52 586.96,-61 609,-35.52 647.02,-29.39 678.1,-29.29"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.83,-32.78 687.9,-29.51 677.98,-25.78 677.83,-32.78"/>
+</g>
+<!-- TalentLayerPlatformID._safeMint -->
+<g id="node45" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._safeMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-1030" rx="50.39" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1025.8" font-family="Times,serif" font-size="14.00">_safeMint</text>
+</g>
+<!-- TalentLayerPlatformID.mint&#45;&gt;TalentLayerPlatformID._safeMint -->
+<g id="edge24" class="edge" data-name="TalentLayerPlatformID.mintForAddress-&gt;TalentLayerPlatformID._afterMint" data-comment="TalentLayerPlatformID.mint-&gt;TalentLayerPlatformID._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M250.94,-1460.82C284.36,-1460.11 322.29,-1452.68 345.94,-1427 409.98,-1357.47 321.51,-1076.96 380.38,-1003 386.41,-995.41 394.58,-989.92 403.48,-985.96"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="404.45,-989.33 412.64,-982.61 402.04,-982.76 404.45,-989.33"/>
+</g>
+<!-- TalentLayerPlatformID.mint&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge22" class="edge" data-name="TalentLayerPlatformID.mintForAddress-&gt;TalentLayerPlatformID._safeMint" data-comment="TalentLayerPlatformID.mint-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M251.23,-1460.69C284.52,-1459.9 322.23,-1452.43 345.94,-1427 402.24,-1366.59 328.57,-1121.31 380.38,-1057 386.73,-1049.11 395.39,-1043.49 404.76,-1039.49"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="405.75,-1042.85 414.04,-1036.25 403.44,-1036.25 405.75,-1042.85"/>
+</g>
+<!-- TalentLayerPlatformID.mintForAddress -->
+<g id="node12" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.mintForAddress">
+
+<ellipse fill="#ff9797" stroke="brown" stroke-width="3" cx="180.97" cy="-1454" rx="73.61" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1449.8" font-family="Times,serif" font-size="14.00">mintForAddress</text>
+</g><g id="edge23" class="edge" data-name="TalentLayerPlatformID.mintForAddress-&gt;CountersUpgradeable.Counter.current" data-comment="TalentLayerPlatformID.mintForAddress">
+
+<path fill="none" stroke="white" stroke-width="2" d="M250.74,-1461.02C284.33,-1460.43 322.45,-1453.02 345.94,-1427 430.5,-1333.28 306.25,-962.18 380.38,-860 428.68,-793.42 504.66,-858.91 552.51,-792 599.82,-725.86 533.67,-122.42 586.96,-61 609.03,-35.55 647.06,-29.42 678.13,-29.31"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.85,-32.8 687.92,-29.53 678,-25.8 677.85,-32.8"/>
+</g>
+<!-- TalentLayerPlatformID.mintForAddress&#45;&gt;TalentLayerPlatformID._afterMint -->
+
+<!-- TalentLayerPlatformID.mintForAddress&#45;&gt;TalentLayerPlatformID._safeMint -->
+
+<!-- TalentLayerPlatformID.mintForAddress&#45;&gt;CountersUpgradeable.Counter.current -->
+
+<!-- TalentLayerPlatformID.updateProfileData -->
+<g id="node13" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateProfileData">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-1122" rx="81.08" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1117.8" font-family="Times,serif" font-size="14.00">updateProfileData</text>
+</g>
+<!-- TalentLayerPlatformID.updateOriginServiceFeeRate -->
+<g id="node14" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateOriginServiceFeeRate">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-1068" rx="122.67" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1063.8" font-family="Times,serif" font-size="14.00">updateOriginServiceFeeRate</text>
+</g><g id="edge25" class="edge" data-name="TalentLayerPlatformID.updateArbitrator-&gt;TalentLayerPlatformID.address" data-comment="TalentLayerPlatformID.updateOriginServiceFeeRate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M505.59,-1283.25C529.02,-1276.62 559.68,-1269.68 586.96,-1264 616.19,-1257.91 648.94,-1251.62 675.56,-1247.57"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="675.7,-1251.08 685.1,-1246.19 674.7,-1244.15 675.7,-1251.08"/>
+</g>
+<!-- TalentLayerPlatformID.updateOriginValidatedProposalFeeRate -->
+<g id="node15" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateOriginValidatedProposalFeeRate">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-1014" rx="164.94" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1009.8" font-family="Times,serif" font-size="14.00">updateOriginValidatedProposalFeeRate</text>
+</g>
+<!-- TalentLayerPlatformID.updateArbitrator -->
+<g id="node16" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateArbitrator">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="466.45" cy="-1300" rx="75.28" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1295.8" font-family="Times,serif" font-size="14.00">updateArbitrator</text>
+</g>
+<!-- TalentLayerPlatformID.updateArbitrator&#45;&gt;TalentLayerPlatformID.address -->
+
+<!-- TalentLayerPlatformID.updateArbitrator&#45;&gt;TalentLayerPlatformID.address -->
+<g id="edge26" class="edge" data-name="TalentLayerPlatformID.updateArbitrator-&gt;TalentLayerPlatformID.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M537.19,-1292.58C553.5,-1289.16 570.82,-1285.36 586.96,-1282 619.81,-1275.15 657.1,-1268.06 685.14,-1261.57" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="685.88,-1264.99 694.77,-1259.24 684.23,-1258.19 685.88,-1264.99"/>
+</g>
+<!-- TalentLayerPlatformID.updateArbitrationFeeTimeout --><!-- TalentLayerPlatformID.updateSigner -->
+<g id="node17" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateArbitrationFeeTimeout" data-comment="TalentLayerPlatformID.updateSigner">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-960" rx="126.2" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-955.8" font-family="Times,serif" font-size="14.00">updateArbitrationFeeTimeout</text>
+</g>
+<!-- TalentLayerPlatformID.updateServicePostingFee --><!-- TalentLayerPlatformID.whitelistUser -->
+<g id="node18" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateServicePostingFee" data-comment="TalentLayerPlatformID.whitelistUser">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-906" rx="108.82" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-901.8" font-family="Times,serif" font-size="14.00">updateServicePostingFee</text>
+</g>
+<!-- TalentLayerPlatformID.updateProposalPostingFee --><!-- TalentLayerPlatformID.updateMintStatus -->
+<g id="node19" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateProposalPostingFee" data-comment="TalentLayerPlatformID.updateMintStatus">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-852" rx="113.5" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-847.8" font-family="Times,serif" font-size="14.00">updateProposalPostingFee</text>
+</g>
+<g id="node20" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateSigner" data-comment="TalentLayerPlatformID.updateMintStatus">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-798" rx="61.98" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-793.8" font-family="Times,serif" font-size="14.00">updateSigner</text>
+</g><g id="node21" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.whitelistUser" data-comment="TalentLayerPlatformID.updateMintStatus">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-744" rx="62.56" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-739.8" font-family="Times,serif" font-size="14.00">whitelistUser</text>
+</g><g id="node22" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateMintStatus">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-690" rx="79.34" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-685.8" font-family="Times,serif" font-size="14.00">updateMintStatus</text>
+</g><!-- TalentLayerPlatformID.updateMintFee -->
+<g id="node23" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.updateMintFee">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-636" rx="69.5" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-631.8" font-family="Times,serif" font-size="14.00">updateMintFee</text>
+</g>
+<!-- TalentLayerPlatformID.withdraw -->
+<g id="node24" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.withdraw">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="466.45" cy="-1192" rx="47.52" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1187.8" font-family="Times,serif" font-size="14.00">withdraw</text>
+</g>
+<!-- TalentLayerPlatformID.withdraw&#45;&gt;TalentLayerPlatformID.address -->
+<g id="edge28" class="edge" data-name="TalentLayerPlatformID.withdraw-&gt;TalentLayerPlatformID.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M508.85,-1201.71C531.82,-1207.01 560.93,-1213.58 586.96,-1219 617.14,-1225.29 651.07,-1231.78 678.13,-1236.83"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="677.36,-1240.25 687.83,-1238.63 678.64,-1233.36 677.36,-1240.25"/>
+</g>
+<!-- TalentLayerPlatformID.payable -->
+<g id="node46" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.payable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1192" rx="41.13" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1187.8" font-family="Times,serif" font-size="14.00">payable</text>
+</g>
+<!-- TalentLayerPlatformID.withdraw&#45;&gt;TalentLayerPlatformID.payable -->
+<g id="edge27" class="edge" data-name="TalentLayerPlatformID.withdraw-&gt;TalentLayerPlatformID.payable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M515.31,-1192C560.14,-1192 627.06,-1192 673.92,-1192"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="673.84,-1195.5 683.84,-1192 673.84,-1188.5 673.84,-1195.5"/>
+</g>
+<!-- TalentLayerPlatformID.addArbitrator -->
+<g id="node25" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.addArbitrator">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="466.45" cy="-1246" rx="63.69" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1241.8" font-family="Times,serif" font-size="14.00">addArbitrator</text>
+</g>
+<!-- TalentLayerPlatformID.addArbitrator&#45;&gt;TalentLayerPlatformID.address -->
+<g id="edge29" class="edge" data-name="TalentLayerPlatformID.addArbitrator-&gt;TalentLayerPlatformID.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M528.63,-1240.18C573.58,-1238.85 634,-1238.95 676.58,-1240.49"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="676.3,-1243.98 686.44,-1240.9 676.6,-1236.98 676.3,-1243.98"/>
+</g>
+<!-- TalentLayerPlatformID.addArbitrator&#45;&gt;TalentLayerPlatformID.address -->
+
+<!-- TalentLayerPlatformID.removeArbitrator -->
+<g id="node26" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.removeArbitrator">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="466.45" cy="-1354" rx="78.71" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1349.8" font-family="Times,serif" font-size="14.00">removeArbitrator</text>
+</g>
+<!-- TalentLayerPlatformID.removeArbitrator&#45;&gt;TalentLayerPlatformID.address -->
+<g id="edge31" class="edge" data-name="TalentLayerPlatformID.removeArbitrator-&gt;TalentLayerPlatformID.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M510.9,-1337.92C525.19,-1333.38 540.47,-1327.25 552.51,-1318 575.09,-1300.66 563.4,-1279.97 586.96,-1264 613.87,-1245.75 649.95,-1239.08 678.94,-1238.11"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="678.69,-1241.61 688.67,-1238.06 678.65,-1234.61 678.69,-1241.61"/>
+</g>
+<!-- TalentLayerPlatformID.removeArbitrator&#45;&gt;TalentLayerPlatformID.address -->
+<g id="edge30" class="edge" data-name="TalentLayerPlatformID.addArbitrator-&gt;TalentLayerPlatformID.address" data-comment="TalentLayerPlatformID.removeArbitrator-&gt;TalentLayerPlatformID.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M528.63,-1251.82C573.58,-1253.15 634,-1253.05 676.58,-1251.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="676.6,-1255.02 686.44,-1251.1 676.3,-1248.02 676.6,-1255.02"/>
+</g>
+<!-- TalentLayerPlatformID._afterMint&#45;&gt;TalentLayerPlatformID.address -->
+<g id="edge35" class="edge" data-name="TalentLayerPlatformID._afterMint-&gt;TalentLayerPlatformID.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M517.33,-982.14C530.49,-986.1 543.52,-992.55 552.51,-1003 615.94,-1076.67 519.27,-1149.22 586.96,-1219 609.62,-1242.37 645.83,-1248.95 675.94,-1249.77"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="675.81,-1253.27 685.82,-1249.79 675.82,-1246.27 675.81,-1253.27"/>
+</g>
+<!-- TalentLayerPlatformID._afterMint&#45;&gt;CountersUpgradeable.Counter.increment -->
+<g id="edge34" class="edge" data-name="TalentLayerPlatformID._afterMint-&gt;CountersUpgradeable.Counter.increment">
+
+<path fill="none" stroke="white" stroke-width="2" d="M517.68,-970.64C531.01,-966.7 544.04,-960.08 552.51,-949 606.98,-877.81 534.78,-215.88 586.96,-143 605.53,-117.06 638.17,-103.35 667.43,-96.11"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="668.17,-99.53 677.18,-93.96 666.66,-92.7 668.17,-99.53"/>
+</g>
+<!-- TalentLayerPlatformID._afterMint&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge33" class="edge" data-name="TalentLayerPlatformID._afterMint-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M517.7,-970.66C531.04,-966.72 544.06,-960.09 552.51,-949 612.36,-870.46 522.56,-135.85 586.96,-61 608.93,-35.46 646.96,-29.33 678.05,-29.25"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.79,-32.74 687.86,-29.47 677.95,-25.74 677.79,-32.74"/>
+</g><g id="edge32" class="edge" data-name="TalentLayerPlatformID.removeArbitrator-&gt;TalentLayerPlatformID.address" data-comment="TalentLayerPlatformID._afterMint-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M537.72,-1345.17C542.96,-1342.54 547.97,-1339.49 552.51,-1336 575.09,-1318.66 563.4,-1297.97 586.96,-1282 613.51,-1263.99 648.99,-1257.26 677.78,-1253.88" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="677.89,-1257.39 687.46,-1252.85 677.15,-1250.43 677.89,-1257.39"/>
+</g>
+<!-- TalentLayerPlatformID._validateHandle -->
+<g id="node29" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._validateHandle">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-1408" rx="74.13" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1403.8" font-family="Times,serif" font-size="14.00">_validateHandle</text>
+</g>
+<!-- TalentLayerPlatformID.HandleLengthInvalid -->
+<g id="node47" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.HandleLengthInvalid">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1300" rx="93.76" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1295.8" font-family="Times,serif" font-size="14.00">HandleLengthInvalid</text>
+</g>
+<!-- TalentLayerPlatformID._validateHandle&#45;&gt;TalentLayerPlatformID.HandleLengthInvalid -->
+<g id="edge36" class="edge" data-name="TalentLayerPlatformID._validateHandle-&gt;TalentLayerPlatformID.HandleLengthInvalid">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M525.07,-1395.76C534.82,-1392.04 544.41,-1387.23 552.51,-1381 575.09,-1363.66 563.4,-1342.97 586.96,-1327 598.8,-1318.97 612.42,-1313.18 626.42,-1309.03"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="627.08,-1312.48 635.87,-1306.56 625.31,-1305.71 627.08,-1312.48"/>
+</g>
+<!-- TalentLayerPlatformID.HandleFirstCharInvalid -->
+<g id="node48" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.HandleFirstCharInvalid">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1354" rx="102.52" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1349.8" font-family="Times,serif" font-size="14.00">HandleFirstCharInvalid</text>
+</g>
+<!-- TalentLayerPlatformID._validateHandle&#45;&gt;TalentLayerPlatformID.HandleFirstCharInvalid -->
+<g id="edge37" class="edge" data-name="TalentLayerPlatformID._validateHandle-&gt;TalentLayerPlatformID.HandleFirstCharInvalid">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M522.7,-1395.11C542.88,-1390.51 565.92,-1385.38 586.96,-1381 604.77,-1377.29 623.88,-1373.51 642.12,-1369.99"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="642.76,-1373.43 651.92,-1368.12 641.44,-1366.56 642.76,-1373.43"/>
+</g>
+<!-- TalentLayerPlatformID.HandleContainsInvalidCharacters -->
+<g id="node49" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.HandleContainsInvalidCharacters">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-1408" rx="141.8" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-1403.8" font-family="Times,serif" font-size="14.00">HandleContainsInvalidCharacters</text>
+</g>
+<!-- TalentLayerPlatformID._validateHandle&#45;&gt;TalentLayerPlatformID.HandleContainsInvalidCharacters -->
+<g id="edge38" class="edge" data-name="TalentLayerPlatformID._validateHandle-&gt;TalentLayerPlatformID.HandleContainsInvalidCharacters">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M541.88,-1408C551.95,-1408 562.57,-1408 573.42,-1408"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="573.22,-1411.5 583.22,-1408 573.22,-1404.5 573.22,-1411.5"/>
+</g>
+<!-- TalentLayerPlatformID.isValid -->
+<g id="node30" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.isValid">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="180.97" cy="-312" rx="38.86" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-307.8" font-family="Times,serif" font-size="14.00">isValid</text>
+</g>
+<!-- TalentLayerPlatformID.isValid&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge39" class="edge" data-name="TalentLayerPlatformID.isValid-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M220.37,-315.98C296.06,-321.49 464.72,-321.78 552.51,-228 604.31,-172.68 532.97,-114.19 586.96,-61 610.46,-37.84 647.32,-31.39 677.52,-30.57"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="677.41,-34.07 687.4,-30.54 677.39,-27.07 677.41,-34.07"/>
+</g>
+<!-- TalentLayerPlatformID.supportsInterface -->
+<g id="node31" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.supportsInterface">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-258" rx="78.14" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-253.8" font-family="Times,serif" font-size="14.00">supportsInterface</text>
+</g>
+<!-- ERC721Upgradeable.supportsInterface -->
+<g id="node53" class="node" pointer-events="visible" data-name="ERC721Upgradeable.supportsInterface">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-173" rx="78.14" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-168.8" font-family="Times,serif" font-size="14.00">supportsInterface</text>
+</g>
+<!-- TalentLayerPlatformID.supportsInterface&#45;&gt;ERC721Upgradeable.supportsInterface -->
+<g id="edge40" class="edge" data-name="TalentLayerPlatformID.supportsInterface-&gt;ERC721Upgradeable.supportsInterface">
+
+<path fill="none" stroke="white" stroke-width="2" d="M231.67,-243.1C279.49,-228.76 351.94,-207.03 403.5,-191.57"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="404.33,-194.98 412.9,-188.76 402.32,-188.28 404.33,-194.98"/>
+</g>
+<!-- AccessControlUpgradeable.supportsInterface -->
+<g id="node54" class="node" pointer-events="visible" data-name="AccessControlUpgradeable.supportsInterface">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-88" rx="78.14" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-83.8" font-family="Times,serif" font-size="14.00">supportsInterface</text>
+</g>
+<!-- TalentLayerPlatformID.supportsInterface&#45;&gt;AccessControlUpgradeable.supportsInterface -->
+<g id="edge41" class="edge" data-name="TalentLayerPlatformID.supportsInterface-&gt;AccessControlUpgradeable.supportsInterface">
+
+<path fill="none" stroke="white" stroke-width="2" d="M211.77,-240.13C262.81,-209.52 367.02,-147.02 424.73,-112.42"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="426.25,-115.59 433.02,-107.44 422.65,-109.59 426.25,-115.59"/>
+</g>
+<!-- TalentLayerPlatformID._transfer -->
+<g id="node32" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._transfer">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="180.97" cy="-474" rx="45.21" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-469.8" font-family="Times,serif" font-size="14.00">_transfer</text>
+</g>
+<!-- TalentLayerPlatformID.tokenURI -->
+<g id="node33" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.tokenURI">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="180.97" cy="-1562" rx="49.24" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-1557.8" font-family="Times,serif" font-size="14.00">tokenURI</text>
+</g>
+<!-- TalentLayerPlatformID._buildTokenURI -->
+<g id="node34" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._buildTokenURI">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-1084" rx="77.04" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-1079.8" font-family="Times,serif" font-size="14.00">_buildTokenURI</text>
+</g>
+<!-- TalentLayerPlatformID.tokenURI&#45;&gt;TalentLayerPlatformID._buildTokenURI -->
+<g id="edge42" class="edge" data-name="TalentLayerPlatformID.tokenURI-&gt;TalentLayerPlatformID._buildTokenURI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M228.69,-1568.36C266.05,-1570.58 316.81,-1566.62 345.94,-1535 409.98,-1465.47 321.51,-1184.96 380.38,-1111 383.26,-1107.37 386.63,-1104.23 390.34,-1101.5"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="392.12,-1104.51 398.94,-1096.4 388.55,-1098.49 392.12,-1104.51"/>
+</g>
+<!-- string.concat -->
+<g id="node55" class="node" pointer-events="visible" data-name="string.concat">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="729.4" cy="-173" rx="36.47" ry="18"/>
+<text text-anchor="middle" x="729.4" y="-168.8" font-family="Times,serif" font-size="14.00">concat</text>
+</g>
+<!-- TalentLayerPlatformID._buildTokenURI&#45;&gt;string.concat -->
+<g id="edge43" class="edge" data-name="TalentLayerPlatformID._buildTokenURI-&gt;string.concat">
+
+<path fill="none" stroke="white" stroke-width="2" d="M531.6,-1073.34C539.71,-1069.43 547.06,-1064.14 552.51,-1057 608.49,-983.75 533.33,-302.99 586.96,-228 608.1,-198.43 647.55,-184.75 679.42,-178.43"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="679.87,-181.91 689.12,-176.74 678.66,-175.01 679.87,-181.91"/>
+</g>
+<!-- TalentLayerPlatformID._authorizeUpgrade -->
+<g id="node35" class="node" pointer-events="visible" data-name="TalentLayerPlatformID._authorizeUpgrade">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="180.97" cy="-366" rx="85.08" ry="18"/>
+<text text-anchor="middle" x="180.97" y="-361.8" font-family="Times,serif" font-size="14.00">_authorizeUpgrade</text>
+</g>
+<!-- TalentLayerPlatformID.canMint -->
+<g id="node36" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.canMint">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="227.54,-1612.54 227.54,-1627.46 200.26,-1638 161.67,-1638 134.39,-1627.46 134.39,-1612.54 161.67,-1602 200.26,-1602 227.54,-1612.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="231.53,-1609.8 231.53,-1630.2 201,-1642 160.94,-1642 130.41,-1630.2 130.41,-1609.8 160.94,-1598 201,-1598 231.53,-1609.8"/>
+<text text-anchor="middle" x="180.97" y="-1615.8" font-family="Times,serif" font-size="14.00">canMint</text>
+</g>
+<!-- TalentLayerPlatformID.canMint&#45;&gt;TalentLayerPlatformID.numberMinted -->
+<g id="edge44" class="edge" data-name="TalentLayerPlatformID.canMint-&gt;TalentLayerPlatformID.numberMinted">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M232.64,-1625.2C269.64,-1625.95 318.04,-1620.02 345.94,-1589 409.15,-1518.71 321.51,-1238.96 380.38,-1165 384.22,-1160.18 388.92,-1156.2 394.12,-1152.93"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="395.39,-1156.2 402.69,-1148.52 392.19,-1149.98 395.39,-1156.2"/>
+</g>
+<!-- TalentLayerPlatformID.canMint&#45;&gt;TalentLayerPlatformID._validateHandle -->
+<g id="edge45" class="edge" data-name="TalentLayerPlatformID.canMint-&gt;TalentLayerPlatformID._validateHandle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M232.77,-1620.45C267.28,-1618.48 312.53,-1611.23 345.94,-1589 353.33,-1584.08 414.82,-1487.97 446.59,-1437.86"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="449.42,-1439.92 451.82,-1429.6 443.51,-1436.18 449.42,-1439.92"/>
+</g>
+<!-- TalentLayerPlatformID.onlyPlatformOwner -->
+<g id="node37" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.onlyPlatformOwner">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="276.57,-1388.54 276.57,-1403.46 220.57,-1414 141.37,-1414 85.37,-1403.46 85.37,-1388.54 141.37,-1378 220.57,-1378 276.57,-1388.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="280.57,-1385.23 280.57,-1406.77 220.94,-1418 140.99,-1418 81.36,-1406.77 81.36,-1385.23 140.99,-1374 220.94,-1374 280.57,-1385.23"/>
+<text text-anchor="middle" x="180.97" y="-1391.8" font-family="Times,serif" font-size="14.00">onlyPlatformOwner</text>
+</g>
+<!-- TalentLayerPlatformID.ownerOf -->
+<g id="node50" class="node" pointer-events="visible" data-name="TalentLayerPlatformID.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="466.45" cy="-922" rx="45.22" ry="18"/>
+<text text-anchor="middle" x="466.45" y="-917.8" font-family="Times,serif" font-size="14.00">ownerOf</text>
+</g>
+<!-- TalentLayerPlatformID.onlyPlatformOwner&#45;&gt;TalentLayerPlatformID.ownerOf -->
+<g id="edge46" class="edge" data-name="TalentLayerPlatformID.onlyPlatformOwner-&gt;TalentLayerPlatformID.ownerOf">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M281.65,-1397.47C305.84,-1392.86 329.45,-1383.3 345.94,-1365 408.02,-1296.08 322.55,-1021.53 380.38,-949 387.53,-940.02 397.68,-933.98 408.48,-929.92"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="409.4,-933.3 417.93,-927.03 407.34,-926.61 409.4,-933.3"/>
+</g>
+<!-- key -->
+<g id="node56" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="245.97,-1833 115.97,-1833 115.97,-1745 245.97,-1745 245.97,-1833"/>
+<text text-anchor="start" x="165.61" y="-1814.4" font-family="Times,serif" font-size="14.00">Internal Call</text>
+<text text-anchor="start" x="161.72" y="-1794.4" font-family="Times,serif" font-size="14.00">External Call</text>
+<text text-anchor="start" x="139.17" y="-1774.4" font-family="Times,serif" font-size="14.00">Defined Contract</text>
+<text text-anchor="start" x="125.57" y="-1754.4" font-family="Times,serif" font-size="14.00">Undefined Contract</text>
+</g>
+<!-- key2 -->
+
+<g id="node57" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="493.45,-1833 439.45,-1833 439.45,-1745 493.45,-1745 493.45,-1833"/>
+<text text-anchor="start" x="456.45" y="-1814.4" font-family="Times,serif" font-size="14.00">   </text>
+<text text-anchor="start" x="456.45" y="-1794.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="#445773" stroke="none" points="454.45,-1769 454.45,-1789 479.45,-1789 479.45,-1769 454.45,-1769"/>
+<text text-anchor="start" x="456.45" y="-1774.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="none" stroke="#e8726d" points="456.45,-1751 456.45,-1767 477.45,-1767 477.45,-1751 456.45,-1751"/>
+</g>
+
+<!-- key&#45;&gt;key2 -->
+
+<g id="edge47" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M238.97,-1819C329.82,-1819 355.73,-1819 440.5,-1819"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="440.42,-1822.5 450.42,-1819 440.42,-1815.5 440.42,-1822.5"/>
+</g>
+
+<!-- key&#45;&gt;key2 -->
+
+
+<g id="edge48" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M238.97,-1799C329.82,-1799 355.73,-1799 440.5,-1799" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="440.42,-1802.5 450.42,-1799 440.42,-1795.5 440.42,-1802.5"/>
+</g>
+</g>
+</svg>

@@ -5,16 +5,16 @@
 ****[**TalentLayerPlatformID.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerPlatformID.sol) **** is the contract that initializes an integrating platforms' ID. The contract can be used to:
 
 * Mint a PlatformID
-* Initiate account recovery process
+* Update platform offchain data&#x20;
 * Manage platform fees
-
-{% hint style="info" %}
-More info coming soon!
-{% endhint %}
+* Manage dispute resolution strategy for the platform&#x20;
+* Activate signing mechanism on service and proposal posting
 
 ## Visualization
 
-<figure><img src="../../.gitbook/assets/TalentLayerPLatformId.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/platform2.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 
