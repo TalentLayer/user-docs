@@ -7,6 +7,12 @@ It's a good first step to set up a local version of Indie to...
 1. Get to know how frontends interface with TalentLayer
 2. Optionally, use Indie as a foundation for your next DAPP.
 
+## Explore the DAPP
+
+We've hosted a version of Indie on Mumbai testnet for you to play around with! Have fun.
+
+{% embed url="https://indie-two.vercel.app/" %}
+
 ## Watch the Demo
 
 {% embed url="https://youtu.be/8Y6E282Nwtc" %}
