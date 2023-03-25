@@ -39,7 +39,6 @@
   * [How-To Guides](technical-guides/how-to-guides/README.md)
     * [How to implement minting TalentLayer IDs?](technical-guides/how-to-guides/how-to-implement-minting-talentlayer-ids.md)
 * [😁 Open-Source Contribution](open-source-contribution/README.md)
-  * [How to Contribute](open-source-contribution/how-to-contribute.md)
   * [TalentLayer Improvement Proposals](open-source-contribution/talentlayer-improvement-proposals.md)
   * [Advanced Documentation](open-source-contribution/advanced-documentation/README.md)
     * [Subgraph Local Setup](open-source-contribution/advanced-documentation/subgraph-local-setup.md)

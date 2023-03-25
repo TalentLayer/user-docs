@@ -12,7 +12,7 @@ TalentLayer Core is composed of the following key modules:
 
 TalentLayer creates a paradigm shift in how freelance marketplaces operate by creating a pool of jobs and user reputations that any marketplace can tap into. Users maintain one self-owned reputation across many marketplaces. Marketplaces that build on TalentLayer can configure fees on transactions, job posts, user account creation and more - fully configurable to meet your business needs.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="basics/" %}
 [basics](basics/)
@@ -51,7 +51,7 @@ Since TalentLayer Core is currently in **Alpha,** we recommend reaching out to t
 
 How does your application communicate with TalentLayer? Learn more here.
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (2).png>)
 
 ### Writing to TalentLayer
 
