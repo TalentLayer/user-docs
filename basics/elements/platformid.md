@@ -2,13 +2,21 @@
 
 ## What is a Platform ID?
 
-Platform ID is the way in which access control is implemented on TalentLayer. It gives exclusive rights for platform ID holders to read and write to the TalentLayer backend for performing functionality such as minting TalentLayerIDs, creating Services, Proposals, and more.
+Platform ID is the way in which access control is implemented on TalentLayer. It gives exclusive rights for Platform ID holders to read and write to the TalentLayer backend for performing functionality such as minting TalentLayerIDs, creating Services, Proposals, and more.
 
-## How Do I Get a Platform ID?
+## How Do I Get a Testnet Platform ID?
 
-Right now while TalentLayer is in Alpha, Platform IDs are minted by the TalentLayer Core team and sent to platforms upon request.&#x20;
+Fill out the form below to apply for your Platform ID. We'll get back to you within 48 hours!
 
-Please request a Platform ID by emailing [labs@talentlayer.org](mailto:labs@talentlayer.org).
+{% embed url="https://th0ijmupkis.typeform.com/to/elUeofTE" %}
+
+## How Do I Get a Mainnet Platform ID?
+
+To integrate with TalentLayer mainnet, you need to have a working product on testnet beforehand. Think this sounds like you? Reach out to us!
+
+{% content-ref url="../../quick-start-integration-guide.md" %}
+[quick-start-integration-guide.md](../../quick-start-integration-guide.md)
+{% endcontent-ref %}
 
 ## How Can I Configure Fees With My Platform ID?&#x20;
 
