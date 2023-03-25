@@ -1,11 +1,5 @@
 # Fees & Economics
 
-{% hint style="info" %}
-**Escrow-Related Fees**\
-Three types of fees are levied at the release of a payment on the escrow:\
-originServiceFeeRate, originValidatedProposalFeeRate and protocolFee: these enable TalentLayers' interoperability between multiple marketplaces; allowing marketplaces to make money on users and jobs they onboard to the protocol even if they do transactions on other platforms or with users of other platforms.
-{% endhint %}
-
 ## Platform Fees
 
 Each Platform can fully configure their fees strategy with 4 different variables:
@@ -21,6 +15,10 @@ _The default configuration of this fee is 0%._&#x20;
 This is a fee that is configured by platforms for proposals that result in the release of an escrow on the TalentLayer network. This is remitted back to the platform that posted the job.&#x20;
 
 _The default configuration of this fee is 0%._&#x20;
+
+{% hint style="info" %}
+**Escrow-Related Fees:** originServiceFeeRate, originValidatedProposalFeeRate enable TalentLayers' interoperability between multiple marketplaces; allowing marketplaces to make money on users and jobs they onboard to the protocol even if they do transactions on other platforms or with users of other platforms.
+{% endhint %}
 
 ### servicePostingFee
 
@@ -44,12 +42,12 @@ _This fee is set at 1%._
 
 By making transactions, your users will experience any gas or transaction fees required by the blockchain you are interfacing with.&#x20;
 
-## Fee Sponsorship
+## Covering Fees for Users
 
-With Fee Sponsorship, you can cover protocol fees and gas fees on behalf of your users. This allows you to create a "fee-less" experience for users.&#x20;
+With our Delegation system, you can cover protocol fees and gas fees on behalf of your users. This allows you to create a "fee-less" experience for users.&#x20;
 
 Fee Sponsorship can be configured with your Platform ID and involves you loading a wallet with cryptos to cover fees that users incur.
 
-## Other Fees and Economics
-
-TalentLayer is currently finalizing our economic model and fee system. We intend to gradually roll out incentives and fees over time alongside our early partners.
+{% content-ref url="../technical-guides/delegation-and-covering-fees.md" %}
+[delegation-and-covering-fees.md](../technical-guides/delegation-and-covering-fees.md)
+{% endcontent-ref %}
