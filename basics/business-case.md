@@ -10,9 +10,9 @@ TalentLayer is infrastructure for open labor markets; backend tools for building
 
 Why are platforms integrating with TalentLayer? Because TalentLayer helps platforms…
 
-1. **Go to market rapidly:** let TalentLayer take care of the hard stuff on the backend
-2. **Prioritize features that help you stand out:** stop re-building the wheel - leverage TalentLayer’s modular tools as the foundation of your world-changing marketplace
-3. **Build user-centric tech:** Give users the benefits of interoperability - portable reputation, greater liquidity of jobs and talent, and more
+1. **Go to market rapidly:** Stop re-building the wheel. Leverage TalentLayer’s modular tools as the foundation of your world-changing marketplace.
+2. **Increase completion rates for work:** Bring more jobs to workers on your platform. Bring more workers to hirers on your platform. Increase velocity of transactions, foster user loyalty, and increase revenues.
+3. **Build user-centric tech:** Give users the benefits of interoperability - portable reputation and sovereign identity.
 
 The next generation of marketplaces is possible thanks to blockchain tech - the underlying innovation that TalentLayer leverages for interoperability, financial transfers, and reputation.
 
