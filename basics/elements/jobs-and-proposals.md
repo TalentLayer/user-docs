@@ -20,7 +20,7 @@ enum Status {
     Confirmed, /// The service has been consented to by an employee
     Finished, /// The service has been market completed by an employer
     Cancelled, /// The service has been canceled by the employer
-    Uncompleted, /// The service
+    Uncompleted, /// The service has not been completed fully by the freelancer and funds has been reimbursed
 }
 ```
 
