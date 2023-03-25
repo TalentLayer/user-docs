@@ -34,31 +34,21 @@ Because many platforms desire to levy fees on proposal posts, TalentLayer will o
 
 _The default Proposal Posting Fee will be 0%._&#x20;
 
-
-
 ## Protocol Fee
 
 This fee is used to support the development of the TalentLayer protocol. It is sent to the TalentLayer treasury. The treasury is currently managed by the TalentLayer Core team and will eventually be transitioned to be managed by the eventual TalentLayer DAO.&#x20;
 
 _This fee is set at 1%._
 
-
-
 ## Gas Fees
 
 By making transactions, your users will experience any gas or transaction fees required by the blockchain you are interfacing with.&#x20;
-
-##
 
 ## Fee Sponsorship
 
 With Fee Sponsorship, you can cover protocol fees and gas fees on behalf of your users. This allows you to create a "fee-less" experience for users.&#x20;
 
 Fee Sponsorship can be configured with your Platform ID and involves you loading a wallet with cryptos to cover fees that users incur.
-
-
-
-##
 
 ## Other Fees and Economics
 
