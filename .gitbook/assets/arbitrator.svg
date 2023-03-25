@@ -1,0 +1,208 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="456pt" height="786pt" viewBox="0.00 0.00 455.87 786.00">
+<g id="graph0" class="graph" transform="translate(4,782) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-782 451.87,-782 451.87,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterTalentLayerArbitrator">
+
+<path fill="#445773" stroke="#445773" d="M20,-178C20,-178 427.87,-178 427.87,-178 433.87,-178 439.87,-184 439.87,-190 439.87,-190 439.87,-621 439.87,-621 439.87,-627 433.87,-633 427.87,-633 427.87,-633 20,-633 20,-633 14,-633 8,-627 8,-621 8,-621 8,-190 8,-190 8,-184 14,-178 20,-178" style=""/>
+<text text-anchor="middle" x="223.93" y="-616.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TalentLayerArbitrator</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterITalentLayerPlatformID">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M262.09,-93C262.09,-93 390.81,-93 390.81,-93 396.81,-93 402.81,-99 402.81,-105 402.81,-105 402.81,-158 402.81,-158 402.81,-164 396.81,-170 390.81,-170 390.81,-170 262.09,-170 262.09,-170 256.09,-170 250.09,-164 250.09,-158 250.09,-158 250.09,-105 250.09,-105 250.09,-99 256.09,-93 262.09,-93" style=""/>
+<text text-anchor="middle" x="326.45" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITalentLayerPlatformID</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterArbitrator">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M266.33,-8C266.33,-8 386.57,-8 386.57,-8 392.57,-8 398.57,-14 398.57,-20 398.57,-20 398.57,-73 398.57,-73 398.57,-79 392.57,-85 386.57,-85 386.57,-85 266.33,-85 266.33,-85 260.33,-85 254.33,-79 254.33,-73 254.33,-73 254.33,-20 254.33,-20 254.33,-14 260.33,-8 266.33,-8" style=""/>
+<text text-anchor="middle" x="326.45" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Arbitrator</text>
+</g>
+<g id="clust4" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="27.52,-641 27.52,-770 361.45,-770 361.45,-641 27.52,-641" style=""/>
+<text text-anchor="middle" x="194.48" y="-753.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- TalentLayerArbitrator.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="100.52" cy="-582" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-577.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- TalentLayerArbitrator.ITalentLayerPlatformID -->
+<g id="node10" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.ITalentLayerPlatformID">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="326.45" cy="-582" rx="105.34" ry="18" style=""/>
+<text text-anchor="middle" x="326.45" y="-577.8" font-family="Times,serif" font-size="14.00" style="">ITalentLayerPlatformID</text>
+</g>
+<!-- TalentLayerArbitrator.&lt;Constructor&gt;&#45;&gt;TalentLayerArbitrator.ITalentLayerPlatformID -->
+<g id="edge1" class="edge" data-name="TalentLayerArbitrator.&lt;Constructor&gt;-&gt;TalentLayerArbitrator.ITalentLayerPlatformID">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M169.31,-582C181.28,-582 194.06,-582 206.95,-582" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="206.82,-585.5 216.82,-582 206.82,-578.5 206.82,-585.5" style=""/>
+</g>
+<!-- TalentLayerArbitrator.setArbitrationPrice -->
+<g id="node2" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.setArbitrationPrice">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="100.52" cy="-312" rx="84.53" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-307.8" font-family="Times,serif" font-size="14.00" style="">setArbitrationPrice</text>
+</g>
+<!-- ITalentLayerPlatformID.ownerOf -->
+<g id="node14" class="node" pointer-events="visible" data-name="ITalentLayerPlatformID.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="326.45" cy="-119" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="326.45" y="-114.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- TalentLayerArbitrator.setArbitrationPrice&#45;&gt;ITalentLayerPlatformID.ownerOf -->
+<g id="edge2" class="edge" data-name="TalentLayerArbitrator.setArbitrationPrice-&gt;ITalentLayerPlatformID.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M164.16,-299.16C171.87,-295.55 179.1,-290.92 185.03,-285 221.72,-248.34 187.63,-213.67 221.03,-174 235.62,-156.67 257.08,-144.05 276.76,-135.31" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="278.01,-138.58 285.91,-131.51 275.33,-132.11 278.01,-138.58" style=""/>
+</g>
+<!-- TalentLayerArbitrator.arbitrationCost -->
+<g id="node3" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.arbitrationCost">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="100.52" cy="-528" rx="68.94" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-523.8" font-family="Times,serif" font-size="14.00" style="">arbitrationCost</text>
+</g>
+<!-- TalentLayerArbitrator.bytesToUint -->
+<g id="node9" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.bytesToUint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="326.45" cy="-528" rx="59.13" ry="18" style=""/>
+<text text-anchor="middle" x="326.45" y="-523.8" font-family="Times,serif" font-size="14.00" style="">bytesToUint</text>
+</g>
+<!-- TalentLayerArbitrator.arbitrationCost&#45;&gt;TalentLayerArbitrator.bytesToUint -->
+<g id="edge3" class="edge" data-name="TalentLayerArbitrator.arbitrationCost-&gt;TalentLayerArbitrator.bytesToUint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M170.84,-528C197,-528 226.81,-528 253.23,-528" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="252.87,-531.5 262.87,-528 252.87,-524.5 252.87,-531.5" style=""/>
+</g>
+<!-- TalentLayerArbitrator.appealCost -->
+<g id="node4" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.appealCost">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="100.52" cy="-420" rx="53.89" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-415.8" font-family="Times,serif" font-size="14.00" style="">appealCost</text>
+</g>
+<!-- TalentLayerArbitrator.createDispute -->
+<g id="node5" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.createDispute">
+
+<ellipse fill="#ff9797" stroke="brown" stroke-width="3" cx="100.52" cy="-474" rx="64.24" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-469.8" font-family="Times,serif" font-size="14.00" style="">createDispute</text>
+</g>
+<!-- TalentLayerArbitrator.createDispute&#45;&gt;TalentLayerArbitrator.bytesToUint -->
+<g id="edge5" class="edge" data-name="TalentLayerArbitrator.createDispute-&gt;TalentLayerArbitrator.bytesToUint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M151.77,-486.12C185.31,-494.21 229.58,-504.88 265.04,-513.43" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="264.18,-516.83 274.72,-515.77 265.82,-510.02 264.18,-516.83" style=""/>
+</g>
+<!-- TalentLayerArbitrator.IArbitrable -->
+<g id="node11" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.IArbitrable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="326.45" cy="-420" rx="53.87" ry="18" style=""/>
+<text text-anchor="middle" x="326.45" y="-415.8" font-family="Times,serif" font-size="14.00" style="">IArbitrable</text>
+</g>
+<!-- TalentLayerArbitrator.createDispute&#45;&gt;TalentLayerArbitrator.IArbitrable -->
+<g id="edge6" class="edge" data-name="TalentLayerArbitrator.createDispute-&gt;TalentLayerArbitrator.IArbitrable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M141.81,-458.96C175.18,-449.35 223.21,-437.49 261.78,-429.19" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="262.44,-432.63 271.5,-427.15 261,-425.78 262.44,-432.63" style=""/>
+</g>
+<!-- TalentLayerArbitrator.createDispute&#45;&gt;TalentLayerArbitrator.IArbitrable -->
+<g id="edge8" class="edge" data-name="TalentLayerArbitrator.createDispute-&gt;TalentLayerArbitrator.IArbitrable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.06,-465.9C196.14,-458.27 241.89,-447.14 276.12,-437.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="277.06,-440.97 285.72,-434.87 275.14,-434.24 277.06,-440.97" style=""/>
+</g>
+<!-- TalentLayerArbitrator.DisputeCreation -->
+<g id="node12" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.DisputeCreation">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="326.45" cy="-474" rx="74.16" ry="18" style=""/>
+<text text-anchor="middle" x="326.45" y="-469.8" font-family="Times,serif" font-size="14.00" style="">DisputeCreation</text>
+</g>
+<!-- TalentLayerArbitrator.createDispute&#45;&gt;TalentLayerArbitrator.DisputeCreation -->
+<g id="edge7" class="edge" data-name="TalentLayerArbitrator.createDispute-&gt;TalentLayerArbitrator.DisputeCreation">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M165.99,-474C188.55,-474 214.27,-474 238.37,-474" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="238.15,-477.5 248.15,-474 238.15,-470.5 238.15,-477.5" style=""/>
+</g>
+<!-- Arbitrator.createDispute -->
+<g id="node15" class="node" pointer-events="visible" data-name="Arbitrator.createDispute">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="326.45" cy="-34" rx="64.24" ry="18" style=""/>
+<text text-anchor="middle" x="326.45" y="-29.8" font-family="Times,serif" font-size="14.00" style="">createDispute</text>
+</g>
+<!-- TalentLayerArbitrator.createDispute&#45;&gt;Arbitrator.createDispute -->
+<g id="edge4" class="edge" data-name="TalentLayerArbitrator.createDispute-&gt;Arbitrator.createDispute">
+
+<path fill="none" stroke="white" stroke-width="2" d="M158.67,-465.27C168.78,-461.24 178.23,-455.42 185.03,-447 285.48,-322.57 131.65,-221.6 221.03,-89 232.02,-72.7 249.43,-60.9 266.91,-52.5" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="268.13,-55.79 275.87,-48.56 265.31,-49.38 268.13,-55.79" style=""/>
+</g>
+<!-- TalentLayerArbitrator.giveRuling -->
+<g id="node6" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.giveRuling">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="100.52" cy="-366" rx="53.91" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-361.8" font-family="Times,serif" font-size="14.00" style="">giveRuling</text>
+</g>
+<!-- TalentLayerArbitrator.payable -->
+<g id="node13" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.payable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="326.45" cy="-366" rx="41.13" ry="18" style=""/>
+<text text-anchor="middle" x="326.45" y="-361.8" font-family="Times,serif" font-size="14.00" style="">payable</text>
+</g>
+<!-- TalentLayerArbitrator.giveRuling&#45;&gt;TalentLayerArbitrator.payable -->
+<g id="edge10" class="edge" data-name="TalentLayerArbitrator.giveRuling-&gt;TalentLayerArbitrator.payable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.72,-366C190.73,-366 236.11,-366 271.14,-366" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="270.99,-369.5 280.99,-366 270.99,-362.5 270.99,-369.5" style=""/>
+</g>
+<!-- TalentLayerArbitrator.giveRuling&#45;&gt;ITalentLayerPlatformID.ownerOf -->
+<g id="edge9" class="edge" data-name="TalentLayerArbitrator.giveRuling-&gt;ITalentLayerPlatformID.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.88,-358.8C164.2,-354.8 176.33,-348.6 185.03,-339 235.44,-283.39 175.58,-233.73 221.03,-174 234.69,-156.04 255.93,-143.35 275.69,-134.73" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="276.95,-137.99 284.92,-131 274.33,-131.5 276.95,-137.99" style=""/>
+</g>
+<!-- TalentLayerArbitrator.disputeStatus -->
+<g id="node7" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.disputeStatus">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="100.52" cy="-258" rx="62.58" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-253.8" font-family="Times,serif" font-size="14.00" style="">disputeStatus</text>
+</g>
+<!-- TalentLayerArbitrator.currentRuling -->
+<g id="node8" class="node" pointer-events="visible" data-name="TalentLayerArbitrator.currentRuling">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="100.52" cy="-204" rx="64.85" ry="18" style=""/>
+<text text-anchor="middle" x="100.52" y="-199.8" font-family="Times,serif" font-size="14.00" style="">currentRuling</text>
+</g>
+<!-- key -->
+<g id="node16" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="165.52,-737 35.52,-737 35.52,-649 165.52,-649 165.52,-737" style=""/>
+<text text-anchor="start" x="85.15" y="-718.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="81.26" y="-698.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="58.72" y="-678.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="45.12" y="-658.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node17" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="353.45,-737 299.45,-737 299.45,-649 353.45,-649 353.45,-737" style=""/>
+<text text-anchor="start" x="316.45" y="-718.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="316.45" y="-698.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="314.45,-673 314.45,-693 339.45,-693 339.45,-673 314.45,-673" style=""/>
+<text text-anchor="start" x="316.45" y="-678.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="316.45,-655 316.45,-671 337.45,-671 337.45,-655 316.45,-655" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge11" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M158.52,-723C222.94,-723 242.16,-723 300.75,-723" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="300.42,-726.5 310.42,-723 300.42,-719.5 300.42,-726.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge12" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M158.52,-703C222.94,-703 242.16,-703 300.75,-703" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="300.42,-706.5 310.42,-703 300.42,-699.5 300.42,-706.5" style=""/>
+</g>
+</g>
+</svg>

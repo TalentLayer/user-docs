@@ -4,13 +4,16 @@
 
 It can used to:
 
-* Initiate of a review for a user, listing a counter-party to invite
-* Mint a review to a user
+* Mint a review to a user for a completed job
 * Look up reviews
+
+## Data Structure
+
+![](<../../.gitbook/assets/image (5).png>)
 
 ## Visualization
 
-<figure><img src="../../.gitbook/assets/TalentLayerReview.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/review.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 

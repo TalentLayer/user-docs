@@ -4,11 +4,12 @@
 
 * Create a new service&#x20;
 * Add a proposal for a open service&#x20;
-* update a service or a proposal&#x20;
+* Update a service or a proposal&#x20;
+* Look up service and proposal
 
 ## Data Structure
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 ## Visualization
 

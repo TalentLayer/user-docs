@@ -1,27 +1,26 @@
 # Escrow & Dispute Contracts
 
-## Contracts
+****[**TalentLayerEscrow.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerEscrow.sol) is the smart contract that handles escrow transactions for each service, it custody the money and allow hirer to release the money by milestone. Also, in case of a dispute it handle all the workflow and link with the configured arbitrator.&#x20;
 
-All contracts associated with Escrow and Dispute Resolution are available in their parent folder here:&#x20;
+It can used to:
 
-{% embed url="https://github.com/TalentLayer/talentlayer-id-contracts/tree/main/contracts" %}
+* Validate a proposal for a given service and deposit the money
+* Release money for the worker&#x20;
+* Let the worker reimburse the hirer
+* Raise a dispute
+* As a platform, claim the fees earned
 
-| Contract on Github                                                                                                                 | Use                                                                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [TalentLayerArbitrator.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerArbitrator.sol) | TalentLayerArbitrator contract initiates the judgment process for the TalentLayerMultipleArbitrableTransaction contracts. Arbitrator contracts give rulings and Arbitrable contracts enforce them. |
-| [TalentLayerEscrow.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerEscrow.sol)         | This is the actual escrow contract - here all pertinent functions that must be called to manage escrow transactions can be found.                                                                  |
-| [ITalentLayerEscrow.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/ITalentLayerEscrow.sol)       | Arbitrator Interface contract for TalentLayerMultipleArbitrableTransaction.sol                                                                                                                     |
-| Arbitrable.sol                                                                                                                     | A standard contract that can be judged against by an Arbitrator contract.                                                                                                                          |
-| Arbitrator.sol                                                                                                                     | Arbitrator contracts initiate the judgment process for Arbitrable contracts. Arbitrator contracts give rulings and Arbitrable contracts enforce them.                                              |
-| IArbitrable.sol                                                                                                                    | Arbitrator Interface contract.                                                                                                                                                                     |
+## Data Structure
+
+![](<../../.gitbook/assets/image (1).png>)
 
 ## Visualization: TalentLayerEscrow.sol
 
-<figure><img src="../../.gitbook/assets/TalentLayerEscrow.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/escrow.svg" alt=""><figcaption></figcaption></figure>
 
 ## Visualization: TalentLayerArbitrator.sol
 
-<figure><img src="../../.gitbook/assets/TalentLayerArbitrator.png" alt=""><figcaption><p>made with <a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a> plugin</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/arbitrator.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 

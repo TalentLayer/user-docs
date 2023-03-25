@@ -1,0 +1,363 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="730pt" height="1108pt" viewBox="0.00 0.00 729.68 1107.75">
+<g id="graph0" class="graph" transform="translate(4,1103.75) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1103.75 725.68,-1103.75 725.68,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterTalentLayerReview">
+
+<path fill="#445773" stroke="#445773" d="M20,-262.75C20,-262.75 495.12,-262.75 495.12,-262.75 501.12,-262.75 507.12,-268.75 507.12,-274.75 507.12,-274.75 507.12,-875.75 507.12,-875.75 507.12,-881.75 501.12,-887.75 495.12,-887.75 495.12,-887.75 20,-887.75 20,-887.75 14,-887.75 8,-881.75 8,-875.75 8,-875.75 8,-274.75 8,-274.75 8,-268.75 14,-262.75 20,-262.75" style=""/>
+<text text-anchor="middle" x="257.56" y="-871.15" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TalentLayerReview</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterCountersUpgradeable.Counter">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M543.26,-786.75C543.26,-786.75 705.55,-786.75 705.55,-786.75 711.55,-786.75 717.55,-792.75 717.55,-798.75 717.55,-798.75 717.55,-905.75 717.55,-905.75 717.55,-911.75 711.55,-917.75 705.55,-917.75 705.55,-917.75 543.26,-917.75 543.26,-917.75 537.26,-917.75 531.26,-911.75 531.26,-905.75 531.26,-905.75 531.26,-798.75 531.26,-798.75 531.26,-792.75 537.26,-786.75 543.26,-786.75" style=""/>
+<text text-anchor="middle" x="624.4" y="-901.15" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">CountersUpgradeable.Counter</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterITalentLayerService">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M333.91,-177.75C333.91,-177.75 440.5,-177.75 440.5,-177.75 446.5,-177.75 452.5,-183.75 452.5,-189.75 452.5,-189.75 452.5,-242.75 452.5,-242.75 452.5,-248.75 446.5,-254.75 440.5,-254.75 440.5,-254.75 333.91,-254.75 333.91,-254.75 327.91,-254.75 321.91,-248.75 321.91,-242.75 321.91,-242.75 321.91,-189.75 321.91,-189.75 321.91,-183.75 327.91,-177.75 333.91,-177.75" style=""/>
+<text text-anchor="middle" x="387.2" y="-238.15" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITalentLayerService</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterITalentLayerID">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M302.45,-38.75C302.45,-38.75 470.96,-38.75 470.96,-38.75 476.96,-38.75 482.96,-44.75 482.96,-50.75 482.96,-50.75 482.96,-157.75 482.96,-157.75 482.96,-163.75 476.96,-169.75 470.96,-169.75 470.96,-169.75 302.45,-169.75 302.45,-169.75 296.45,-169.75 290.45,-163.75 290.45,-157.75 290.45,-157.75 290.45,-50.75 290.45,-50.75 290.45,-44.75 296.45,-38.75 302.45,-38.75" style=""/>
+<text text-anchor="middle" x="386.7" y="-153.15" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITalentLayerID</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterERC2771RecipientUpgradeable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M538.12,-125.75C538.12,-125.75 709.68,-125.75 709.68,-125.75 715.68,-125.75 721.68,-131.75 721.68,-137.75 721.68,-137.75 721.68,-244.75 721.68,-244.75 721.68,-250.75 715.68,-256.75 709.68,-256.75 709.68,-256.75 538.12,-256.75 538.12,-256.75 532.12,-256.75 526.12,-250.75 526.12,-244.75 526.12,-244.75 526.12,-137.75 526.12,-137.75 526.12,-131.75 532.12,-125.75 538.12,-125.75" style=""/>
+<text text-anchor="middle" x="623.9" y="-240.15" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC2771RecipientUpgradeable</text>
+</g>
+<g id="clust6" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="54.14,-962.75 54.14,-1091.75 421.7,-1091.75 421.7,-962.75 54.14,-962.75" style=""/>
+<text text-anchor="middle" x="237.92" y="-1075.15" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- TalentLayerReview.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="TalentLayerReview.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-728.75" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-724.55" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- TalentLayerReview._disableInitializers -->
+<g id="node15" class="node" pointer-events="visible" data-name="TalentLayerReview._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-782.75" rx="84.52" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-778.55" font-family="Times,serif" font-size="14.00" style="">_disableInitializers</text>
+</g>
+<!-- TalentLayerReview.&lt;Constructor&gt;&#45;&gt;TalentLayerReview._disableInitializers -->
+<g id="edge1" class="edge" data-name="TalentLayerReview.&lt;Constructor&gt;-&gt;TalentLayerReview._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M182.76,-740.2C220.02,-748.01 269.84,-758.45 310.79,-767.04" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="310,-770.45 320.51,-769.08 311.44,-763.6 310,-770.45" style=""/>
+</g>
+<!-- TalentLayerReview.initialize -->
+<g id="node2" class="node" pointer-events="visible" data-name="TalentLayerReview.initialize">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-674.75" rx="44.64" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-670.55" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- TalentLayerReview.__ERC721_init -->
+<g id="node16" class="node" pointer-events="visible" data-name="TalentLayerReview.__ERC721_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-674.75" rx="71.83" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-670.55" font-family="Times,serif" font-size="14.00" style="">__ERC721_init</text>
+</g>
+<!-- TalentLayerReview.initialize&#45;&gt;TalentLayerReview.__ERC721_init -->
+<g id="edge2" class="edge" data-name="TalentLayerReview.initialize-&gt;TalentLayerReview.__ERC721_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173.01,-674.75C208.08,-674.75 257.85,-674.75 300.44,-674.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="300.37,-678.25 310.37,-674.75 300.37,-671.25 300.37,-678.25" style=""/>
+</g>
+<!-- TalentLayerReview.__UUPSUpgradeable_init -->
+<g id="node17" class="node" pointer-events="visible" data-name="TalentLayerReview.__UUPSUpgradeable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-728.75" rx="112.34" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-724.55" font-family="Times,serif" font-size="14.00" style="">__UUPSUpgradeable_init</text>
+</g>
+<!-- TalentLayerReview.initialize&#45;&gt;TalentLayerReview.__UUPSUpgradeable_init -->
+<g id="edge3" class="edge" data-name="TalentLayerReview.initialize-&gt;TalentLayerReview.__UUPSUpgradeable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M168.67,-683.24C204.2,-690.69 257.01,-701.77 301.64,-711.12" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="300.82,-714.53 311.33,-713.15 302.26,-707.68 300.82,-714.53" style=""/>
+</g>
+<!-- TalentLayerReview.__Ownable_init -->
+<g id="node18" class="node" pointer-events="visible" data-name="TalentLayerReview.__Ownable_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-512.75" rx="73.02" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-508.55" font-family="Times,serif" font-size="14.00" style="">__Ownable_init</text>
+</g>
+<!-- TalentLayerReview.initialize&#45;&gt;TalentLayerReview.__Ownable_init -->
+<g id="edge4" class="edge" data-name="TalentLayerReview.initialize-&gt;TalentLayerReview.__Ownable_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M173.11,-673.61C195.2,-670.81 220.77,-663.89 238.28,-647.75 275.49,-613.45 237.04,-573.99 274.28,-539.75 282.59,-532.11 292.68,-526.54 303.35,-522.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="304.27,-525.86 312.71,-519.45 302.12,-519.2 304.27,-525.86" style=""/>
+</g>
+<!-- TalentLayerReview.ITalentLayerID -->
+<g id="node19" class="node" pointer-events="visible" data-name="TalentLayerReview.ITalentLayerID">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-566.75" rx="71.75" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-562.55" font-family="Times,serif" font-size="14.00" style="">ITalentLayerID</text>
+</g>
+<!-- TalentLayerReview.initialize&#45;&gt;TalentLayerReview.ITalentLayerID -->
+<g id="edge5" class="edge" data-name="TalentLayerReview.initialize-&gt;TalentLayerReview.ITalentLayerID">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M172.53,-671.38C193.95,-667.98 219.1,-661.2 238.28,-647.75 261.9,-631.19 250.65,-610.28 274.28,-593.75 284.15,-586.85 295.57,-581.7 307.27,-577.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="307.96,-581.31 316.59,-575.16 306.02,-574.58 307.96,-581.31" style=""/>
+</g>
+<!-- TalentLayerReview.ITalentLayerService -->
+<g id="node20" class="node" pointer-events="visible" data-name="TalentLayerReview.ITalentLayerService">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-620.75" rx="90.28" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-616.55" font-family="Times,serif" font-size="14.00" style="">ITalentLayerService</text>
+</g>
+<!-- TalentLayerReview.initialize&#45;&gt;TalentLayerReview.ITalentLayerService -->
+<g id="edge6" class="edge" data-name="TalentLayerReview.initialize-&gt;TalentLayerReview.ITalentLayerService">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M168.67,-666.25C206.09,-658.4 262.67,-646.54 308.68,-636.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="309.32,-640.34 318.39,-634.86 307.89,-633.49 309.32,-640.34" style=""/>
+</g>
+<!-- CountersUpgradeable.Counter.increment -->
+<g id="node22" class="node" pointer-events="visible" data-name="CountersUpgradeable.Counter.increment">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="623.9" cy="-812.75" rx="49.79" ry="18" style=""/>
+<text text-anchor="middle" x="623.9" y="-808.55" font-family="Times,serif" font-size="14.00" style="">increment</text>
+</g>
+<!-- TalentLayerReview.initialize&#45;&gt;CountersUpgradeable.Counter.increment -->
+<g id="edge7" class="edge" data-name="TalentLayerReview.initialize-&gt;CountersUpgradeable.Counter.increment">
+
+<path fill="none" stroke="white" stroke-width="2" d="M173.11,-675.88C195.2,-678.69 220.77,-685.6 238.28,-701.75 275.49,-736.04 233.37,-779.99 274.28,-809.75 318.63,-842 474.85,-830.1 562.36,-820.39" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="562.73,-823.87 572.26,-819.26 561.93,-816.92 562.73,-823.87" style=""/>
+</g>
+<!-- TalentLayerReview.getReview -->
+<g id="node3" class="node" pointer-events="visible" data-name="TalentLayerReview.getReview">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-836.75" rx="52.17" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-832.55" font-family="Times,serif" font-size="14.00" style="">getReview</text>
+</g>
+<!-- CountersUpgradeable.Counter.current -->
+<g id="node23" class="node" pointer-events="visible" data-name="CountersUpgradeable.Counter.current">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="623.9" cy="-866.75" rx="38.26" ry="18" style=""/>
+<text text-anchor="middle" x="623.9" y="-862.55" font-family="Times,serif" font-size="14.00" style="">current</text>
+</g>
+<!-- TalentLayerReview.getReview&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge8" class="edge" data-name="TalentLayerReview.getReview-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M150.34,-854.06C177.69,-874.18 226.43,-906.24 274.28,-918.75 374.41,-944.92 405.94,-940.43 507.12,-918.75 535.25,-912.72 564.8,-899.32 587,-887.63" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="588.43,-890.84 595.55,-882.99 585.09,-884.69 588.43,-890.84" style=""/>
+</g>
+<!-- TalentLayerReview.totalSupply -->
+<g id="node4" class="node" pointer-events="visible" data-name="TalentLayerReview.totalSupply">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-782.75" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-778.55" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- TalentLayerReview.totalSupply&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge9" class="edge" data-name="TalentLayerReview.totalSupply-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M182.97,-786.8C202.08,-790.51 222.63,-797.32 238.28,-809.75 265.99,-831.74 244.14,-862.23 274.28,-880.75 370.25,-939.69 510.71,-905.63 580.41,-882.57" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="581.38,-885.94 589.71,-879.39 579.12,-879.31 581.38,-885.94" style=""/>
+</g>
+<!-- TalentLayerReview.mint -->
+<g id="node5" class="node" pointer-events="visible" data-name="TalentLayerReview.mint">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-620.75" rx="28.99" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-616.55" font-family="Times,serif" font-size="14.00" style="">mint</text>
+</g>
+<!-- TalentLayerReview._afterMint -->
+<g id="node6" class="node" pointer-events="visible" data-name="TalentLayerReview._afterMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-458.75" rx="52.17" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-454.55" font-family="Times,serif" font-size="14.00" style="">_afterMint</text>
+</g>
+<!-- TalentLayerReview.mint&#45;&gt;TalentLayerReview._afterMint -->
+<g id="edge14" class="edge" data-name="TalentLayerReview.mint-&gt;TalentLayerReview._afterMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.5,-621.02C182.03,-619.67 216.43,-613.9 238.28,-593.75 275.49,-559.45 237.04,-519.99 274.28,-485.75 287.01,-474.05 303.93,-467.18 320.73,-463.21" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="321.37,-466.65 330.51,-461.29 320.02,-459.78 321.37,-466.65" style=""/>
+</g>
+<!-- TalentLayerReview._safeMint -->
+<g id="node21" class="node" pointer-events="visible" data-name="TalentLayerReview._safeMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-404.75" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-400.55" font-family="Times,serif" font-size="14.00" style="">_safeMint</text>
+</g>
+<!-- TalentLayerReview.mint&#45;&gt;TalentLayerReview._safeMint -->
+<g id="edge12" class="edge" data-name="TalentLayerReview.mint-&gt;TalentLayerReview._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M157.54,-621.59C182.45,-620.64 217.35,-615.14 238.28,-593.75 289.87,-541.03 222.63,-484.4 274.28,-431.75 286.96,-418.83 304.69,-411.68 322.28,-407.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="322.77,-411.3 332.01,-406.11 321.55,-404.41 322.77,-411.3" style=""/>
+</g>
+<!-- TalentLayerReview.mint&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge13" class="edge" data-name="TalentLayerReview.mint-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M157.54,-619.9C182.45,-620.85 217.35,-626.36 238.28,-647.75 289.87,-700.46 220.68,-759.09 274.28,-809.75 316.27,-849.42 485.23,-861.57 571.57,-865.22" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="571.28,-868.71 581.41,-865.61 571.55,-861.72 571.28,-868.71" style=""/>
+</g>
+<!-- ITalentLayerService.getService -->
+<g id="node24" class="node" pointer-events="visible" data-name="ITalentLayerService.getService">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-203.75" rx="51.58" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-199.55" font-family="Times,serif" font-size="14.00" style="">getService</text>
+</g>
+<!-- TalentLayerReview.mint&#45;&gt;ITalentLayerService.getService -->
+<g id="edge10" class="edge" data-name="TalentLayerReview.mint-&gt;ITalentLayerService.getService">
+
+<path fill="none" stroke="white" stroke-width="2" d="M157.16,-622.17C182.52,-621.7 218.32,-616.57 238.28,-593.75 336.88,-481.04 188.54,-381.52 274.28,-258.75 287.55,-239.75 309.3,-227.01 330.08,-218.62" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="331.12,-221.97 339.29,-215.22 328.7,-215.4 331.12,-221.97" style=""/>
+</g>
+<!-- ITalentLayerID.ownerOf -->
+<g id="node25" class="node" pointer-events="visible" data-name="ITalentLayerID.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-118.75" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-114.55" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- TalentLayerReview.mint&#45;&gt;ITalentLayerID.ownerOf -->
+<g id="edge11" class="edge" data-name="TalentLayerReview.mint-&gt;ITalentLayerID.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M157.27,-622.27C182.71,-621.87 218.57,-616.78 238.28,-593.75 299.2,-522.58 221.48,-251.12 274.28,-173.75 288.07,-153.55 311.5,-140.45 333.33,-132.13" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="334.41,-135.46 342.7,-128.87 332.11,-128.85 334.41,-135.46" style=""/>
+</g>
+<!-- TalentLayerReview._afterMint&#45;&gt;CountersUpgradeable.Counter.increment -->
+<g id="edge16" class="edge" data-name="TalentLayerReview._afterMint-&gt;CountersUpgradeable.Counter.increment">
+
+<path fill="none" stroke="white" stroke-width="2" d="M440.15,-459.56C463.12,-462.48 488.93,-469.58 507.12,-485.75 595.6,-564.36 616.47,-714.98 621.39,-780.72" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="617.87,-780.64 622.02,-790.39 624.86,-780.18 617.87,-780.64" style=""/>
+</g>
+<!-- TalentLayerReview._afterMint&#45;&gt;CountersUpgradeable.Counter.current -->
+<g id="edge15" class="edge" data-name="TalentLayerReview._afterMint-&gt;CountersUpgradeable.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M439.99,-457.09C464.08,-459.28 490.88,-466.5 507.12,-485.75 557.94,-545.95 476.82,-778.3 526.12,-839.75 537.17,-853.52 554.61,-860.62 571.66,-864.17" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="571.09,-867.63 581.52,-865.77 572.21,-860.72 571.09,-867.63" style=""/>
+</g>
+<!-- TalentLayerReview._authorizeUpgrade -->
+<g id="node7" class="node" pointer-events="visible" data-name="TalentLayerReview._authorizeUpgrade">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.14" cy="-566.75" rx="85.08" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-562.55" font-family="Times,serif" font-size="14.00" style="">_authorizeUpgrade</text>
+</g>
+<!-- TalentLayerReview._transfer -->
+<g id="node8" class="node" pointer-events="visible" data-name="TalentLayerReview._transfer">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.14" cy="-512.75" rx="45.21" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-508.55" font-family="Times,serif" font-size="14.00" style="">_transfer</text>
+</g>
+<!-- TalentLayerReview._burn -->
+<g id="node9" class="node" pointer-events="visible" data-name="TalentLayerReview._burn">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.14" cy="-458.75" rx="33.63" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-454.55" font-family="Times,serif" font-size="14.00" style="">_burn</text>
+</g>
+<!-- TalentLayerReview.tokenURI -->
+<g id="node10" class="node" pointer-events="visible" data-name="TalentLayerReview.tokenURI">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="127.14" cy="-404.75" rx="49.24" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-400.55" font-family="Times,serif" font-size="14.00" style="">tokenURI</text>
+</g>
+<!-- TalentLayerReview._buildTokenURI -->
+<g id="node11" class="node" pointer-events="visible" data-name="TalentLayerReview._buildTokenURI">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-350.75" rx="77.04" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-346.55" font-family="Times,serif" font-size="14.00" style="">_buildTokenURI</text>
+</g>
+<!-- TalentLayerReview.tokenURI&#45;&gt;TalentLayerReview._buildTokenURI -->
+<g id="edge17" class="edge" data-name="TalentLayerReview.tokenURI-&gt;TalentLayerReview._buildTokenURI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M171.83,-395.59C210.67,-387.44 268.18,-375.39 313.79,-365.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="314.28,-369.3 323.35,-363.82 312.84,-362.45 314.28,-369.3" style=""/>
+</g>
+<!-- TalentLayerReview._msgSender -->
+<g id="node12" class="node" pointer-events="visible" data-name="TalentLayerReview._msgSender">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="386.7" cy="-292.75" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-288.55" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- ERC2771RecipientUpgradeable._msgSender -->
+<g id="node27" class="node" pointer-events="visible" data-name="ERC2771RecipientUpgradeable._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="623.9" cy="-205.75" rx="58.56" ry="18" style=""/>
+<text text-anchor="middle" x="623.9" y="-201.55" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- TalentLayerReview._msgSender&#45;&gt;ERC2771RecipientUpgradeable._msgSender -->
+<g id="edge18" class="edge" data-name="TalentLayerReview._msgSender-&gt;ERC2771RecipientUpgradeable._msgSender">
+
+<path fill="none" stroke="white" stroke-width="2" d="M434.74,-281.13C456.94,-275.19 483.66,-267.4 507.12,-258.75 531.51,-249.75 557.92,-237.84 579.35,-227.59" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="580.82,-230.76 588.29,-223.25 577.77,-224.46 580.82,-230.76" style=""/>
+</g>
+<!-- TalentLayerReview._msgData -->
+<g id="node13" class="node" pointer-events="visible" data-name="TalentLayerReview._msgData">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="127.14" cy="-288.75" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="127.14" y="-284.55" font-family="Times,serif" font-size="14.00" style="">_msgData</text>
+</g>
+<!-- ERC2771RecipientUpgradeable._msgData -->
+<g id="node28" class="node" pointer-events="visible" data-name="ERC2771RecipientUpgradeable._msgData">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="623.9" cy="-151.75" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="623.9" y="-147.55" font-family="Times,serif" font-size="14.00" style="">_msgData</text>
+</g>
+<!-- TalentLayerReview._msgData&#45;&gt;ERC2771RecipientUpgradeable._msgData -->
+<g id="edge19" class="edge" data-name="TalentLayerReview._msgData-&gt;ERC2771RecipientUpgradeable._msgData">
+
+<path fill="none" stroke="white" stroke-width="2" d="M132.31,-269.47C144.22,-219.71 183.56,-87.22 274.28,-34.75 363.87,17.06 411.62,5.11 507.12,-34.75 549.5,-52.43 584.29,-94 604.32,-122.51" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="601.29,-124.28 609.81,-130.59 607.08,-120.35 601.29,-124.28" style=""/>
+</g>
+<!-- TalentLayerReview.onlyOwnerOrDelegate -->
+<g id="node14" class="node" pointer-events="visible" data-name="TalentLayerReview.onlyOwnerOrDelegate">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="234.42,-339.29 234.42,-354.2 171.58,-364.75 82.71,-364.75 19.86,-354.2 19.86,-339.29 82.71,-328.75 171.58,-328.75 234.42,-339.29" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="238.43,-335.91 238.43,-357.59 171.91,-368.75 82.37,-368.75 15.86,-357.59 15.86,-335.91 82.37,-324.75 171.91,-324.75 238.43,-335.91" style=""/>
+<text text-anchor="middle" x="127.14" y="-342.55" font-family="Times,serif" font-size="14.00" style="">onlyOwnerOrDelegate</text>
+</g>
+<!-- TalentLayerReview.onlyOwnerOrDelegate&#45;&gt;TalentLayerReview._msgSender -->
+<g id="edge21" class="edge" data-name="TalentLayerReview.onlyOwnerOrDelegate-&gt;TalentLayerReview._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M209.64,-329.66C246.49,-321.93 289.34,-312.95 323.54,-305.78" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="324.16,-309.23 333.23,-303.75 322.73,-302.37 324.16,-309.23" style=""/>
+</g>
+<!-- ITalentLayerID.isOwnerOrDelegate -->
+<g id="node26" class="node" pointer-events="visible" data-name="ITalentLayerID.isOwnerOrDelegate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="386.7" cy="-64.75" rx="88.02" ry="18" style=""/>
+<text text-anchor="middle" x="386.7" y="-60.55" font-family="Times,serif" font-size="14.00" style="">isOwnerOrDelegate</text>
+</g>
+<!-- TalentLayerReview.onlyOwnerOrDelegate&#45;&gt;ITalentLayerID.isOwnerOrDelegate -->
+<g id="edge20" class="edge" data-name="TalentLayerReview.onlyOwnerOrDelegate-&gt;ITalentLayerID.isOwnerOrDelegate">
+
+<path fill="none" stroke="white" stroke-width="2" d="M218.47,-331.18C225.88,-327.11 232.67,-322.05 238.28,-315.75 305.37,-240.47 205.83,-165.79 274.28,-91.75 279.63,-85.97 285.98,-81.33 292.9,-77.61" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="294.15,-80.89 301.83,-73.6 291.28,-74.51 294.15,-80.89" style=""/>
+</g>
+<!-- key -->
+<g id="node29" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="192.14,-1058.75 62.14,-1058.75 62.14,-970.75 192.14,-970.75 192.14,-1058.75" style=""/>
+<text text-anchor="start" x="111.78" y="-1040.15" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="107.89" y="-1020.15" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="85.35" y="-1000.15" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="71.74" y="-980.15" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node30" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="413.7,-1058.75 359.7,-1058.75 359.7,-970.75 413.7,-970.75 413.7,-1058.75" style=""/>
+<text text-anchor="start" x="376.7" y="-1040.15" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="376.7" y="-1020.15" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="374.7,-994.75 374.7,-1014.75 399.7,-1014.75 399.7,-994.75 374.7,-994.75" style=""/>
+<text text-anchor="start" x="376.7" y="-1000.15" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="376.7,-976.75 376.7,-992.75 397.7,-992.75 397.7,-976.75 376.7,-976.75" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge22" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.14,-1044.75C264.53,-1044.75 287.51,-1044.75 360.95,-1044.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="360.68,-1048.25 370.68,-1044.75 360.68,-1041.25 360.68,-1048.25" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge23" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M185.14,-1024.75C264.53,-1024.75 287.51,-1024.75 360.95,-1024.75" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="360.68,-1028.25 370.68,-1024.75 360.68,-1021.25 360.68,-1028.25" style=""/>
+</g>
+</g>
+</svg>
