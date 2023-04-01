@@ -16,7 +16,7 @@ Writing is necessary to create a user’s TalentLayer ID, mint reputation update
 
 To write to TalentLayer Core, you must connect with the appropriate TalentLayer smart contract for the action you intend to take.
 
-We currently have a fork-able codebase that is set up to interact with TalentLayer’s smart contracts: the Indie DAPP. That codebase can be found [here](https://github.com/TalentLayer/talentlayer-id-dapp).
+We currently have a fork-able codebase that is set up to interact with TalentLayer’s smart contracts: the Indie DAPP. That codebase can be found [here](https://github.com/TalentLayer-Labs/indie-frontend).
 
 ## Permission to Write
 
