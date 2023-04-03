@@ -8,8 +8,6 @@ description: >-
 
 ## Writing to TalentLayer Core
 
-TalentLayer is multi-chain. Each platform must choose one TalentLayer Core chain implementation to write information to.
-
 Writing is facilitated by connecting your platform with the various TalentLayer Core smart contracts and triggering different actions.
 
 Writing is necessary to create a user’s TalentLayer ID, mint reputation updates, and create services.
