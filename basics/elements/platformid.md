@@ -8,7 +8,7 @@ Platform ID is the way in which access control is implemented on TalentLayer. It
 
 Fill out the form below to apply for your Platform ID. We'll get back to you within 48 hours!
 
-{% embed url="https://th0ijmupkis.typeform.com/to/elUeofTE" %}
+{% embed url="https://th0ijmupkis.typeform.com/to/yU5zACgj" %}
 
 ## How Do I Get a Mainnet Platform ID?
 

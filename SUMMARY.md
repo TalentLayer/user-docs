@@ -44,3 +44,4 @@
 * [🛠 Contact The Team](quick-start-integration-guide.md)
 * [🙌 Donate](donate.md)
 * [🧠 Inspiration for Builders](inspiration-for-builders.md)
+* [⭐ Get a Platform ID](get-a-platform-id.md)
