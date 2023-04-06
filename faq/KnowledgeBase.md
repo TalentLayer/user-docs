@@ -6,7 +6,7 @@ Please visite the following link to claim your tlid: [https://claim.talentlayer.
 
 ## Can I transfer my tlid?
 
-If you have a TalentLayer ID, you can transfer it to another user as long as you have not used it to complete a job on a marketplace. Once you have used your TalentLayer ID to complete a job, it becomes locked to your account (SBD) and cannot be transferred.
+If you have a TalentLayer ID, you can transfer it to another user, as long as you have not used it for any activity such as creating a service or a proposal on a marketplace. Once you have used your TalentLayer ID to complete a job, it becomes locked to your account (SBD) and cannot be transferred.
 
 ## How to be in the whitelist?
 
