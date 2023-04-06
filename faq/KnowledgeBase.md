@@ -2,7 +2,7 @@
 
 ## How to claim your tlid?
 
-PLease visite the following link to claim your tlid: [https://claim.talentlayer.org/](https://claim.talentlayer.org/)
+Please visite the following link to claim your tlid: [https://claim.talentlayer.org/](https://claim.talentlayer.org/)
 
 ## Can I transfer my tlid?
 
@@ -23,3 +23,4 @@ Please find all the minting price on this link [https://claim.talentlayer.org/](
 ## If you have a technical issue during the minting process
 
 Could you please fill out this quick form so we can help you out ASAP ? Thanks a lot !
+[https://forms.gle/grZfG9qTfMUKm6Zk7](https://forms.gle/grZfG9qTfMUKm6Zk7)
