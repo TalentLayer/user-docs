@@ -49,7 +49,7 @@ This asynchronous function takes a query string as a parameter, sends it as a PO
 </br>
 
 Now we can use the processRequest function to query the subgraph.
-Let's build a query! For example, if you want to get the user informations based on his id, we can use the following query:
+Let's build a query! For example, if you want to get the user informations based on the user id, we can use the following query:
 
 ```typescript
 export const getUserById = (id: string): Promise<any> => {
