@@ -97,3 +97,47 @@ const listConversations = async (): Promise<Conversation[]> => {
     };
 ```
 
+### 3. Messages
+The client object has a “conversations.list()” function, which once called, returns an array of “Conversation” objects:
+The conversation object has a “messages()” function, which once called, returns an array of “DecodedMessage” objects:
+
+
+```typescript
+export declare class DecodedMessage {
+  id: string;
+  messageVersion: 'v1' | 'v2';
+  senderAddress: string;
+  recipientAddress?: string;
+  sent: Date;
+  contentTopic: string;
+  conversation: Conversation;
+  contentType: ContentTypeId;
+  content: any;
+  error?: Error;
+  constructor({ id, messageVersion, senderAddress, recipientAddress, conversation, contentType, contentTopic, content, sent, error, }: DecodedMessage);
+  static fromV1Message(message: MessageV1, content: any, // eslint-disable-line @typescript-eslint/no-explicit-any
+                       contentType: ContentTypeId, contentTopic: string, conversation: Conversation, error?: Error): DecodedMessage;
+  static fromV2Message(message: MessageV2, content: any, // eslint-disable-line @typescript-eslint/no-explicit-any
+                       contentType: ContentTypeId, contentTopic: string, conversation: Conversation, error?: Error): DecodedMessage;
+}
+```
+
+The message itself is stored in “content”.
+
+Example of retrieving a list of conversation's messages:
+(The client being already initialized with the user's private key)
+
+```typescript
+import {DecodedMessage} from "@xmtp/xmtp-js";
+
+const listMessages = async (): Promise<DecodedMessage[]> => {
+  try {
+    const messages: DecodedMessage[] = await conversation.messages();
+  } catch (e) {
+    console.error(e);
+  }
+  return messages;
+};
+```
+
+
