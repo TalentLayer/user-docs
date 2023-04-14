@@ -216,3 +216,121 @@ Example of the messaging page with open conversation:
 ![img_3.png](img_3.png)
 
 
+
+
+
+### 2. File Organization & code
+TalentLayer has implemented 2 messaging protocols in the Indie Frontend: XMTP and PUSH. Some React components are common to both, and can be found in the "mesaging" folder.
+All XMTP-related components can fe found in the "mesaging/XMTP" folder.
+
+![img.png](img.png)
+
+The messaging page's code is located in the "pages/XmtpMessaging.tsx" file. This is the entry point to the XMTP messaging app.
+It is available at the following routes:
+
+```tsx
+  <Route path='/messaging' element={<XmtpMessaging />} />
+  <Route path='/messaging/:address' element={<XmtpMessaging />} />
+```
+
+The first route leading to the messaging page is the default route, and will display the list of conversations.
+The second route is used to display a specific conversation, and is used when clicking on a conversation in the list.
+
+
+#### 2.1. Environment variables
+The XMTP SDK requires 2 environment variables to be set in order to work properly. These variables are set in the .env file.
+
+```dotenv
+# MESSENGING
+VITE_MESSENGING_TECH='xmtp'
+VITE_MESSENGING_ENV='production'
+```
+
+#### 2.2. General messaging Context
+In order to message a user, a few actions must happen as pre-requisites:
+- The user must have a TalentLayer IDand an XMTP user.
+- The user must be registered to XMTP.
+  Therefore, the workflow starts by checking whether the user has an XMTP account.
+  If not, he will be prompted to register to XMTP. Finally the user will be redirected to the messaging page, with an open conversation with the recipient.
+
+These actions happen outside of the messaging page; therefore we centralized all the functions necessary for these actions in a general Messaging React context provider: "MessagingContext.tsx".
+This context handles both XMTP & Push protocols following actions:
+
+- Check if the user has an XMTP account ` userExists = (): boolean`
+  This is done by checking the 'userExists" variable in the XmtpContext.tsx file (detailed in XmtpContext section below)
+- Register the user to XMTP if needed | `handleRegisterToMessaging = async (): Promise<void>`
+- Redirect the sender to the messaging page, with an open conversation with the recipient | `handleMessageUser = async (userAddress: string): Promise<void>`
+
+Example of redirection to an open conversation with a user:
+![img_5.png](img_5.png)
+
+
+#### 2.3. XMTP messaging Context
+
+**Content**
+
+The XMTP messaging context is used to handle all the XMTP-related actions which happen in the messaging page, such as retrieving conversations & messages, sending messages, etc.
+It can be found in the "messaging/context/XmtpContext.tsx" file.
+
+The following properties are available in this context:
+
+```typescript
+interface IProviderProps {
+  client: Client | undefined;
+  initClient: ((wallet: Signer) => Promise<void>) | undefined;
+  loadingConversations: boolean;
+  loadingMessages: boolean;
+  conversations: Map<string, Conversation>;
+  conversationMessages: Map<string, XmtpChatMessage[]>;
+  userExists: boolean;
+  disconnect: (() => void) | undefined;
+}
+```
+
+At the initialisation of the context, as soon as the user connects his wallet, a listener is set up to check if the user has an XMTP account:
+
+```typescript
+useEffect(() => {
+    const checkUserExistence = async (): Promise<void> => {
+      if (signer) {
+        const userExists = await Client.canMessage(walletAddress as string, {
+          env: import.meta.env.VITE_MESSENGING_ENV,
+        });
+        setProviderState({ ...providerState, userExists, initClient });
+      }
+    };
+    checkUserExistence();
+  }, [signer]);
+```
+
+If the user does not have an XMTP account, the "userExists" variable will be set to false. This variable is called in the MessagingContext.tsx file, to check if the user needs to be registered to XMTP.
+
+---
+
+**Client Initialisation**
+
+The first action to be done in the messaging page is to initialize the XMTP client. This is done using the "initClient" function, which takes the user's wallet "Signer" object as a parameter.
+After this function is called, the user will get his private keys using his wallet signature, and the "client" object will be set in the context, with the connected user's private key.
+This initialized client instance will be used to retrieve conversations, messages, etc.
+
+```typescript
+const initClient = async (wallet: Signer) => {
+//(...)
+}
+```
+
+---
+
+**Conversation & messages loading**
+
+After the client is initialized, the messaging context will load all the user's conversations and messages.
+This is done through the folloging function:
+
+```typescript
+const listConversations = async (): Promise<void> => {
+//(...)
+}
+```
+
+Conversations will be accessible through the "conversations" variable, and messages through the "conversationMessages" variable after this step.
+
