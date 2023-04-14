@@ -141,3 +141,16 @@ const listMessages = async (): Promise<DecodedMessage[]> => {
 ```
 
 
+### 4. Sending messages
+Sending a message is done through the Conversation object.
+The client object has a “conversations.newConversation(peerAddress, context?)” function, which once called, returns a “Conversation” object.
+The "context" object is optional, and can be used to add contextual data to the conversation, such as a conversation ID, or any other metadata.
+Further details on what TalentLayer implemented can be found in the SDK usage section.
+
+Exemple of sending a message without context:
+```typescript
+const sendMessage = async (message: string): Promise<DecodedMessage> => {
+  const conversation = await client.conversations.newConversation(peerAddress);
+  return await conversation.send(message);
+};
+```
