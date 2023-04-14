@@ -334,3 +334,80 @@ const listConversations = async (): Promise<void> => {
 
 Conversations will be accessible through the "conversations" variable, and messages through the "conversationMessages" variable after this step.
 
+#### 2.3. XMTP hooks
+
+We provide 3 hooks to help you use the XMTP messaging context in your components:
+
+**UseSendMessage**
+
+This hook is used to send a message to a user. It will first instantiate a new conversation use its "send()" function.
+The hook takes the following parameters:
+
+```typescript
+ const sendMessage = async (message: string): Promise<DecodedMessage> => {
+    if (!client || !peerAddress || !peerUser?.id || !senderId) {
+      throw new Error('Message sending failed');
+    }
+
+    const conversationId = buildConversationId(senderId, peerUser.id);
+
+    const context: InvitationContext = {
+      conversationId: conversationId,
+      metadata: { ['domain']: 'TalentLayer' },
+    };
+    const conversation = await client.conversations.newConversation(peerAddress, context);
+
+    if (!conversation) throw new Error('Conversation not found');
+    return await conversation.send(message);
+  };
+
+    export const CONVERSATION_PREFIX = 'talentLayer/dm';
+    
+    export const buildConversationId = (talentLayerId1: string, talentLayerId2: string) => {
+      const profileIdAParsed = parseInt(talentLayerId1, 16);
+      const profileIdBParsed = parseInt(talentLayerId2, 16);
+    
+      return profileIdAParsed < profileIdBParsed
+        ? `${CONVERSATION_PREFIX}/${talentLayerId1}-${talentLayerId2}`
+        : `${CONVERSATION_PREFIX}/${talentLayerId2}-${talentLayerId1}`;
+    };
+```
+
+Notice the "buildConversationId" function. TalentLayer decided to set a context to the conversations initiated on TalentLayer protocol.
+There are several reasons for this decision, the first being to enable filtering out all XMTP conversations which are not TalentLayer-related.
+The second reason is to enable the user to have multiple conversations with the same user, but on different topics. this can be achieved using the "metadata" field in the context.
+(An example 'domain' field is shown in the code snippet above)
+
+The way the conversationId is built follows the pattern which Lens protocol used. This way the domain name can be clearly visible in the XMTP general chat app:
+
+![img_4.png](img_4.png)
+
+This hook is used in the main messaging page, and sets up a "send" function with the selected recipient when the user clicks on its conversation on the left side-bar.
+
+**UseStreamConversations**
+
+This hook sets up a conversation listener to retrieve all the new conversations which are initiated by users trying to contact the connected user.
+It takes no parameters and is called in the main messaging page.
+
+**UseStreamMessages**
+
+This hook sets up a message listener to retrieve all the new incoming messages of a conversation.
+It is used in the "MessageList.tsx" component, and is only active on an active conversation.
+
+
+#### 2.4. XMTP messaging components
+
+The main messaging page is located in the "pages/XmtpMessaging.tsx" file.
+The page is built using all the components located in the "messaging/xmtp/components" folder.
+
+[//]: # (TOTO: Parler des Objets Messages plus légers)
+
+
+##
+SDK
+usage in TalentLayer
+
+File
+Orga
+TL
+Context
