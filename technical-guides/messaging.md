@@ -40,3 +40,60 @@ const client = await Client.create(null, {
 });
 ```
 
+### 2. Conversations
+The Client can be used to create a conversation with another user, and send messages to this conversation.
+A conversation is an object gathering all the contextual data related to a conversation between two users,
+as well as functions used to send and receive messages as well as websocket listeners, used to stream incoming messages.
+
+```typescript
+export declare class ConversationV2 {
+  topic: string;
+  keyMaterial: Uint8Array;
+  context?: InvitationContext;
+  private header;
+  private client;
+  peerAddress: string;
+  constructor(client: Client, invitation: InvitationV1, header: SealedInvitationHeaderV1, peerAddress: string);
+  static create(client: Client, invitation: InvitationV1, header: SealedInvitationHeaderV1): Promise<ConversationV2>;
+  get createdAt(): Date;
+  /**
+   * Returns a list of all messages to/from the peerAddress
+   */
+  messages(opts?: ListMessagesOptions): Promise<DecodedMessage[]>;
+  messagesPaginated(opts?: ListMessagesPaginatedOptions): AsyncGenerator<DecodedMessage[]>;
+  /**
+   * Returns a Stream of any new messages to/from the peerAddress
+   */
+  streamMessages(): Promise<Stream<DecodedMessage>>;
+  /**
+   * Send a message into the conversation
+   */
+  send(content: any, // eslint-disable-line @typescript-eslint/no-explicit-any
+       options?: SendOptions): Promise<DecodedMessage>;
+  get clientAddress(): string;
+  private encodeMessage;
+  decodeMessage(env: messageApi.Envelope): Promise<DecodedMessage>;
+}
+
+export declare type InvitationContext = {
+    conversationId: string;
+    metadata: {
+      [k: string]: string;
+  };
+};
+```
+
+Example of retrieving a list of a user's conversation:
+(The client being already initialized with the user's private key)
+
+```typescript
+const listConversations = async (): Promise<Conversation[]> => {
+    try {
+      const conv: Conversation[] = (await client.conversations.list());
+    } catch (e) {
+      console.error(e);
+    }
+    return conv;
+    };
+```
+
