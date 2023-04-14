@@ -165,3 +165,7 @@ return (
 ```
 
 Please find the full code [here](https://github.com/TalentLayer-Labs/indie-frontend/blob/main/src/components/UserDetail.tsx)
+
+</br>
+
+> Let's now see how build different querie
