@@ -25,3 +25,18 @@ Messages are stored on XMTP private nodes for now, but will be stored in a decen
 XMTP provides a [complete SDK](https://xmtp.org/docs/client-sdk/javascript/concepts/intro-to-sdk) to interact with the XMTP protocol.
 
 
+
+### 1. Client
+All calls to XMTP protocol are done through the XMTP [Client](https://xmtp.org/docs/client-sdk/javascript/reference/classes/Client):
+This Client is used to retrieve the keys of the user using his wallet signature, and use them to initialize a functional client that can be used to send and receive messages.
+
+```typescript
+import { Client } from '@xmtp/xmtp-js';
+
+const keys = await Client.getKeys(signer, { env: 'production' });
+const client = await Client.create(null, {
+  env: 'prod',
+  privateKeyOverride: keys,
+});
+```
+
