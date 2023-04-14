@@ -188,3 +188,31 @@ const stream: Stream<DecodedMessage> | undefined = await conversation.streamMess
 ```
 
 
+## SDK Usage in TalentLayer Indie Frontend
+
+TalentLayer Indie Frontend provides an example implementation of the XMTP protocol in a marketplace.
+This document will explain how the SDK was used in the Indie Frontend, and how XMTP was integrated in the workflow.
+
+
+### 1. Getting started - Workflow
+The idea is to enable TalentLayer users to send messages to each other, and to be able to chat with each other after they published either a service or a proposal.
+Since Users cannot be messaged is they are not registered to XMTP, the first step for a user wishing to publish a service or a proposal is to register to XMTP.
+
+#### 1.1. Registering to XMTP
+This box will appear on the user's profile page if they are not registered to XMTP:
+![img_1.png](img_1.png)
+After clicking on the button, a modal will appear, asking the user to sign a message with their wallet, which will register them to XMTP.
+
+#### 1.2. Contacting a user
+Contacting a user is done by clicking on the "Contact" button either on the service or proposal detail page:
+
+Example on a service detail page:
+![img_2.png](img_2.png)
+
+Clicking on this button will open the messaging page, with the existing or new conversation with the user already opened.
+This action will prompt the user to register to XMTP if they are not yet registered.
+
+Example of the messaging page with open conversation:
+![img_3.png](img_3.png)
+
+
