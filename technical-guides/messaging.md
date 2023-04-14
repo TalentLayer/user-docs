@@ -154,3 +154,37 @@ const sendMessage = async (message: string): Promise<DecodedMessage> => {
   return await conversation.send(message);
 };
 ```
+
+
+### 5. Websocket listeners
+There are 2 websocket listeners available in the SDK:
+- “client.conversations.stream()” Available from the client object, which streams incoming conversations to the user
+- “conversation.streamMessages()” Specific for each conversation, which streams incoming messages to the user
+
+Example of using the client conversation stream:
+
+```typescript
+import {Conversation} from "@xmtp/xmtp-js";
+
+const streamConversations = async () => {
+  const stream: Stream<Conversation> | undefined = await providerState.client?.conversations.stream();
+  if (!stream) return;
+  for await (const conversation: Conversation of stream) {
+  // Your logic here
+  }
+};
+```
+
+Example of using the message stream:
+
+```typescript
+const streamMessages = async (conversation: Conversation) => {
+const stream: Stream<DecodedMessage> | undefined = await conversation.streamMessages();
+  if (!stream) return;
+  for await (const message: DecodedMessage of stream) {
+  // Your logic here
+  }
+};
+```
+
+
