@@ -228,10 +228,6 @@ Example on a service detail page:
 Clicking on this button will open the messaging page, with the existing or new conversation with the user already opened.
 This action will prompt the user to register to XMTP if they are not yet registered.
 
-Example of the messaging page with open conversation:
-
-![img_3.png](img_3.png)
-
 
 
 ---
@@ -266,13 +262,13 @@ VITE_MESSENGING_ENV='production'
 ```
 
 #### 2.2. General messaging Context
-In order to message a user, a few actions must happen as pre-requisites:
-- The user must have a TalentLayer IDand an XMTP user.
-- The user must be registered to XMTP.
-  Therefore, the workflow starts by checking whether the user has an XMTP account.
-  If not, he will be prompted to register to XMTP. Finally the user will be redirected to the messaging page, with an open conversation with the recipient.
+As mentioned before, the workflow starts by checking whether the user has an XMTP account.
+If not, he will be prompted to register to XMTP. Finally the user will be redirected to the messaging page, with an open conversation with the recipient.
 
-These actions happen outside of the messaging page; therefore we centralized all the functions necessary for these actions in a general Messaging React context provider: "MessagingContext.tsx".
+THis requires that a few actions must happen as pre-requisites:
+- The user must have a TalentLayer ID and an XMTP user.
+- The user must be registered to XMTP.
+These actions happen outside the messaging page; therefore we centralized all the functions necessary for these actions in a general Messaging React context provider: "MessagingContext.tsx".
 This context handles both XMTP & Push protocols following actions:
 
 - Check if the user has an XMTP account ` userExists = (): boolean`
@@ -324,7 +320,7 @@ useEffect(() => {
 
 If the user does not have an XMTP account, the "userExists" variable will be set to false. This variable is called in the MessagingContext.tsx file, to check if the user needs to be registered to XMTP.
 
----
+
 
 **Client Initialisation**
 
@@ -338,7 +334,7 @@ const initClient = async (wallet: Signer) => {
 }
 ```
 
----
+
 
 **Conversation & messages loading**
 
@@ -405,11 +401,13 @@ There are several reasons for this decision, the first being to enable filtering
 The second reason is to enable the user to have multiple conversations with the same user, but on different topics. this can be achieved using the "metadata" field in the context.
 (An example 'domain' field is shown in the code snippet above)
 
-The way the conversationId is built follows the pattern which Lens protocol used. This way the domain name can be clearly visible in the XMTP general chat app:
+The way the conversationId is built **[follows the pattern which Lens protocol used](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app#build-the-lens-dm-conversation-id)**. This way the domain name can be clearly visible in the XMTP general chat app:
+
+TalentLayer decided to filter out all conversations which are not TalentLayer-related, by filtering out all conversations which id's do not match the TalentLayer pattern (see "listConversations" function in XMTPContext.tsx).
 
 ![img_4.png](img_4.png)
 
-This hook is used in the main messaging page, and sets up a "send" function with the selected recipient when the user clicks on its conversation on the left side-bar.
+This hook is used in the main messaging page, and sets up a "send" function with the selected recipient when the user clicks on its conversation on the left sidebar.
 
 **UseStreamConversations**
 
@@ -432,14 +430,15 @@ It's important to activate the conversation listener on this page to retrieve al
 Each time a user selects a conversation, the conversation messages are fetched, the "MessageList" component is rendered and the "useSendMessage" hook is called to set up a "send" function to send messages to the selected user.
 The "MessageList" component is also responsible for activating the message listener on the selected conversation, since new incoming messages are only listened for the active conversation.
 
+**Components**
 
+The main messaging page is built using the following components:
+- CardHeader
+- ConversationList
+- MessageList
+- MessageComposer
 
-
-##
-SDK
-usage in TalentLayer
-
-File
-Orga
-TL
-Context
+CardHeader is a simple component which displays the address of the recipient user.
+ConversationList is a component which displays all the user's conversations, and is used to select a conversation. It is also responsible for activating the conversation listener.
+MessageList is a component which displays all the messages of a conversation, and is responsible for activating the message listener. This component not rendered message when no conversation is selected.
+MessageComposer is a component which displays a text input to send messages to the selected user.
