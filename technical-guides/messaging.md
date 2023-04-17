@@ -14,7 +14,7 @@ The sender's public key is included in the message so that the recipient can ver
 
 When registering to XMTP, wallet signature is required to register the wallet as a User.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db9ea7e9-d35b-4d43-8227-7ebb862dac8e/Untitled.png)
+![img_6.png](img_6.png)
 
 (This will be asked only once).
 
@@ -24,6 +24,8 @@ Messages are stored on XMTP private nodes for now, but will be stored in a decen
 ## SDK analysis
 XMTP provides a [complete SDK](https://xmtp.org/docs/client-sdk/javascript/concepts/intro-to-sdk) to interact with the XMTP protocol.
 
+
+---
 
 
 ### 1. Client
@@ -35,10 +37,13 @@ import { Client } from '@xmtp/xmtp-js';
 
 const keys = await Client.getKeys(signer, { env: 'production' });
 const client = await Client.create(null, {
-  env: 'prod',
+  env: 'production',
   privateKeyOverride: keys,
 });
 ```
+
+---
+
 
 ### 2. Conversations
 The Client can be used to create a conversation with another user, and send messages to this conversation.
@@ -97,6 +102,9 @@ const listConversations = async (): Promise<Conversation[]> => {
     };
 ```
 
+
+---
+
 ### 3. Messages
 The client object has a “conversations.list()” function, which once called, returns an array of “Conversation” objects:
 The conversation object has a “messages()” function, which once called, returns an array of “DecodedMessage” objects:
@@ -140,6 +148,7 @@ const listMessages = async (): Promise<DecodedMessage[]> => {
 };
 ```
 
+---
 
 ### 4. Sending messages
 Sending a message is done through the Conversation object.
@@ -154,6 +163,8 @@ const sendMessage = async (message: string): Promise<DecodedMessage> => {
   return await conversation.send(message);
 };
 ```
+
+---
 
 
 ### 5. Websocket listeners
@@ -187,6 +198,8 @@ const stream: Stream<DecodedMessage> | undefined = await conversation.streamMess
 };
 ```
 
+---
+
 
 ## SDK Usage in TalentLayer Indie Frontend
 
@@ -195,32 +208,38 @@ This document will explain how the SDK was used in the Indie Frontend, and how X
 
 
 ### 1. Getting started - Workflow
-The idea is to enable TalentLayer users to send messages to each other, and to be able to chat with each other after they published either a service or a proposal.
-Since Users cannot be messaged is they are not registered to XMTP, the first step for a user wishing to publish a service or a proposal is to register to XMTP.
+The idea is to enable TalentLayer users to send messages to each other, and to be able to chat with each other **after they published either a service or a proposal**.
+Since Users cannot be messaged if they are not registered to XMTP, the first step for a user wishing to publish a service or a proposal is to register to XMTP.
 
 #### 1.1. Registering to XMTP
 This box will appear on the user's profile page if they are not registered to XMTP:
+
 ![img_1.png](img_1.png)
+
 After clicking on the button, a modal will appear, asking the user to sign a message with their wallet, which will register them to XMTP.
 
 #### 1.2. Contacting a user
 Contacting a user is done by clicking on the "Contact" button either on the service or proposal detail page:
 
 Example on a service detail page:
+
 ![img_2.png](img_2.png)
 
 Clicking on this button will open the messaging page, with the existing or new conversation with the user already opened.
 This action will prompt the user to register to XMTP if they are not yet registered.
 
 Example of the messaging page with open conversation:
+
 ![img_3.png](img_3.png)
 
 
 
+---
+
 
 
 ### 2. File Organization & code
-TalentLayer has implemented 2 messaging protocols in the Indie Frontend: XMTP and PUSH. Some React components are common to both, and can be found in the "mesaging" folder.
+TalentLayer has implemented 2 messaging protocols in the Indie Frontend: XMTP and PUSH. Some React components are common to both, and can be found in the "messaging" folder.
 All XMTP-related components can fe found in the "mesaging/XMTP" folder.
 
 ![img.png](img.png)
@@ -324,7 +343,7 @@ const initClient = async (wallet: Signer) => {
 **Conversation & messages loading**
 
 After the client is initialized, the messaging context will load all the user's conversations and messages.
-This is done through the folloging function:
+This is done through the following function:
 
 ```typescript
 const listConversations = async (): Promise<void> => {
@@ -333,6 +352,14 @@ const listConversations = async (): Promise<void> => {
 ```
 
 Conversations will be accessible through the "conversations" variable, and messages through the "conversationMessages" variable after this step.
+
+
+**XmtpChatMessage**
+During the loading of the conversation's messages, the messages are converted to a custom type: "XmtpChatMessage", which is lighter than the "DecodedMessage" type from the XMTP SDK.
+This action is done through the function "buildChatMessage" in the "messaging/utils.ts" file.
+This message conversion is also done in the message & conversation listeners (see below).
+
+
 
 #### 2.3. XMTP hooks
 
@@ -400,7 +427,12 @@ It is used in the "MessageList.tsx" component, and is only active on an active c
 The main messaging page is located in the "pages/XmtpMessaging.tsx" file.
 The page is built using all the components located in the "messaging/xmtp/components" folder.
 
-[//]: # (TOTO: Parler des Objets Messages plus légers)
+It's important to activate the conversation listener on this page to retrieve all the new conversations initiated by other users.
+
+Each time a user selects a conversation, the conversation messages are fetched, the "MessageList" component is rendered and the "useSendMessage" hook is called to set up a "send" function to send messages to the selected user.
+The "MessageList" component is also responsible for activating the message listener on the selected conversation, since new incoming messages are only listened for the active conversation.
+
+
 
 
 ##
