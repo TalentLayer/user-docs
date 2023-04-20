@@ -1,6 +1,6 @@
 # TalentLayer Id
 
-## How to claim your Tlid?
+## - How to claim your Tlid?
 
 Please visit the following link to claim your tlid: [https://claim.talentlayer.org/](https://claim.talentlayer.org/)
 
