@@ -2,7 +2,7 @@
 
 * [👋 Welcome](README.md)
 * [☘ Getting Started Guide](introducing-talentlayer.md)
-* [👩🏫 Basics](basics/README.md)
+* [👩🏫 👩🏫 Basics](basics/README.md)
   * [Business Case](basics/business-case.md)
   * [TalentLayer Core](basics/readme.md)
     * [PlatformID](basics/elements/platformid.md)
@@ -16,7 +16,7 @@
         * [Platform Managed Arbitration](basics/readme/escrow-and-dispute/arbitration/platform-managed-arbitration.md)
   * [Fees & Economics](basics/fees-and-economics.md)
   * [Decentralization](basics/decentralization.md)
-  * [🌱 Lens Integration](basics/lens-integration.md)
+  * [Lens Integration](basics/lens-integration.md)
 * [⚙ Technical Guides](technical-guides/README.md)
   * [Integration Workshop](technical-guides/integration-workshop.md)
   * [Technical Schemas](technical-guides/technical-schemas.md)
@@ -45,3 +45,5 @@
 * [🙌 Donate](donate.md)
 * [🧠 Inspiration for Builders](inspiration-for-builders.md)
 * [⭐ Get a Platform ID](get-a-platform-id.md)
+* [🧐 Faq](faq/README.md)
+  * [TalentLayer Id](faq/talentlayer-id.md)
