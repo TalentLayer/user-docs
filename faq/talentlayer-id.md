@@ -1,22 +1,22 @@
 # TalentLayer Id
 
-## - How to claim your Tlid?
+## How to claim your Tlid?
 
 Please visit the following link to claim your tlid: [https://claim.talentlayer.org/](https://claim.talentlayer.org/)
 
-## - Can I transfer my Tlid?
+## Can I transfer my Tlid?
 
 If you have a TalentLayer ID, **you can transfer** it to another user, as long as **you have not used it for any activity on the protocol** such as creating a service or a proposal on a marketplace. Once you have used your TalentLayer ID to do an activity, it becomes locked to your account (as a soul-bound token) and cannot be transferred.
 
-## - Can anyone mint a Tlid
+## Can anyone mint a Tlid
 
 Yes the minting is public, you just need a Wallet on Polygon whit MATIC.
 
-## - How much does a Tlid cost?
+## How much does a Tlid cost?
 
 Please find all the minting prices here on the minting page [https://claim.talentlayer.org/](https://claim.talentlayer.org/)
 
-## - I have a technical issue during the minting process
+## I have a technical issue during the minting process
 
 Firstly, please ensure that you have enough MATIC in your wallet to cover the gas fees required to mint your TalentLayerID.
 
