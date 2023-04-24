@@ -42,8 +42,8 @@ In the workshop we walk through:
 [smart-contracts](smart-contracts/)
 {% endcontent-ref %}
 
-{% content-ref url="local-environment-setup/talentlayer-id-subgraph/graph-schema.md" %}
-[graph-schema.md](local-environment-setup/talentlayer-id-subgraph/graph-schema.md)
+{% content-ref url="graph-schema/" %}
+[graph-schema](graph-schema/)
 {% endcontent-ref %}
 
 {% hint style="info" %}

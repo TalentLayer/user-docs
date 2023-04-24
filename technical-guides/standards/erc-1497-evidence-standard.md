@@ -13,7 +13,7 @@ It defines a standard way for dApps that are part of the dispute resolution proc
 * for Arbitrable dApps: gives a way to provide the details of disputes to the Arbitrator.
 * for Arbitrators: gives a way to see context and evidence of disputes that need to be ruled.
 
-``
+
 
 ### `Evidence`
 
@@ -27,7 +27,7 @@ E.g.: emails, screenshots, contracts, testimony
 
 * `Arbitrable` contracts emit an event that contains a reference to an evidence JSON file when new evidence is submitted.
 
-``
+
 
 ### `MetaEvidence`
 

@@ -2,7 +2,7 @@
 
 ## **About The Contract**
 
-****[**TalentLayerPlatformID.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerPlatformID.sol) **** is the contract that initializes an integrating platforms' ID. The contract can be used to:
+[**TalentLayerPlatformID.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerPlatformID.sol) is the contract that initializes an integrating platforms' ID. The contract can be used to:
 
 * Mint a PlatformID
 * Update platform off-chain data&#x20;

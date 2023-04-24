@@ -1,4 +1,4 @@
-# 🌱 Lens Integration
+# Lens Integration
 
 TalentLayer has partnered with Lens, the decentralized social graph, to connect our protocols; enabling platforms building on Lens to offer work-related offerings like job posts, proposals, escrow payments and more, and platforms building on TalentLayer to let users display their social history alongside their work reputations.&#x20;
 

@@ -1,6 +1,6 @@
 # TalentLayerID.sol
 
-****[**TalentLayerID.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol) is the smart contract that initializes a user's TalentLayer ID. The contract can be used to:
+[**TalentLayerID.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol) is the smart contract that initializes a user's TalentLayer ID. The contract can be used to:
 
 * Mint a TalentLayer ID
 * Update profile off-chain data&#x20;

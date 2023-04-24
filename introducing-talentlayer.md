@@ -61,8 +61,8 @@ How does your application communicate with TalentLayer? Learn more here.
 
 ### Reading from TalentLayer
 
-{% content-ref url="technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md" %}
-[graph-schema.md](technical-guides/local-environment-setup/talentlayer-id-subgraph/graph-schema.md)
+{% content-ref url="technical-guides/graph-schema/" %}
+[graph-schema](technical-guides/graph-schema/)
 {% endcontent-ref %}
 
 ## Explore The Docs! <a href="#explore-the-docs" id="explore-the-docs"></a>

@@ -1,6 +1,6 @@
 # TalentLayerReview.sol
 
-****[**TalentLayerReview.sol**](https://github.com/TalentLayer/talentlayer-id-contracts) is the smart contract that handles reviews written to users' TalentLayer IDs. Reviews are minted as NFTs.
+[**TalentLayerReview.sol**](https://github.com/TalentLayer/talentlayer-id-contracts) is the smart contract that handles reviews written to users' TalentLayer IDs. Reviews are minted as NFTs.
 
 It can used to:
 

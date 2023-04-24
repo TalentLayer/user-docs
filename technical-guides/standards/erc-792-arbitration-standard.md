@@ -13,7 +13,7 @@ Every `Arbitrable` contract can be adjudicated by every `Arbitrator` contract Th
 
 Using two contracts allows separation between the ruling and its enforcement. In this way, an arbitrable app can easily switch from one arbitration service to another one with no breaking changes.
 
-``
+
 
 ## Arbitrator
 

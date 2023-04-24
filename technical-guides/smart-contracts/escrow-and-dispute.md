@@ -1,6 +1,6 @@
 # Escrow & Dispute Contracts
 
-****[**TalentLayerEscrow.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerEscrow.sol) is the smart contract that handles escrow transactions for each service, it custody the money and allow hirer to release the money by milestone. Also, in case of a dispute it handle all the workflow and link with the configured arbitrator.&#x20;
+[**TalentLayerEscrow.sol**](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerEscrow.sol) is the smart contract that handles escrow transactions for each service, it custody the money and allow hirer to release the money by milestone. Also, in case of a dispute it handle all the workflow and link with the configured arbitrator.&#x20;
 
 It can used to:
 
