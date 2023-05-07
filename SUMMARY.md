@@ -16,6 +16,7 @@
         * [Platform Managed Arbitration](basics/readme/escrow-and-dispute/arbitration/platform-managed-arbitration.md)
   * [Fees & Economics](basics/fees-and-economics.md)
   * [Decentralization](basics/decentralization.md)
+  * [Security](basics/security.md)
 * [🦝 Third-Party Modules](third-party-modules/README.md)
   * [Lens Protocol - Social](basics/lens-integration.md)
   * [XMTP - Messaging](third-party-modules/xmtp-messaging.md)
