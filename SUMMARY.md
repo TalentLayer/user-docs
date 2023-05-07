@@ -18,7 +18,7 @@
   * [Decentralization](basics/decentralization.md)
 * [🦝 Third-Party Modules](third-party-modules/README.md)
   * [Sismo / zkPoW](third-party-modules/sismo-zkpow.md)
-  * [Lens Protocol](third-party-modules/lens-integration.md)
+  * [Lens Protocol](basics/lens-integration.md)
 * [⚙ Technical Guides](technical-guides/README.md)
   * [Integration Workshop](technical-guides/integration-workshop.md)
   * [Technical Schemas](technical-guides/technical-schemas.md)

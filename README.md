@@ -57,8 +57,8 @@ TalentLayer has partnered with Lens, the decentralized social graph, to connect 
 
 Learn more here:
 
-{% content-ref url="third-party-modules/lens-integration.md" %}
-[lens-integration.md](third-party-modules/lens-integration.md)
+{% content-ref url="basics/lens-integration.md" %}
+[lens-integration.md](basics/lens-integration.md)
 {% endcontent-ref %}
 
 ## Talk To The Team
