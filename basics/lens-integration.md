@@ -1,4 +1,4 @@
-# Lens Protocol
+# Lens Protocol - Social
 
 TalentLayer has partnered with Lens, the decentralized social graph, to connect our protocols; enabling platforms building on Lens to offer work-related offerings like job posts, proposals, escrow payments and more, and platforms building on TalentLayer to let users display their social history alongside their work reputations.&#x20;
 
@@ -12,7 +12,7 @@ Read the full public announcement here:&#x20;
 
 {% embed url="https://twitter.com/kirstenrpomales/status/1608088909388386304" %}
 
-## Lens Module: Display 🌱 Lens Feeds on Your Work Platform
+## Lens TalentLayer Indie Module: Display 🌱 Lens Feeds on Your Work Platform
 
 The TalentLayer x Lens integration is ready to go! Want to learn how to integrate? Get started with forking our demo DAPP to learn how applications can reference TalentLayer and Lens profile data at the same time.
 
