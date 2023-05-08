@@ -48,6 +48,7 @@
     * [ERC-1497: Evidence Standard](technical-guides/standards/erc-1497-evidence-standard.md)
   * [How-To Guides](technical-guides/how-to-guides/README.md)
     * [How to implement the proposal validation?](technical-guides/how-to-guides/how-to-implement-the-proposal-validation.md)
+    * [How to implement the service creation?](technical-guides/how-to-guides/how-to-implement-the-service-creation.md)
     * [How to implement minting TalentLayer IDs?](technical-guides/how-to-guides/how-to-implement-minting-talentlayer-ids.md)
 * [🧠 Inspiration for Builders](inspiration-for-builders.md)
 * [⭐ Get a Platform ID](get-a-platform-id.md)
