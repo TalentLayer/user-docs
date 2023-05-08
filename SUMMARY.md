@@ -32,6 +32,7 @@
     * [Introduction](technical-guides/graph-schema/introduction.md)
     * [Querying from an application](technical-guides/graph-schema/querying-from-an-application.md)
     * [Queries examples](technical-guides/graph-schema/queries-examples.md)
+    * [Implementing the pagination](technical-guides/graph-schema/implementing-the-pagination.md)
   * [Messaging](technical-guides/messaging/README.md)
     * [Integrating XMTP](technical-guides/messaging/integrating-xmtp.md)
   * [Metadata](technical-guides/page-5.md)
