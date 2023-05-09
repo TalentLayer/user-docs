@@ -6,7 +6,33 @@ In this guide, we'll explore how to implement pagination in your application usi
 
 ## 1-Set and adapt your query
 
-<figure><img src="../../.gitbook/assets/pagination-2.jpg" alt=""><figcaption></figcaption></figure>
+```tsx
+export const getUsers = (
+  numberPerPage?: number,
+  offset?: number,
+  searchQuery?: string,
+): Promise<any> => {
+  const pagination = numberPerPage ? 'first: ' + numberPerPage + ', skip: ' + offset : '';
+  let condition = ', where: {';
+  condition += searchQuery ? `, handle_contains_nocase: "${searchQuery}"` : '';
+  condition += '}';
+
+  const query = `
+    {
+      users(orderBy: rating, orderDirection: desc ${pagination} ${condition}) {
+        id
+        address
+        handle
+        userStats {
+          numReceivedReviews
+        }
+        rating
+      }
+    }
+    `;
+  return processRequest(query);
+};
+```
 
 The function first construct a pagination string based on the provided `numberPerPage` and `offset` parameters. If `numberPerPage` is not provided, the pagination string will be empty, which means that the query will fetch all users without pagination.
 
@@ -20,13 +46,109 @@ Please find the code [here](https://github.com/TalentLayer-Labs/indie-frontend/b
 
 As you can see in the query just below is that we add to parameter **StartDate** and **EndDate** that will allow us to set up a filter by date on our front end
 
-<figure><img src="../../.gitbook/assets/pagination-3.jpg" alt=""><figcaption></figcaption></figure>
+```tsx
+export const getPaymentsForUser = (
+  userId: string,
+  numberPerPage?: number,
+  offset?: number,
+  startDate?: string,
+  endDate?: string,
+): Promise<any> => {
+  const pagination = numberPerPage ? 'first: ' + numberPerPage + ', skip: ' + offset : '';
+
+  const startDataCondition = startDate ? `, createdAt_gte: "${startDate}"` : '';
+  const endDateCondition = endDate ? `, createdAt_lte: "${endDate}"` : '';
+
+  const query = `
+    {
+      payments(where: {
+        service_: {seller: "${userId}"}
+        ${startDataCondition}
+        ${endDateCondition}
+      }, 
+      orderBy: createdAt orderDirection: desc ${pagination} ) {
+        id, 
+        rateToken {
+          address
+          decimals
+          name
+          symbol
+        }
+        amount
+        transactionHash
+        paymentType
+        createdAt
+        service {
+          id, 
+          cid
+        }
+      }
+    }
+    `;
+  return processRequest(query);
+};
+```
 
 ## 2-Adapt your hook
 
 We add a few state variable and parameter in the **useUsers** hook
 
-<figure><img src="../../.gitbook/assets/hook-pagination.jpg" alt=""><figcaption></figcaption></figure>
+```tsx
+import { useEffect, useState } from 'react';
+import { getUsers } from '../queries/users';
+import { IUser } from '../types';
+
+const useUsers = (
+  searchQuery?: string,
+  numberPerPage?: number,
+): { hasMoreData: boolean; loading: boolean; users: IUser[]; loadMore: () => void } => {
+  const [users, setUsers] = useState<IUser[]>([]);
+  const [hasMoreData, setHasMoreData] = useState(true);
+  const [loading, setLoading] = useState(false);
+  const [offset, setOffset] = useState(0);
+
+  useEffect(() => {
+    setUsers([]);
+    setOffset(0);
+  }, [searchQuery]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setLoading(true);
+        const response = await getUsers(numberPerPage, offset, searchQuery);
+
+        if (offset === 0) {
+          setUsers(response.data.data.users || []);
+        } else {
+          setUsers([...users, ...response.data.data.users]);
+        }
+
+        if (numberPerPage && response?.data?.data?.users.length < numberPerPage) {
+          setHasMoreData(false);
+        } else {
+          setHasMoreData(true);
+        }
+      } catch (err: any) {
+        // eslint-disable-next-line no-console
+        console.error(err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchData();
+  }, [numberPerPage, offset, searchQuery]);
+
+  const loadMore = () => {
+    numberPerPage ? setOffset(offset + numberPerPage) : '';
+  };
+
+  return { users, hasMoreData: hasMoreData, loading, loadMore };
+};
+
+export default useUsers;
+
+```
 
 1. `hasMoreData`: This state variable is a boolean that indicates whether there are more users to fetch. It is initially set to `true`, which means that when the component is first rendered, it assumes there is more data to load. As data is fetched, this state variable will be updated based on the length of the fetched data. If the length of the fetched data is less than the specified `numberPerPage`, it sets `hasMoreData` to `false`, indicating that there are no more users to fetch. it allow you to display a button or a message.
 2. `loading`: This state variable is a boolean that indicates whether data is being fetched. It is initially set to `false`. it allow you to display a loader during the fetch process.
