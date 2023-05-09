@@ -14,6 +14,10 @@ TalentLayer provides core tooling for building marketplaces including:
 * Decentralized and platform-managed dispute resolution options
 * Configurable fees system enabling fees on escrow transactions, job posts, proposal submissions, dispute resolution&#x20;
 
+#### An Introduction to TalentLayer
+
+{% embed url="https://youtu.be/pXsuBLItT5s" %}
+
 ## Is TalentLayer A Good Fit For Your Platform? <a href="#is-talentlayer-a-good-fit-for-your-platform" id="is-talentlayer-a-good-fit-for-your-platform"></a>
 
 Are you looking to build platform like freelance marketplaces, bounty platforms, hackathon platforms, gig marketplaces, or something similar? TalentLayer is optimized for a broad range of service marketplaces; platforms where people connect with each other to exchange services or "work" for money.&#x20;
