@@ -1,5 +1,11 @@
 # ☘ Getting Started Guide
 
+## Intro to TalentLayer <a href="#understanding-talentlayer-cores-components" id="understanding-talentlayer-cores-components"></a>
+
+We recommend watching this introduction to TalentLayer's protocol vision and technical components as a first step to getting started.
+
+{% embed url="https://youtu.be/qC5Ep6xEpiM" %}
+
 ## Understanding TalentLayer Core's Components <a href="#understanding-talentlayer-cores-components" id="understanding-talentlayer-cores-components"></a>
 
 TalentLayer Core is composed of the following key modules:
