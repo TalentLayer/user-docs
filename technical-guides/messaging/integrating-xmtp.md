@@ -16,7 +16,11 @@ When registering to XMTP, wallet signature is required to register the wallet as
 
 
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/img_6 (1).png" alt=""><figcaption><p>XMTP Identity creation window </p></figcaption></figure>
+
+</div>
 
 (This will be asked only once).
 
@@ -232,7 +236,11 @@ Clicking on this button will open the messaging page, with the existing or new c
 
 TalentLayer has implemented 2 messaging protocols in the Indie Frontend: XMTP and PUSH. Some React components are common to both, and can be found in the "messaging" folder. All XMTP-related components can be found in the "mesaging/XMTP" folder.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/img.png" alt=""><figcaption><p>Messaging file organization</p></figcaption></figure>
+
+</div>
 
 The messaging page's code is located in the "pages/XmtpMessaging.tsx" file. This is the entry point to the XMTP messaging app. It is available through the following routes:
 

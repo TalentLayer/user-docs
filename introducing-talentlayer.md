@@ -78,3 +78,5 @@ We’re working hard to document our tech stack. You can view our docs on our we
 {% content-ref url="basics/" %}
 [basics](basics/)
 {% endcontent-ref %}
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-12-31 at 1.01.10 PM.png" alt=""><figcaption></figcaption></figure>
