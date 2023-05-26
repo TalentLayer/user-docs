@@ -18,6 +18,7 @@
   * [Decentralization](basics/decentralization.md)
   * [Security](basics/security.md)
 * [⚙ Technical Guides](technical-guides/README.md)
+  * [Introduction](technical-guides/introduction.md)
   * [Delegation](technical-guides/delegation/README.md)
     * [Gassless Transactions](technical-guides/delegation/gassless-transactions.md)
   * [Integration Workshop](technical-guides/integration-workshop.md)
