@@ -29,6 +29,17 @@ These operations are:
 
 The delegates are linked to a profile, so this means that they cannot be used to mint a TalentLayer id for a user.
 
+## Delegation covering
+
+You can, when the delegation is activated, cover fees for the actions below
+
+* Mint a TalentLayerId for a user
+* Update profile data
+* Create a service
+* Create and update a proposal
+* Release and reimburse
+* Create a review
+
 ## TalentLayer's Implementation
 
 We have implemented a delegation system in contracts that the user interacts with:
