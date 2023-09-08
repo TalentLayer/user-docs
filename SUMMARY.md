@@ -62,7 +62,7 @@
 * [⭐ Get a Platform ID](get-a-platform-id.md)
 * [🧐 FAQ](faq/README.md)
   * [TalentLayer Id](faq/talentlayer-id.md)
-* [😁 Open-Source Contribution](open-source-contribution/README.md)
+* [😁 Core Developer Guides](open-source-contribution/README.md)
   * [TalentLayer Improvement Proposals](open-source-contribution/talentlayer-improvement-proposals.md)
   * [Advanced Documentation](open-source-contribution/advanced-documentation/README.md)
     * [Deployment Guide](open-source-contribution/advanced-documentation/deployment-guide.md)
