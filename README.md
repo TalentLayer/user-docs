@@ -4,9 +4,9 @@
 **START BUILDING TODAY:** TalentLayer is live today! Launch a marketplace DAPP in minutes with our fork-able frontend, or integrate your own in days.
 {% endhint %}
 
-TalentLayer is infrastructure for open service markets; backend tooling for building interoperable marketplaces that leverage an on-chain liquidity pool of users and services.
+TalentLayer is a protocol and developer toolkit for building interoperable hiring and services platforms;
 
-TalentLayer provides core tooling for building marketplaces including:
+TalentLayer provides core tooling for building service platforms including:
 
 * On-chain jobs and proposals
 * Soul-bound identity and reviews
@@ -20,7 +20,7 @@ TalentLayer provides core tooling for building marketplaces including:
 
 ## Is TalentLayer A Good Fit For Your Platform? <a href="#is-talentlayer-a-good-fit-for-your-platform" id="is-talentlayer-a-good-fit-for-your-platform"></a>
 
-Are you looking to build platform like freelance marketplaces, bounty platforms, hackathon platforms, gig marketplaces, or something similar? TalentLayer is optimized for a broad range of service marketplaces; platforms where people connect with each other to exchange services or "work" for money.&#x20;
+Are you looking to build platform like ride sharing apps, freelance marketplaces, bounty platforms, hackathon platforms, gig marketplaces, or something similar? **TalentLayer is optimized for a broad range of service marketplaces; platforms where people connect with each other to exchange services or "work" for money.**&#x20;
 
 TalentLayer’s modular tools can be applied to build diverse service marketplaces including…
 

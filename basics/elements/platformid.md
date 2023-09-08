@@ -6,9 +6,11 @@ Platform ID is the way in which access control is implemented on TalentLayer. It
 
 ## How Do I Get a Testnet Platform ID?
 
-Fill out the form below to apply for your Platform ID. We'll get back to you within 48 hours!
+Mint your testnet ID here.
 
-{% embed url="https://th0ijmupkis.typeform.com/to/yU5zACgj" %}
+{% content-ref url="../../get-a-platform-id.md" %}
+[get-a-platform-id.md](../../get-a-platform-id.md)
+{% endcontent-ref %}
 
 ## How Do I Get a Mainnet Platform ID?
 

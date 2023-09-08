@@ -28,18 +28,18 @@ TalentLayer creates a paradigm shift in how freelance marketplaces operate by cr
 
 ### Create A New DAPP in 5 Minutes <a href="#explore-the-indie-demo-dapp" id="explore-the-indie-demo-dapp"></a>
 
-Want to get started fast? Meet Indie - an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired. Indie lays the groundwork for what will eventually become the TalentLayer SDK.
+Want to get started fast? Meet StarterKit - an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired. Indie lays the groundwork for what will eventually become the TalentLayer SDK.
 
-{% content-ref url="technical-guides/dapp-setup.md" %}
-[dapp-setup.md](technical-guides/dapp-setup.md)
+{% content-ref url="technical-guides/dapp-setup-1.md" %}
+[dapp-setup-1.md](technical-guides/dapp-setup-1.md)
 {% endcontent-ref %}
 
 ### Get Your Platform ID <a href="#were-here-to-help" id="were-here-to-help"></a>
 
 To interact with TalentLayer's interoperable jobs system as a platform, you will need a Platform ID. Learn more:
 
-{% content-ref url="basics/elements/platformid.md" %}
-[platformid.md](basics/elements/platformid.md)
+{% content-ref url="get-a-platform-id.md" %}
+[get-a-platform-id.md](get-a-platform-id.md)
 {% endcontent-ref %}
 
 ## We're Here to Help <a href="#were-here-to-help" id="were-here-to-help"></a>
@@ -78,5 +78,3 @@ We’re working hard to document our tech stack. You can view our docs on our we
 {% content-ref url="basics/" %}
 [basics](basics/)
 {% endcontent-ref %}
-
-<figure><img src=".gitbook/assets/Screen Shot 2022-12-31 at 1.01.10 PM.png" alt=""><figcaption></figcaption></figure>

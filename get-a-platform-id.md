@@ -14,8 +14,8 @@ description: >-
 
 ## Get Started Building Your Platform
 
-{% content-ref url="technical-guides/dapp-setup.md" %}
-[dapp-setup.md](technical-guides/dapp-setup.md)
+{% content-ref url="technical-guides/dapp-setup-1.md" %}
+[dapp-setup-1.md](technical-guides/dapp-setup-1.md)
 {% endcontent-ref %}
 
 ## &#x20;1 – Mint a Platform ID on Mumbai Testnet&#x20;

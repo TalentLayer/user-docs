@@ -30,7 +30,7 @@ Then for each login, a wallet signature will be asked to decrypt this Private Ke
 
 XMTP provides a [complete SDK](https://xmtp.org/docs/client-sdk/javascript/concepts/intro-to-sdk) to interact with the XMTP protocol.
 
-***
+
 
 ### 1. Client
 
@@ -46,7 +46,7 @@ const client = await Client.create(null, {
 });
 ```
 
-***
+
 
 ### 2. Conversations
 
@@ -103,7 +103,7 @@ const listConversations = async (): Promise<Conversation[]> => {
     };
 ```
 
-***
+
 
 ### 3. Messages
 
@@ -146,7 +146,7 @@ const listMessages = async (): Promise<DecodedMessage[]> => {
 };
 ```
 
-***
+
 
 ### 4. Sending messages
 
@@ -167,7 +167,7 @@ const sendMessage = async (message: string): Promise<DecodedMessage> => {
 };
 ```
 
-***
+
 
 ### 5. WebSocket listeners
 
@@ -202,7 +202,7 @@ const stream: Stream<DecodedMessage> | undefined = await conversation.streamMess
 };
 ```
 
-***
+
 
 ## SDK Usage in TalentLayer Indie Frontend
 
@@ -230,7 +230,7 @@ Example on a service detail page:
 
 Clicking on this button will open the messaging page, with the existing or new conversation with the user already opened. This action will prompt the user to register to XMTP if they are not yet registered.
 
-***
+
 
 ### 2. File Organization & code
 
