@@ -65,7 +65,7 @@
 * [😁 Core Developer Guides](open-source-contribution/README.md)
   * [TalentLayer Improvement Proposals](open-source-contribution/talentlayer-improvement-proposals.md)
   * [Advanced Documentation](open-source-contribution/advanced-documentation/README.md)
-    * [Deployment Guide](open-source-contribution/advanced-documentation/deployment-guide.md)
+    * [Contract & Graph Deployment Guide](open-source-contribution/advanced-documentation/contract-and-graph-deployment-guide.md)
     * [Subgraph Local Setup](open-source-contribution/advanced-documentation/subgraph-local-setup.md)
     * [Smart Contracts Local Setup](open-source-contribution/advanced-documentation/smart-contracts-local-setup.md)
 * [🛠 Contact The Team](quick-start-integration-guide.md)
