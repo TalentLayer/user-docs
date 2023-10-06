@@ -13,7 +13,7 @@ It's a good first step to set up a local version of StarterKit to...
 
 We've hosted a version of StarterKit on Mumbai testnet for you to play around with! Have fun.
 
-{% embed url="https://starter-kit-xmtp-tl.vercel.app/" %}
+{% embed url="https://www.starterkit.work/" %}
 
 ## View on Github&#x20;
 
