@@ -16,8 +16,8 @@ To write to TalentLayer Core, you must connect with the appropriate TalentLayer 
 
 We currently have a fork-able codebase that is set up to interact with TalentLayer’s smart contracts: the Indie DAPP.
 
-{% content-ref url="../dapp-setup.md" %}
-[dapp-setup.md](../dapp-setup.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Permission to Write

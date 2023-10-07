@@ -1,4 +1,4 @@
-# Demo DAPP Setup - StarterKit
+# StarterKit Setup
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-08 at 5.43.21 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -17,7 +17,7 @@ We've hosted a version of StarterKit on Mumbai testnet for you to play around wi
 
 ## View on Github&#x20;
 
-{% embed url="https://github.com/TalentLayer-Labs/indie-frontend" %}
+{% embed url="https://github.com/TalentLayer-Labs/starter-kit" %}
 
 ## Local Setup Instructions
 
@@ -37,16 +37,16 @@ cd starter-kit
 
 Setup your local environnement by copying the .env.example and adjust the variables.
 
+Main variable to update:
+
 * Get the NEXT\_WALLECT\_CONNECT\_PROJECT\_ID from  [https://walletconnect.com/](https://walletconnect.com/)
 * Get the NEXT\_INFURA\_ID and VITE\_INFURA\_SECRET at [https://www.infura.io/](https://www.infura.io/) by creating a new project for IPFS.
 * Set NETWORK\_ID to for now to the ID for Mumbai Testnet. Find the chainID on [Chainlist](https://chainlist.org/).&#x20;
-* Set it to the numeric identifier for the platform ID you want to post on.&#x20;
+* NEXT\_PUBLIC\_PLATFORM\_ID: use 4, the default value, or [create your own platform](https://docs.talentlayer.org/get-a-platform-id) to setup your custom fees and more:
 
-Learn about how to request a PLATFORMID here:&#x20;
+Advanced configuration:
 
-{% content-ref url="../basics/elements/platformid.md" %}
-[platformid.md](../basics/elements/platformid.md)
-{% endcontent-ref %}
+* coming soon
 
 ### 4. Install dependencies
 

@@ -28,8 +28,8 @@ In the workshop we walk through:
 
 #### Set up The Demo Frontend Locally
 
-{% content-ref url="dapp-setup.md" %}
-[dapp-setup.md](dapp-setup.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### View on Github

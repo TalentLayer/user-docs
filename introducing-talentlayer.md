@@ -30,8 +30,8 @@ TalentLayer creates a paradigm shift in how freelance marketplaces operate by cr
 
 Want to get started fast? Meet StarterKit - an open-source fork-able codebase that is available for marketplaces and other platforms integrating with [TalentLayer](https://docs.talentlayer.org/) to borrow from and use to get inspired. Indie lays the groundwork for what will eventually become the TalentLayer SDK.
 
-{% content-ref url="technical-guides/dapp-setup-1.md" %}
-[dapp-setup-1.md](technical-guides/dapp-setup-1.md)
+{% content-ref url="technical-guides/starterkit-setup.md" %}
+[starterkit-setup.md](technical-guides/starterkit-setup.md)
 {% endcontent-ref %}
 
 ### Get Your Platform ID <a href="#were-here-to-help" id="were-here-to-help"></a>

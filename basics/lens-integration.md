@@ -16,8 +16,8 @@ Read the full public announcement here:&#x20;
 
 The TalentLayer x Lens integration is ready to go! Want to learn how to integrate? Get started with forking our demo DAPP to learn how applications can reference TalentLayer and Lens profile data at the same time.
 
-{% content-ref url="../technical-guides/dapp-setup.md" %}
-[dapp-setup.md](../technical-guides/dapp-setup.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-03-25 at 12.14.22 PM.png" alt=""><figcaption></figcaption></figure>

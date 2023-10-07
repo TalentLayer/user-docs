@@ -22,8 +22,8 @@ With TalentLayer's modular tech stack, you can launch a marketplace in a fractio
 
 [🚀](https://emojipedia.org/rocket/) Start building on top of our fork-able frontend codebase to get to market even faster!&#x20;
 
-{% content-ref url="../technical-guides/dapp-setup.md" %}
-[dapp-setup.md](../technical-guides/dapp-setup.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Higher Liquidity Means Increased User Loyalty
