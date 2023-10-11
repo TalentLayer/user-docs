@@ -57,6 +57,7 @@
   * [Lens Protocol - Social](basics/lens-integration.md)
   * [XMTP - Messaging](third-party-modules/xmtp-messaging.md)
   * [Sismo - Privacy](third-party-modules/sismo-privacy.md)
+  * [Iexec - Web3Mail](third-party-modules/iexec-web3mail.md)
 * [🧠 Inspiration for Builders](inspiration-for-builders.md)
 * [⭐ Get a Platform ID](get-a-platform-id.md)
 * [🧐 FAQ](faq/README.md)
