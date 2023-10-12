@@ -10,7 +10,7 @@ TalentLayer ID is a work identity that allows ownership and growth of reputation
 
 TalentLayerID is the core identity element for service buyers and sellers when interacting with TalentLayer-integrated marketplaces and freelancing tools. The TalentLayer ID is associated with reviews and represents the overall reputation in the ecosystem.
 
-More information on how it is implemented can be found in out guide on the [TalentLayerID smart contract](../../technical-guides/smart-contracts/talentlayerid.sol.md).
+More information on how it is implemented can be found in our guide on the [TalentLayerID smart contract](../../technical-guides/smart-contracts/talentlayerid.sol.md).
 
 ## Role-Agnostic IDs
 
