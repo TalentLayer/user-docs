@@ -40,6 +40,6 @@ Then on every release of money to the worker, platform Y and platform Z will hav
 
 Learn more about the technical side of services and proposals in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../../technical-guides/lower-level-technology/smart-contracts/talentlayerservice.sol.md" %}
-[talentlayerservice.sol.md](../../technical-guides/lower-level-technology/smart-contracts/talentlayerservice.sol.md)
+{% content-ref url="../../technical-guides/lower-level-guides/smart-contracts/talentlayerservice.sol.md" %}
+[talentlayerservice.sol.md](../../technical-guides/lower-level-guides/smart-contracts/talentlayerservice.sol.md)
 {% endcontent-ref %}

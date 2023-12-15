@@ -9,6 +9,6 @@
 
 ## View Deployments
 
-{% content-ref url="lower-level-technology/smart-contracts/deployments.md" %}
-[deployments.md](lower-level-technology/smart-contracts/deployments.md)
+{% content-ref url="lower-level-guides/smart-contracts/deployments.md" %}
+[deployments.md](lower-level-guides/smart-contracts/deployments.md)
 {% endcontent-ref %}

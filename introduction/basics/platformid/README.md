@@ -24,6 +24,6 @@ Learn about what fees are configurable by Platforms in this section of our docum
 
 Learn more about the technical side of your Platform ID in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../../../technical-guides/lower-level-technology/smart-contracts/talentlayerplatformid.sol.md" %}
-[talentlayerplatformid.sol.md](../../../technical-guides/lower-level-technology/smart-contracts/talentlayerplatformid.sol.md)
+{% content-ref url="../../../technical-guides/lower-level-guides/smart-contracts/talentlayerplatformid.sol.md" %}
+[talentlayerplatformid.sol.md](../../../technical-guides/lower-level-guides/smart-contracts/talentlayerplatformid.sol.md)
 {% endcontent-ref %}

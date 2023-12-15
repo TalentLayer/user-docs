@@ -34,6 +34,6 @@ In the soon-to-be-released TalentLayer Abstracted SDK and API we will support fi
 
 Learn more about the technical side of escrow and disputes in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../../../technical-guides/lower-level-technology/smart-contracts/escrow-and-dispute.md" %}
-[escrow-and-dispute.md](../../../technical-guides/lower-level-technology/smart-contracts/escrow-and-dispute.md)
+{% content-ref url="../../../technical-guides/lower-level-guides/smart-contracts/escrow-and-dispute.md" %}
+[escrow-and-dispute.md](../../../technical-guides/lower-level-guides/smart-contracts/escrow-and-dispute.md)
 {% endcontent-ref %}

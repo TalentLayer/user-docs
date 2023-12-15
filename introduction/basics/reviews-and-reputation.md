@@ -8,6 +8,6 @@ A Review is an ERC 721 soulbound NFT that is associated with a TalentLayer ID. N
 
 Learn more about the technical side of reviews in our Technical Guide on the smart contract.
 
-{% content-ref url="../../technical-guides/lower-level-technology/smart-contracts/talentlayerreview.sol.md" %}
-[talentlayerreview.sol.md](../../technical-guides/lower-level-technology/smart-contracts/talentlayerreview.sol.md)
+{% content-ref url="../../technical-guides/lower-level-guides/smart-contracts/talentlayerreview.sol.md" %}
+[talentlayerreview.sol.md](../../technical-guides/lower-level-guides/smart-contracts/talentlayerreview.sol.md)
 {% endcontent-ref %}

@@ -4,8 +4,8 @@ Platform-Managed Arbitration is a centralized solution where platforms have the 
 
 This is conducted similar to how most marketplaces handle disputes today - with customer service agents or administrators deciding rulings.
 
-{% content-ref url="../../../../technical-guides/lower-level-technology/smart-contracts/escrow-and-dispute.md" %}
-[escrow-and-dispute.md](../../../../technical-guides/lower-level-technology/smart-contracts/escrow-and-dispute.md)
+{% content-ref url="../../../../technical-guides/lower-level-guides/smart-contracts/escrow-and-dispute.md" %}
+[escrow-and-dispute.md](../../../../technical-guides/lower-level-guides/smart-contracts/escrow-and-dispute.md)
 {% endcontent-ref %}
 
 ### Updating arbitration price

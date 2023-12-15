@@ -14,7 +14,7 @@ TalentLayer ID is a decentralized identity that allows ownership and growth of r
 
 TalentLayerID is the core identity element for service buyers and sellers when interacting with TalentLayer-integrated marketplaces and freelancing tools. The TalentLayer ID is associated with reviews and represents the overall reputation in the ecosystem.
 
-More information on how it is implemented can be found in out guide on the [TalentLayerID smart contract](../../technical-guides/lower-level-technology/smart-contracts/talentlayerid.sol.md).
+More information on how it is implemented can be found in out guide on the [TalentLayerID smart contract](../../technical-guides/lower-level-guides/smart-contracts/talentlayerid.sol.md).
 
 ## Role-Agnostic IDs
 
@@ -58,6 +58,6 @@ TalentLayer ID’s are Activity Bound NFTs - they are transferable until they ar
 
 Learn more about the technical side of the TalentLayer ID in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../../technical-guides/lower-level-technology/smart-contracts/talentlayerid.sol.md" %}
-[talentlayerid.sol.md](../../technical-guides/lower-level-technology/smart-contracts/talentlayerid.sol.md)
+{% content-ref url="../../technical-guides/lower-level-guides/smart-contracts/talentlayerid.sol.md" %}
+[talentlayerid.sol.md](../../technical-guides/lower-level-guides/smart-contracts/talentlayerid.sol.md)
 {% endcontent-ref %}
