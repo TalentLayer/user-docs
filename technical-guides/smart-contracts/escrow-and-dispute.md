@@ -26,6 +26,6 @@ It can used to:
 
 Learn more about our escrow and dispute system and how they function in workflows:&#x20;
 
-{% content-ref url="escrow-and-dispute/" %}
-[escrow-and-dispute](escrow-and-dispute/)
+{% content-ref url="../basics/escrow-and-dispute/" %}
+[escrow-and-dispute](../basics/escrow-and-dispute/)
 {% endcontent-ref %}

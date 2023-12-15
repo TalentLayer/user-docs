@@ -19,6 +19,6 @@
 
 Learn more about why we have TalentLayer IDs and how they function in workflows:&#x20;
 
-{% content-ref url="../../basics/readme/what-is-talentlayer-id.md" %}
-[what-is-talentlayer-id.md](../../basics/readme/what-is-talentlayer-id.md)
+{% content-ref url="../basics/what-is-talentlayer-id.md" %}
+[what-is-talentlayer-id.md](../basics/what-is-talentlayer-id.md)
 {% endcontent-ref %}

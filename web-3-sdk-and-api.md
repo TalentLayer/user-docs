@@ -1,4 +1,6 @@
-# 🛠 SDK & API
+# 🛠 Web 3 SDK & API
+
+**TalentLayer's Web 3 API and SDK** is live and available for integration. The Web 3 API and SDK assumes a web 3 native user experience on the platform level.
 
 ## TalentLayer NPM Client
 

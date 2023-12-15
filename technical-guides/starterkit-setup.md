@@ -1,13 +1,18 @@
-# StarterKit Setup
+# 📱 StarterKit Setup
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-08 at 5.43.21 PM.png" alt=""><figcaption></figcaption></figure>
+"StarterKit" is an open-source fork-able mobile-first marketplace codebase that is a great starting point for teams building on TalentLayer.&#x20;
 
-"StarterKit" is an open-source fork-able mobile-first marketplace codebase that is a great starting point for teams building on TalentLayer. StarterKit was adapted from the Indie starter codebase, with additional improvments to make it mobile-first.
+StarterKit is...
+
+* a fully functioning freelance marketplace DAPP
+* build with React, Tailwind, Wagmi, WalletConnect, TalentLayer, and more
+* 100% open-source
+* mobile-first, with PWA support
 
 It's a good first step to set up a local version of StarterKit to...
 
 1. Get to know how frontends interface with TalentLayer
-2. Optionally, use Indie as a foundation for your next DAPP.
+2. Use it as a foundation for your next DAPP.
 
 ## Explore the DAPP
 

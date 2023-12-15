@@ -119,7 +119,7 @@ Iexec uses two different tools in order to enable web3 mails: the **DataProtecto
 
 ### 3.1 Architecture
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Web3mail architecture - New Service notification example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Web3mail architecture - New Service notification example</p></figcaption></figure>
 
 #### Backend:
 
@@ -140,7 +140,7 @@ Iexec uses two different tools in order to enable web3 mails: the **DataProtecto
 
 
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>User opting for web3 notifications workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>User opting for web3 notifications workflow</p></figcaption></figure>
 
 #### Admin:
 
@@ -397,7 +397,7 @@ Notifications campaigns which will be sent on a non-programmed manner will be se
 
 
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Platform Marketing Notification workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Platform Marketing Notification workflow</p></figcaption></figure>
 
 
 
@@ -449,7 +449,7 @@ In the StarterKit, the automatic notifications are handled by a cron, which will
 
 
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Vercel Cron Notification workflow for "New Proposal" notification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Vercel Cron Notification workflow for "New Proposal" notification</p></figcaption></figure>
 
 
 
@@ -467,7 +467,7 @@ Cron patterns are set in the vercel.json file at the root of the project.
 
 Each API endpoint is associated with an API endpoint which will be called by the cron. We want to check for new notifications every hour, so we need to set a cron pattern for the "fund-release" endpoint, which will be called every hour.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 2 - **Secure API Endpoint with a key**
 

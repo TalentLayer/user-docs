@@ -18,8 +18,8 @@ We intend to offer support for various decentralized dispute resolution options.
 
 Currently, we support Kleros, which is a dispute protocol with a network of jurors that act as the arbitrator for disputes. Kleros only supports disputes on the Ethereum blockchain.&#x20;
 
-{% content-ref url="../../../../basics/elements/escrow-and-dispute-system/disputes.md" %}
-[disputes.md](../../../../basics/elements/escrow-and-dispute-system/disputes.md)
+{% content-ref url="disputes.md" %}
+[disputes.md](disputes.md)
 {% endcontent-ref %}
 
 ### Platform-Managed Arbitration
@@ -30,8 +30,8 @@ Since Kleros doesn’t exist on all chains, we need an alternative solution for 
 The initial implementation has no appeals. We plan to implement appeals.&#x20;
 {% endhint %}
 
-{% content-ref url="../../../../basics/readme/escrow-and-dispute/arbitration/platform-managed-arbitration.md" %}
-[platform-managed-arbitration.md](../../../../basics/readme/escrow-and-dispute/arbitration/platform-managed-arbitration.md)
+{% content-ref url="platform-managed-arbitration.md" %}
+[platform-managed-arbitration.md](platform-managed-arbitration.md)
 {% endcontent-ref %}
 
 

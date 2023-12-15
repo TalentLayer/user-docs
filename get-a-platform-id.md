@@ -8,17 +8,15 @@ description: >-
 
 ## Learn about Platform IDs
 
-{% content-ref url="basics/elements/platformid.md" %}
-[platformid.md](basics/elements/platformid.md)
+{% content-ref url="technical-guides/basics/platformid.md" %}
+[platformid.md](technical-guides/basics/platformid.md)
 {% endcontent-ref %}
 
-## Get Started Building Your Platform
+## Create a Platform ID on Mumbai Testnet&#x20;
 
-{% content-ref url="technical-guides/starterkit-setup.md" %}
-[starterkit-setup.md](technical-guides/starterkit-setup.md)
-{% endcontent-ref %}
-
-## &#x20;1 – Mint a Platform ID on Mumbai Testnet&#x20;
+{% hint style="success" %}
+**Platform IDs on Polygon Mumbai are self-service** - anyone can create a Platform ID today by following the guide below.&#x20;
+{% endhint %}
 
 Step 1: Please follow the mumbai  polygon scan link [https://mumbai.polygonscan.com/address/0xEFD8dbC421380Ee04BAdB69216a0FD97F64CbFD4#writeProxyContract](https://mumbai.polygonscan.com/address/0xEFD8dbC421380Ee04BAdB69216a0FD97F64CbFD4#writeProxyContract)
 
@@ -26,10 +24,10 @@ Step 2: Please follow this tutorial to mint your TalentLayer Platform ID on Mumb
 
 {% embed url="https://www.loom.com/share/384aef3008e547cfbec6bf4765b74ec1?sid=bf543684-8038-42a0-ad3d-e909073e8a15" %}
 
-## &#x20;2 – Mint a Platform ID on Polygon Mainnet
+## &#x20;Create a Platform ID on Polygon Mainnet&#x20;
 
-In order to mint a Platform ID on the Polygon Mainnet, you must be whitelisted by the TalentLayer Team. Please complete the form below to apply for a TalentLayer Platform ID.
+In order to mint a Platform ID on the Polygon mainnet, you must be whitelisted by the TalentLayer team. Please visit the "Contact The Team" page to request a mainnet Platform ID.&#x20;
 
-## Apply for a Platform ID
-
-{% embed url="https://th0ijmupkis.typeform.com/to/yU5zACgj" %}
+{% hint style="warning" %}
+**Mainnet Platform IDs will only be approved for working testnet platforms.** Please do not request a mainnet Platform ID unless you have a production-ready app on testnet.&#x20;
+{% endhint %}

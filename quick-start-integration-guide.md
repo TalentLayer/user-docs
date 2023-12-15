@@ -1,3 +1,3 @@
-# 🗣 Contact The Team
+# 💬 Contact The Team
 
-{% embed url="https://th0ijmupkis.typeform.com/to/elUeofTE" %}
+{% embed url="https://tally.so/r/wkNBLe" %}

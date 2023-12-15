@@ -2,9 +2,7 @@
 
 ## Technical Components
 
-TalentLayer intends to be a fully decentralized protocol. We have composed all TalentLayer Core contracts in a decentralized way from day 1. Below you can explore the few centralized components that exist today; all relating to operations, onboarding, and third-party integrations.
-
-If you have any questions, please scroll to the bottom of this page and get in touch!
+TalentLayer intends to be a fully decentralized at the protocol level. We have composed all TalentLayer Core contracts in a decentralized way from day 1. Below you can explore the few centralized components that exist today; all relating to operations, onboarding, and third-party integrations.
 
 {% hint style="info" %}
 **Why Decentralization?** How we find and do work is one of the most important aspects of our lives as humans. At TalentLayer, we believe that the most resilient, uncensorable, and accessible systems are user-owned, decentralized, and autonomous. We're architecting our infrastructure and organizational structures in line with this vision. What does that mean for you as a platform? If you build on TalentLayer, you're building on a perpetual protocol that will always be around to help you serve your users.&#x20;
@@ -20,8 +18,8 @@ This treasury management will eventually be transitioned to TalentLayer's decent
 
 Learn more about current fees below.
 
-{% content-ref url="fees-and-economics.md" %}
-[fees-and-economics.md](fees-and-economics.md)
+{% content-ref url="../technical-guides/fees-and-economics.md" %}
+[fees-and-economics.md](../technical-guides/fees-and-economics.md)
 {% endcontent-ref %}
 
 #### Platform ID Minting Capabilities
@@ -32,11 +30,9 @@ This right to mint Platform IDs will eventually be transitioned to TalentLayer's
 
 Learn more about Platform IDs here.
 
-{% content-ref url="elements/platformid.md" %}
-[platformid.md](elements/platformid.md)
+{% content-ref url="../technical-guides/basics/platformid.md" %}
+[platformid.md](../technical-guides/basics/platformid.md)
 {% endcontent-ref %}
-
-
 
 #### Subgraph Hosting
 

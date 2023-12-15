@@ -12,7 +12,7 @@
 
 ## Data Structure
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 
 
@@ -24,6 +24,6 @@
 
 Learn more about why we have Platform IDs and how to get one here:
 
-{% content-ref url="../../basics/elements/platformid.md" %}
-[platformid.md](../../basics/elements/platformid.md)
+{% content-ref url="../basics/platformid.md" %}
+[platformid.md](../basics/platformid.md)
 {% endcontent-ref %}

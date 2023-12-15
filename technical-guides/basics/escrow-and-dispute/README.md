@@ -1,6 +1,6 @@
 # Escrow and Dispute
 
-The TalentLayer Escrow and Dispute Resolution Module allows for secure payments between users on TalentLayer integrated marketplaces and between TalentLayer integrated marketplaces. TalentLayer's Escrow and Dispute Resolution allows for users on different marketplaces to remit transactions and handle disputes associated with [specific Services.](../../../basics/elements/jobs-and-proposals.md)
+The TalentLayer Escrow and Dispute Resolution Module allows for secure payments between users on TalentLayer integrated marketplaces and between TalentLayer integrated marketplaces. TalentLayer's Escrow and Dispute Resolution allows for users on different marketplaces to remit transactions and handle disputes associated with [specific Services.](../jobs-and-proposals.md)
 
 ## Capabilities
 
@@ -28,6 +28,6 @@ For current arbitration options, please see the following page:&#x20;
 
 Learn more about the technical side of escrow and disputes in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../escrow-and-dispute.md" %}
-[escrow-and-dispute.md](../escrow-and-dispute.md)
+{% content-ref url="../../smart-contracts/escrow-and-dispute.md" %}
+[escrow-and-dispute.md](../../smart-contracts/escrow-and-dispute.md)
 {% endcontent-ref %}

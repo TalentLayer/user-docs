@@ -1,70 +1,47 @@
-# 👋 Welcome
+# 👋 Introduction
 
-{% hint style="success" %}
-**START BUILDING TODAY:** TalentLayer is live today! Launch a marketplace DAPP in minutes with our fork-able frontend, or integrate your own in days.
-{% endhint %}
+## The TalentLayer TLDR
 
-TalentLayer is a protocol and developer toolkit for building interoperable hiring and services platforms;
+TalentLayer **helps marketplace applications like freelance marketplaces and ride-share apps access additional supply or demand when they need it** by tapping into a wider network of users.&#x20;
 
-TalentLayer provides core tooling for building service platforms including:
+TalentLayer can also be to build new marketplaces on top of - replacing key backend components, helping you go to market faster. \
+\
+**TalentLayer's Web 3 API and SDK** is live and available for integration. The Web 3 API and SDK assumes a web 3 native user experience on the platform level. Account delegation and gassless are enabled today so that platform developers can implement account abstraction optionally.
 
-* On-chain jobs and proposals
-* Soul-bound identity and reviews
-* Configurable escrow capable of supporting milestone, lump sum, hourly pay and more
-* Decentralized and platform-managed dispute resolution options
-* Configurable fees system enabling fees on escrow transactions, job posts, proposal submissions, dispute resolution&#x20;
-
-#### An Introduction to TalentLayer
-
-{% embed url="https://youtu.be/pXsuBLItT5s" %}
-
-## Is TalentLayer A Good Fit For Your Platform? <a href="#is-talentlayer-a-good-fit-for-your-platform" id="is-talentlayer-a-good-fit-for-your-platform"></a>
-
-Are you looking to build platform like ride sharing apps, freelance marketplaces, bounty platforms, hackathon platforms, gig marketplaces, or something similar? **TalentLayer is optimized for a broad range of service marketplaces; platforms where people connect with each other to exchange services or "work" for money.**&#x20;
-
-TalentLayer’s modular tools can be applied to build diverse service marketplaces including…
-
-* gig marketplaces
-* ride sharing apps
-* house sharing apps
-* photography marketplaces
-* telemedicine apps
-* Rappi-style multi marketplace apps
-
-## Why TalentLayer?
-
-Why are developers and entrepreneurs building marketplaces using TalentLayer? Because open platforms benefit everyone; hirers, workers, and platforms. Discover why teams are building the next generation of labor markets on TalentLayer.&#x20;
-
-{% content-ref url="basics/business-case.md" %}
-[business-case.md](basics/business-case.md)
+{% content-ref url="web-3-sdk-and-api.md" %}
+[web-3-sdk-and-api.md](web-3-sdk-and-api.md)
 {% endcontent-ref %}
 
-## Technical Guides
+In the coming months we'll be releasing **TalentLayer's Abstracted API and SDK** which will enable platforms to easily integrate TalentLayer without users interacting with web 3 at all: wallet-less onboarding,  delegation (no signing transactions, or approving payments),  fiat payments, and more.&#x20;
 
-Want to start building with TalentLayer's tools? Check out our technical guides or get in touch with us.&#x20;
+## Key Concepts in TalentLayer
 
-{% content-ref url="technical-guides/" %}
-[technical-guides](technical-guides/)
+Learn about how TalentLayer helps your platform and explore options for how to integrate today.&#x20;
+
+{% content-ref url="introduction/value-proposition.md" %}
+[value-proposition.md](introduction/value-proposition.md)
 {% endcontent-ref %}
 
-## Integration Workshop
-
-Want to see some visuals? Watch our latest technical workshop from Filecoin Hacker Hub in Lisbon and follow async with a clickable walkthrough.&#x20;
-
-{% content-ref url="technical-guides/integration-workshop.md" %}
-[integration-workshop.md](technical-guides/integration-workshop.md)
+{% content-ref url="introduction/options-for-integration/" %}
+[options-for-integration](introduction/options-for-integration/)
 {% endcontent-ref %}
 
-## Looking for the 🌱 Lens Protocol Integration?&#x20;
+## Get Started Today
 
-TalentLayer has partnered with Lens, the decentralized social graph, to connect our protocols; enabling platforms building on Lens to offer work-related offerings like job posts, proposals, escrow payments and more, and platforms building on TalentLayer to let users display their social history alongside their work reputations.
+**TalentLayer's Web 3 API and SDK** is live and available for integration.&#x20;
 
-Learn more here:
+### Explore the SDK
 
-{% content-ref url="basics/lens-integration.md" %}
-[lens-integration.md](basics/lens-integration.md)
+Add TalentLayer to an existing marketplace or build one from scratch with the TalentLayer Web 3 SDK and API.&#x20;
+
+{% content-ref url="web-3-sdk-and-api.md" %}
+[web-3-sdk-and-api.md](web-3-sdk-and-api.md)
 {% endcontent-ref %}
 
-## Talk To The Team
+### Use a Starter Codebase
 
-{% embed url="https://th0ijmupkis.typeform.com/to/elUeofTE" %}
+Are you building a marketplace app or adding work features to an app in a different vertical? Reduce your workload by up to 90% by using StarterKit - an open-source codebase for a fully-functioning web 3 native freelance marketplace.
+
+{% content-ref url="technical-guides/starterkit-setup.md" %}
+[starterkit-setup.md](technical-guides/starterkit-setup.md)
+{% endcontent-ref %}

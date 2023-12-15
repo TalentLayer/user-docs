@@ -19,6 +19,6 @@ It can used to:
 
 Learn more about why we have Reviews and how they function in workflows:&#x20;
 
-{% content-ref url="../../basics/elements/reviews-and-reputation.md" %}
-[reviews-and-reputation.md](../../basics/elements/reviews-and-reputation.md)
+{% content-ref url="../basics/reviews-and-reputation.md" %}
+[reviews-and-reputation.md](../basics/reviews-and-reputation.md)
 {% endcontent-ref %}

@@ -54,7 +54,7 @@ When it comes to security, our main focus is on creating mechanisms to prevent a
 
 Here is a simple illustration of TalentLayer tech stack and data flow.
 
-<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
 Let’s unpack now all different layers we have at TalentLayer architecture.
 

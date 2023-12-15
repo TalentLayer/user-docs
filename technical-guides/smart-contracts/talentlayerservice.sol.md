@@ -19,6 +19,6 @@
 
 Learn more about why we have the Service Registry and how it functions in workflows:&#x20;
 
-{% content-ref url="../../basics/elements/jobs-and-proposals.md" %}
-[jobs-and-proposals.md](../../basics/elements/jobs-and-proposals.md)
+{% content-ref url="../basics/jobs-and-proposals.md" %}
+[jobs-and-proposals.md](../basics/jobs-and-proposals.md)
 {% endcontent-ref %}

@@ -20,12 +20,12 @@ The TalentLayer x Lens integration is ready to go! Want to learn how to integrat
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-03-25 at 12.14.22 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-03-25 at 12.14.22 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Are you Building Social Platforms on 🌱 Lens?
 
 Are you building a social media platform on Lens Protocol? We want to help YOU integrate work tools into your platform. Get in touch here:&#x20;
 
-{% content-ref url="../quick-start-integration-guide.md" %}
-[quick-start-integration-guide.md](../quick-start-integration-guide.md)
+{% content-ref url="../../quick-start-integration-guide.md" %}
+[quick-start-integration-guide.md](../../quick-start-integration-guide.md)
 {% endcontent-ref %}
