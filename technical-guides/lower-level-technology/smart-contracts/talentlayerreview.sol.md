@@ -9,16 +9,16 @@ It can used to:
 
 ## Data Structure
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 ## Visualization
 
-<figure><img src="../../.gitbook/assets/review.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/review.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 
 Learn more about why we have Reviews and how they function in workflows:&#x20;
 
-{% content-ref url="../basics/reviews-and-reputation.md" %}
-[reviews-and-reputation.md](../basics/reviews-and-reputation.md)
+{% content-ref url="../../../introduction/basics/reviews-and-reputation.md" %}
+[reviews-and-reputation.md](../../../introduction/basics/reviews-and-reputation.md)
 {% endcontent-ref %}

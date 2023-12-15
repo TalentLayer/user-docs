@@ -9,16 +9,16 @@
 
 ## Data Structure
 
-### ![](<../../.gitbook/assets/image (3).png>)
+### ![](<../../../.gitbook/assets/image (3).png>)
 
 ## Visualization
 
-<figure><img src="../../.gitbook/assets/profile.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/profile.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 
 Learn more about why we have TalentLayer IDs and how they function in workflows:&#x20;
 
-{% content-ref url="../basics/what-is-talentlayer-id.md" %}
-[what-is-talentlayer-id.md](../basics/what-is-talentlayer-id.md)
+{% content-ref url="../../../introduction/basics/what-is-talentlayer-id.md" %}
+[what-is-talentlayer-id.md](../../../introduction/basics/what-is-talentlayer-id.md)
 {% endcontent-ref %}

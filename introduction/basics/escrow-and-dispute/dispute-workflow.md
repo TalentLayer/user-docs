@@ -50,12 +50,12 @@ Appeals also have a cost which is defined by the arbitrator.
 
 In order to be as modular and interoperable as possible, the dispute resolution implementation follows two of the standards defined for this purpose: the Arbitration and Evidence standards.
 
-{% content-ref url="../../../technical-guides/standards/erc-792-arbitration-standard.md" %}
-[erc-792-arbitration-standard.md](../../../technical-guides/standards/erc-792-arbitration-standard.md)
+{% content-ref url="../../../technical-guides/lower-level-technology/standards/erc-792-arbitration-standard.md" %}
+[erc-792-arbitration-standard.md](../../../technical-guides/lower-level-technology/standards/erc-792-arbitration-standard.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../technical-guides/standards/erc-1497-evidence-standard.md" %}
-[erc-1497-evidence-standard.md](../../../technical-guides/standards/erc-1497-evidence-standard.md)
+{% content-ref url="../../../technical-guides/lower-level-technology/standards/erc-1497-evidence-standard.md" %}
+[erc-1497-evidence-standard.md](../../../technical-guides/lower-level-technology/standards/erc-1497-evidence-standard.md)
 {% endcontent-ref %}
 
 

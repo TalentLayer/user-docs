@@ -23,13 +23,13 @@ Please check the demo video just below\
 Using the playground, you can create and save your own graphQL queries and try out the default queries **we provide to get you up and running!**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/custom-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/custom-2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 On the right-hand side, you have access to some neat functionality that will help you explore the subgraph. Check out **GraphQL Explorer** as well as **Documentation Explorer** to create customized queries on the fly!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/playground.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/playground.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **An Introduction to Writing GraphQL Queries for the Talent Layer Subgraph**
 

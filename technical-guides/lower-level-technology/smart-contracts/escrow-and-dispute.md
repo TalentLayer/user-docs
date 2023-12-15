@@ -12,20 +12,20 @@ It can used to:
 
 ## Data Structure
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 ## Visualization: TalentLayerEscrow.sol
 
-<figure><img src="../../.gitbook/assets/escrow.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/escrow.svg" alt=""><figcaption></figcaption></figure>
 
 ## Visualization: TalentLayerArbitrator.sol
 
-<figure><img src="../../.gitbook/assets/arbitrator.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/arbitrator.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 
 Learn more about our escrow and dispute system and how they function in workflows:&#x20;
 
-{% content-ref url="../basics/escrow-and-dispute/" %}
-[escrow-and-dispute](../basics/escrow-and-dispute/)
+{% content-ref url="../../../introduction/basics/escrow-and-dispute/" %}
+[escrow-and-dispute](../../../introduction/basics/escrow-and-dispute/)
 {% endcontent-ref %}

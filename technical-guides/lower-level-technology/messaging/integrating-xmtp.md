@@ -18,7 +18,7 @@ When registering to XMTP, wallet signature is required to register the wallet as
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/img_6 (1).png" alt=""><figcaption><p>XMTP Identity creation window </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/img_6 (1).png" alt=""><figcaption><p>XMTP Identity creation window </p></figcaption></figure>
 
 </div>
 
@@ -216,7 +216,7 @@ The idea is to enable TalentLayer users to send messages to each other, and to b
 
 This box will appear on the user's profile page if they are not registered to XMTP:
 
-<figure><img src="../../.gitbook/assets/img_1.png" alt=""><figcaption><p>XMTP registration window</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/img_1.png" alt=""><figcaption><p>XMTP registration window</p></figcaption></figure>
 
 After clicking on the button, a modal will appear, asking the user to sign a message with their wallet, which will register them to XMTP.
 
@@ -226,7 +226,7 @@ Contacting a user is done by clicking on the "Contact" button either on the serv
 
 Example on a service detail page:
 
-<figure><img src="../../.gitbook/assets/img_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/img_2.png" alt=""><figcaption></figcaption></figure>
 
 Clicking on this button will open the messaging page, with the existing or new conversation with the user already opened. This action will prompt the user to register to XMTP if they are not yet registered.
 
@@ -238,7 +238,7 @@ TalentLayer has implemented 2 messaging protocols in the Indie Frontend: XMTP an
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/img.png" alt=""><figcaption><p>Messaging file organization</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/img.png" alt=""><figcaption><p>Messaging file organization</p></figcaption></figure>
 
 </div>
 
@@ -293,7 +293,7 @@ handleMessageUser = async (userAddress: string): Promise<void>
 
 Example of redirection to an open conversation with a user:&#x20;
 
-<figure><img src="../../.gitbook/assets/img_5.png" alt=""><figcaption><p>Open XMTP Conversation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/img_5.png" alt=""><figcaption><p>Open XMTP Conversation</p></figcaption></figure>
 
 #### 2.3. XMTP messaging Context
 
@@ -404,7 +404,7 @@ Notice the "buildConversationId" function. TalentLayer decided to set a context 
 
 The way the conversationId is built [**follows the pattern which Lens protocol used**](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app#build-the-lens-dm-conversation-id). This way the domain name can be clearly visible in the XMTP general chat app:
 
-<figure><img src="../../.gitbook/assets/img_4.png" alt=""><figcaption><p>Conversation domain ids visible on <a href="https://xmtp.chat/">xmtp.chat</a> </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/img_4.png" alt=""><figcaption><p>Conversation domain ids visible on <a href="https://xmtp.chat/">xmtp.chat</a> </p></figcaption></figure>
 
 TalentLayer decided to filter out all conversations which are not TalentLayer-related, by filtering out all conversations which id's do not match the TalentLayer pattern (see "listConversations" function in XMTPContext.tsx).
 

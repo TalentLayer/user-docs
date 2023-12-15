@@ -40,7 +40,7 @@ We've developed a module in our Indie Demo Dapp that lets a platform display Sis
 All TalentLayer third-party modules are housed in separate folders in the TalentLayer Indie demo dapp, and can easily be added to platforms by copying the folder into your repo.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-07 at 9.50.00 AM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-05-07 at 9.50.00 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 ### View the Module
 

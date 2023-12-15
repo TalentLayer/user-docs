@@ -14,7 +14,7 @@ Escrow contracts can not currently be refilled after the full amount has been re
 
 It is possible for a freelancer to voluntarily opt-out of a service and be compensated partially for work completed, with the employer receiving the remaining amount of escrow back to their own wallet.
 
-## TalentLayer Escrow With or Without Disputes
+## TalentLayer Escrow With or Without Dispute Management
 
 At the platform level, you can decide whether to allow your users to initiate disputes or not. If you choose to allow for disputes, you must choose which type of arbitration to support.&#x20;
 
@@ -24,10 +24,16 @@ For current arbitration options, please see the following page:&#x20;
 [arbitration](arbitration/)
 {% endcontent-ref %}
 
+## Fiat Management
+
+Currently, if a platform wants to manage fiat-based payments, this requires off-ramps and on-ramps be created on either side of the transaction.&#x20;
+
+In the soon-to-be-released TalentLayer Abstracted SDK and API we will support fiat off-ramp and on-ramp nativley, so users can leverage fiat payments in a seamless manner.&#x20;
+
 ## Learn More About The Tech
 
 Learn more about the technical side of escrow and disputes in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../../smart-contracts/escrow-and-dispute.md" %}
-[escrow-and-dispute.md](../../smart-contracts/escrow-and-dispute.md)
+{% content-ref url="../../../technical-guides/lower-level-technology/smart-contracts/escrow-and-dispute.md" %}
+[escrow-and-dispute.md](../../../technical-guides/lower-level-technology/smart-contracts/escrow-and-dispute.md)
 {% endcontent-ref %}

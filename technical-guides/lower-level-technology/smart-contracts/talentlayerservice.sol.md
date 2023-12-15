@@ -9,16 +9,16 @@
 
 ## Data Structure
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 ## Visualization
 
-<figure><img src="../../.gitbook/assets/services.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/services.svg" alt=""><figcaption></figcaption></figure>
 
 ## Learn More
 
 Learn more about why we have the Service Registry and how it functions in workflows:&#x20;
 
-{% content-ref url="../basics/jobs-and-proposals.md" %}
-[jobs-and-proposals.md](../basics/jobs-and-proposals.md)
+{% content-ref url="../../../introduction/basics/jobs-and-proposals.md" %}
+[jobs-and-proposals.md](../../../introduction/basics/jobs-and-proposals.md)
 {% endcontent-ref %}

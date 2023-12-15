@@ -2,8 +2,6 @@
 
 ## An Intro to TalentLayer’s Architecture
 
-Hey, everyone! We talk a lot about the high-level vision for TalentLayer, but now it’s time for our first technical deep dive blog post. Glad to have you along for the ride.
-
 In this post we aim to help you…
 
 * Gain a better understanding of the design principles behind TalentLayer’s architecture
@@ -54,7 +52,7 @@ When it comes to security, our main focus is on creating mechanisms to prevent a
 
 Here is a simple illustration of TalentLayer tech stack and data flow.
 
-<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
 Let’s unpack now all different layers we have at TalentLayer architecture.
 
@@ -102,7 +100,7 @@ At the core of TalentLayer protocol are six smart contracts. Our engineering tea
 
 [https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/.deployment/mumbai.json](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/.deployment/mumbai.json)
 
-<figure><img src="../.gitbook/assets/Untitled 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled 1.png" alt=""><figcaption></figcaption></figure>
 
 1. [TalentLayer ID smart contract](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol) (+screenshot and the address) where we handle user identity.
 2. [TalentLayer Platform ID contract](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerPlatformID.sol) (+screenshot and the address) where we handle the identity of platforms.
@@ -154,7 +152,7 @@ The role of the Indexer is to check every transaction happening on the blockchai
 
 
 
-<figure><img src="../.gitbook/assets/Untitled 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled 2.png" alt=""><figcaption></figcaption></figure>
 
 ## What happens under the hood?
 
@@ -200,7 +198,7 @@ For example, if you get to the user entity, it explains to you that you’ve got
 
 Here is an example ([GraphQl API](https://thegraph.com/docs/en/querying/graphql-api/)) of a request for getting services
 
-<figure><img src="../.gitbook/assets/Untitled 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled 3.png" alt=""><figcaption></figcaption></figure>
 
 You open the jobs and order them by the date they were created. You choose also the number of services you want and specify on which platform they were opened. You can see the ID of the service, when it was created, and what is the status, on which platform it was created, the freelancer, the hirer etc. + all the off chain information about the service.
 
@@ -208,7 +206,7 @@ At the end this is what the marketplace has to request with these kind of object
 
 All this data is public and anyone can see this data outside of [TalentLayer](https://docs.talentlayer.org/). You go to a public Url with a tool called [Hasura](https://cloud.hasura.io/public/graphiql?endpoint=https%3A%2F%2Fapi.thegraph.com%2Fsubgraphs%2Fname%2Ftalentlayer%2Ftalent-layer-protocol) using TalentLayer’s endpoint address.
 
-<figure><img src="../.gitbook/assets/Untitled 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled 4.png" alt=""><figcaption></figcaption></figure>
 
 ## How do we manage smart contracts?
 

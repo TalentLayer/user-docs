@@ -18,8 +18,8 @@ This treasury management will eventually be transitioned to TalentLayer's decent
 
 Learn more about current fees below.
 
-{% content-ref url="../technical-guides/fees-and-economics.md" %}
-[fees-and-economics.md](../technical-guides/fees-and-economics.md)
+{% content-ref url="basics/platformid/fees-and-economics.md" %}
+[fees-and-economics.md](basics/platformid/fees-and-economics.md)
 {% endcontent-ref %}
 
 #### Platform ID Minting Capabilities
@@ -30,8 +30,8 @@ This right to mint Platform IDs will eventually be transitioned to TalentLayer's
 
 Learn more about Platform IDs here.
 
-{% content-ref url="../technical-guides/basics/platformid.md" %}
-[platformid.md](../technical-guides/basics/platformid.md)
+{% content-ref url="basics/platformid/" %}
+[platformid](basics/platformid/)
 {% endcontent-ref %}
 
 #### Subgraph Hosting

@@ -8,8 +8,8 @@ description: >-
 
 ## Learn about Platform IDs
 
-{% content-ref url="technical-guides/basics/platformid.md" %}
-[platformid.md](technical-guides/basics/platformid.md)
+{% content-ref url="introduction/basics/platformid/" %}
+[platformid](introduction/basics/platformid/)
 {% endcontent-ref %}
 
 ## Create a Platform ID on Mumbai Testnet&#x20;

@@ -1,11 +1,11 @@
-# 📱 StarterKit Setup
+# StarterKit Template
 
 "StarterKit" is an open-source fork-able mobile-first marketplace codebase that is a great starting point for teams building on TalentLayer.&#x20;
 
 StarterKit is...
 
 * a fully functioning freelance marketplace DAPP
-* build with React, Tailwind, Wagmi, WalletConnect, TalentLayer, and more
+* build with React, Tailwind, WalletConnect, and TalentLayer API
 * 100% open-source
 * mobile-first, with PWA support
 

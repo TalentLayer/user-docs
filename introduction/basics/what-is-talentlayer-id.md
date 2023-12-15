@@ -4,17 +4,21 @@ description: Basic understanding of the user identity on TalentLayer.
 
 # TalentLayerID
 
+{% hint style="info" %}
+In Native Integrations, each user of a platform will have a TalentLayer ID. In On-Demand Integrations manage one master TalentLayerID that engages with the protocol on behalf of the platform's users. Learn more in the Options for Integration section of the documentation.&#x20;
+{% endhint %}
+
 ## What is a TalentLayerID?
 
-TalentLayer ID is a work identity that allows ownership and growth of reputation across many gig marketplaces. TalentLayer IDs are ERC-721 NFTs that live inside crypto wallets; this means that reputation is self-custodied by the wallet owner and lives separately from integrated platforms. TalentLayer IDs are “soul-bound” in that they can not leave the originating wallet unless a recovery is initiated.
+TalentLayer ID is a decentralized identity that allows ownership and growth of reputation across many service marketplaces. TalentLayer IDs are ERC-721 NFTs that live inside crypto wallets; this means that reputation is self-custodied by the wallet owner and lives separately from integrated platforms. TalentLayer IDs are “soul-bound” in that they can not leave the originating wallet after they have been used in a service engagement.
 
 TalentLayerID is the core identity element for service buyers and sellers when interacting with TalentLayer-integrated marketplaces and freelancing tools. The TalentLayer ID is associated with reviews and represents the overall reputation in the ecosystem.
 
-More information on how it is implemented can be found in out guide on the [TalentLayerID smart contract](../../technical-guides/smart-contracts/talentlayerid.sol.md).
+More information on how it is implemented can be found in out guide on the [TalentLayerID smart contract](../../technical-guides/lower-level-technology/smart-contracts/talentlayerid.sol.md).
 
 ## Role-Agnostic IDs
 
-Unlike other freelancing platforms, separate accounts are not needed to hire freelancers and be hired by others.
+There is no concept of "separate accounts" for buyers and sellers.&#x20;
 
 ## TalentLayer ID Handles
 
@@ -28,11 +32,9 @@ You can have a maximum of 31 characters in your TalentLayer ID and use only low 
 
 ## How to Get a TalentLayer ID
 
-TalentLayer ID handles are claimable today by visiting our claim page:
+TalentLayer IDs can be minted on any platform integrated with TalentLayer during the user onboarding flow. They can also be claimed from TalentLayer directly on the following web page.
 
 {% embed url="https://claim.talentlayer.org" %}
-
-TalentLayer IDs can also be claimed on any integrated marketplace platform.
 
 ### How much do TalentLayer IDs cost
 
@@ -56,6 +58,6 @@ TalentLayer ID’s are Activity Bound NFTs - they are transferable until they ar
 
 Learn more about the technical side of the TalentLayer ID in our Technical Guide on the smart contract.&#x20;
 
-{% content-ref url="../../technical-guides/smart-contracts/talentlayerid.sol.md" %}
-[talentlayerid.sol.md](../../technical-guides/smart-contracts/talentlayerid.sol.md)
+{% content-ref url="../../technical-guides/lower-level-technology/smart-contracts/talentlayerid.sol.md" %}
+[talentlayerid.sol.md](../../technical-guides/lower-level-technology/smart-contracts/talentlayerid.sol.md)
 {% endcontent-ref %}

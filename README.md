@@ -8,8 +8,8 @@ TalentLayer can also be to build new marketplaces on top of - replacing key back
 \
 **TalentLayer's Web 3 API and SDK** is live and available for integration. The Web 3 API and SDK assumes a web 3 native user experience on the platform level. Account delegation and gassless are enabled today so that platform developers can implement account abstraction optionally.
 
-{% content-ref url="web-3-sdk-and-api.md" %}
-[web-3-sdk-and-api.md](web-3-sdk-and-api.md)
+{% content-ref url="technical-guides/web-3-sdk-and-api.md" %}
+[web-3-sdk-and-api.md](technical-guides/web-3-sdk-and-api.md)
 {% endcontent-ref %}
 
 In the coming months we'll be releasing **TalentLayer's Abstracted API and SDK** which will enable platforms to easily integrate TalentLayer without users interacting with web 3 at all: wallet-less onboarding,  delegation (no signing transactions, or approving payments),  fiat payments, and more.&#x20;
@@ -34,8 +34,8 @@ Learn about how TalentLayer helps your platform and explore options for how to i
 
 Add TalentLayer to an existing marketplace or build one from scratch with the TalentLayer Web 3 SDK and API.&#x20;
 
-{% content-ref url="web-3-sdk-and-api.md" %}
-[web-3-sdk-and-api.md](web-3-sdk-and-api.md)
+{% content-ref url="technical-guides/web-3-sdk-and-api.md" %}
+[web-3-sdk-and-api.md](technical-guides/web-3-sdk-and-api.md)
 {% endcontent-ref %}
 
 ### Use a Starter Codebase
