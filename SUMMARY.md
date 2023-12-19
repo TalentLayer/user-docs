@@ -1,7 +1,6 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-  * [Current Network Liquidity](introduction/current-network-liquidity.md)
   * [Value Proposition](introduction/value-proposition.md)
   * [Options for Integration](introduction/options-for-integration/README.md)
     * [On-Demand Integration](introduction/options-for-integration/on-demand-integration.md)
@@ -17,6 +16,7 @@
       * [Arbitration](introduction/basics/escrow-and-dispute/arbitration/README.md)
         * [Kleros Arbitration](introduction/basics/escrow-and-dispute/arbitration/disputes.md)
         * [Platform Managed Arbitration](introduction/basics/escrow-and-dispute/arbitration/platform-managed-arbitration.md)
+  * [Current Network Liquidity](introduction/current-network-liquidity.md)
   * [Decentralization](introduction/decentralization.md)
 * [⚙ Technical Guides](technical-guides/README.md)
   * [Web 3 SDK & API](technical-guides/web-3-sdk-and-api.md)
