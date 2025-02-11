@@ -4,8 +4,7 @@
 
 TalentLayer **is a protocol for building decentralized service marketplace applications** like Uber, Postmates, Rappi, and others.&#x20;
 
-TalentLayer can help you build new marketplaces - with the protocol replacing key backend components, helping you go to market faster. \
-\
+TalentLayer can help you build new marketplaces - with the protocol replacing key backend components, helping you go to market faster. 
 
 **Why leverage a protocol for your marketplace app?** Tap into a unified network effect; many interfaces have access to one pool of users, offers, and products. This increases efficiency of supply and demand matching, and helps marketplaces overcome the chicken and egg problem.
 
