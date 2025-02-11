@@ -2,17 +2,18 @@
 
 ## The TalentLayer TLDR
 
-TalentLayer **helps marketplace applications like freelance marketplaces and ride-share apps access additional supply or demand when they need it** by tapping into a wider network of users.&#x20;
+TalentLayer **is a protocol for building decentralized service marketplace applications** like Uber, Postmates, Rappi, and others.&#x20;
 
-TalentLayer can also be to build new marketplaces on top of - replacing key backend components, helping you go to market faster. \
+TalentLayer can help you build new marketplaces - with the protocol replacing key backend components, helping you go to market faster. \
 \
+
+**Why leverage a protocol for your marketplace app?** Tap into a unified network effect; many interfaces have access to one pool of users, offers, and products. This increases efficiency of supply and demand matching, and helps marketplaces overcome the chicken and egg problem.
+
 **TalentLayer's Web 3 API and SDK** is live and available for integration. The Web 3 API and SDK assumes a web 3 native user experience on the platform level. Account delegation and gassless are enabled today so that platform developers can implement account abstraction optionally.
 
 {% content-ref url="technical-guides/web-3-sdk-and-api.md" %}
 [web-3-sdk-and-api.md](technical-guides/web-3-sdk-and-api.md)
 {% endcontent-ref %}
-
-In the coming months we'll be releasing **TalentLayer's Abstracted API and SDK** which will enable platforms to easily integrate TalentLayer without users interacting with web 3 at all: wallet-less onboarding,  delegation (no signing transactions, or approving payments),  fiat payments, and more.&#x20;
 
 ## Key Concepts in TalentLayer
 
